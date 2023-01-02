@@ -13,9 +13,9 @@ dataloader_options:
 blank_index: 0
 num_labels: 44
 
-data_folder: "/content/CRDNN_Model/AudioSamplesASR"
-json_train: "/content/CRDNN_Model/ASR_train.json"
-json_dev: "/content/CRDNN_Model/ASR_dev.json"
+data_folder: "/content/TIMITDATA"
+json_train: "/content/CRDNN_Model/train.json"
+json_dev: "/content/CRDNN_Model/valid.json"
 
 # Model parameters
 activation: !name:torch.nn.LeakyReLU []
