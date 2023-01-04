@@ -13,9 +13,9 @@ dataloader_options:
 blank_index: 0
 num_labels: 44
 
-data_folder: "/content/TIMITDATA"
-json_train: "/content/CRDNN_Model/train.json"
-json_dev: "/content/CRDNN_Model/valid.json"
+data_folder: "/content/CRDNN_Model/AudioSamplesASR"
+json_train: "/content/CRDNN_Model/ASR_train.json"
+json_dev: "/content/CRDNN_Model/ASR_dev.json"
 output_folder: '/content/CRDNN_Model/result'
 per_file: !ref <output_folder>/per.txt
 train_log: !ref <output_folder>/train_log.txt
