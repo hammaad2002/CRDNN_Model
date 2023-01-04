@@ -16,6 +16,19 @@ num_labels: 44
 data_folder: "/content/TIMITDATA"
 json_train: "/content/CRDNN_Model/train.json"
 json_dev: "/content/CRDNN_Model/valid.json"
+output_folder: '/content/CRDNN_Model/result'
+per_file: !ref <output_folder>/per.txt
+train_log: !ref <output_folder>/train_log.txt
+
+# The first object passed to the Brain class is this "Epoch Counter"
+# which is saved by the Checkpointer so that training can be resumed
+# if it gets interrupted at any point.
+epoch_counter: !new:speechbrain.utils.epoch_loop.EpochCounter
+    limit: !ref <N_epochs>
+
+# The train logger writes training statistics to a file, as well as stdout.
+train_logger: !new:speechbrain.utils.train_logger.FileTrainLogger
+    save_file: !ref <train_log>
 
 # Model parameters
 activation: !name:torch.nn.LeakyReLU []
