@@ -1,0 +1,13 @@
+                                  TASKS                                | Done-or-not |
+-----------------------------------------------------------------------|-------------|---------
+1) Store output                                                        |     Done    |
+2) What is len                                                         |     Done    |
+3) Sig ki conversion to phoneme kuch is tarhah ka sawal tha            |     Done    | 
+4) Language model configurations                                       |   Not done  |
+5) LM kese use kareinge                                                |   Not done  |
+6) What is wav and sig in the conversion function                      |     Done    |
+7) TIMIT train                                                         |     Done    |
+8) Make inference on model using test data                             |   Not done  |
+
+
+
