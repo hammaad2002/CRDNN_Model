@@ -1,0 +1,51 @@
+%WER 11.59 [ 19 / 164, 0 ins, 19 del, 0 sub ]
+%SER 75.00 [ 6 / 8 ]
+Scored 8 sentences, 0 not present in hyp.
+================================================================================
+ALIGNMENTS
+
+Format:
+<utterance-id>, WER DETAILS
+<eps> ; reference  ; on ; the ; first ;  line
+  I   ;     S      ; =  ;  =  ;   S   ;   D  
+ and  ; hypothesis ; on ; the ; third ; <eps>
+================================================================================
+spk1_snt1, %WER 13.04 [ 3 / 23, 0 ins, 3 del, 0 sub ]
+dh ;   ax  ;   ch  ; ay ; l ; d ; ao ; l ; m ; ow ;   s   ; t ; hh ; er ; t ; dh ; ax ; s ; m ; ao ; l ; d ; ao
+=  ;   D   ;   D   ; =  ; = ; = ; =  ; = ; = ; =  ;   D   ; = ; =  ; =  ; = ; =  ; =  ; = ; = ; =  ; = ; = ; = 
+dh ; <eps> ; <eps> ; ay ; l ; d ; ao ; l ; m ; ow ; <eps> ; t ; hh ; er ; t ; dh ; ax ; s ; m ; ao ; l ; d ; ao
+================================================================================
+spk1_snt2, %WER 13.64 [ 3 / 22, 0 ins, 3 del, 0 sub ]
+d ; r ; ao ; p ; dh ; ax ; t ;   uw  ; w ; eh ; n ; y ; uw ;   ae  ; d ; dh ; ax ; f ; ix ;   g   ; y ; er
+= ; = ; =  ; = ; =  ; =  ; = ;   D   ; = ; =  ; = ; = ; =  ;   D   ; = ; =  ; =  ; = ; =  ;   D   ; = ; = 
+d ; r ; ao ; p ; dh ; ax ; t ; <eps> ; w ; eh ; n ; y ; uw ; <eps> ; d ; dh ; ax ; f ; ix ; <eps> ; y ; er
+================================================================================
+spk1_snt3, %WER 23.81 [ 5 / 21, 0 ins, 5 del, 0 sub ]
+  ae  ; t ; dh ; ae ; t ;   hh  ; ay ; l ; eh ; v ; ax ; l ; dh ;   iy  ; eh ; r ;   ix  ; z ; p ; y ;   uh 
+  D   ; = ; =  ; =  ; = ;   D   ; =  ; = ; =  ; = ; =  ; = ; =  ;   D   ; =  ; = ;   D   ; = ; = ; = ;   D  
+<eps> ; t ; dh ; ae ; t ; <eps> ; ay ; l ; eh ; v ; ax ; l ; dh ; <eps> ; eh ; r ; <eps> ; z ; p ; y ; <eps>
+================================================================================
+spk1_snt4, %WER 9.09 [ 2 / 22, 0 ins, 2 del, 0 sub ]
+  ey  ; th ; ix ; n ;   s   ; t ; r ; ay ; p ; r ; ax ; n ; z ; d ; aw ; n ; dh ; ax ; m ; ix ; d ; ax
+  D   ; =  ; =  ; = ;   D   ; = ; = ; =  ; = ; = ; =  ; = ; = ; = ; =  ; = ; =  ; =  ; = ; =  ; = ; = 
+<eps> ; th ; ix ; n ; <eps> ; t ; r ; ay ; p ; r ; ax ; n ; z ; d ; aw ; n ; dh ; ax ; m ; ix ; d ; ax
+================================================================================
+spk2_snt1, %WER 0.00 [ 0 / 20, 0 ins, 0 del, 0 sub ]
+w ; iy ; er ; zh ; ao ; r ; dh ; ax ; dx ; w ; ax ; n ; w ; ao ; r ; ix ; z ; ix ; n ; ax
+= ; =  ; =  ; =  ; =  ; = ; =  ; =  ; =  ; = ; =  ; = ; = ; =  ; = ; =  ; = ; =  ; = ; = 
+w ; iy ; er ; zh ; ao ; r ; dh ; ax ; dx ; w ; ax ; n ; w ; ao ; r ; ix ; z ; ix ; n ; ax
+================================================================================
+spk2_snt2, %WER 0.00 [ 0 / 16, 0 ins, 0 del, 0 sub ]
+w ; ax ; t ; jh ; oy ; dh ; eh ; r ; ix ; z ; ix ; n ; l ; ix ; v ; ix
+= ; =  ; = ; =  ; =  ; =  ; =  ; = ; =  ; = ; =  ; = ; = ; =  ; = ; = 
+w ; ax ; t ; jh ; oy ; dh ; eh ; r ; ix ; z ; ix ; n ; l ; ix ; v ; ix
+================================================================================
+spk2_snt3, %WER 14.29 [ 3 / 21, 0 ins, 3 del, 0 sub ]
+t ; eh ; r ; ax ; th ; ix ; n ;   zh  ;   iy  ; t ; f ; er ; m ; dh ; iy ; y ; eh ; l ; ow ; p ;   ae 
+= ; =  ; = ; =  ; =  ; =  ; = ;   D   ;   D   ; = ; = ; =  ; = ; =  ; =  ; = ; =  ; = ; =  ; = ;   D  
+t ; eh ; r ; ax ; th ; ix ; n ; <eps> ; <eps> ; t ; f ; er ; m ; dh ; iy ; y ; eh ; l ; ow ; p ; <eps>
+================================================================================
+spk2_snt4, %WER 15.79 [ 3 / 19, 0 ins, 3 del, 0 sub ]
+m ; eh ; n ; d ; dh ;   ax  ;   k   ; ow ; t ; b ; ix ; f ; ao ; r ; y ; uw ; g ; ow ;   aw 
+= ; =  ; = ; = ; =  ;   D   ;   D   ; =  ; = ; = ; =  ; = ; =  ; = ; = ; =  ; = ; =  ;   D  
+m ; eh ; n ; d ; dh ; <eps> ; <eps> ; ow ; t ; b ; ix ; f ; ao ; r ; y ; uw ; g ; ow ; <eps>

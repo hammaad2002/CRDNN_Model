@@ -11,13 +11,14 @@ dataloader_options:
 
 # Special tokens and labels
 blank_index: 0
-num_labels: 44
+num_labels: 40
 
 data_folder: "/content/CRDNN_Model/AudioSamplesASR"
 json_train: "/content/CRDNN_Model/ASR_train.json"
 json_dev: "/content/CRDNN_Model/ASR_dev.json"
 output_folder: '/content/CRDNN_Model/result'
 per_file: !ref <output_folder>/per.txt
+save_folder: !ref <output_folder>/save
 train_log: !ref <output_folder>/train_log.txt
 
 # The first object passed to the Brain class is this "Epoch Counter"
@@ -72,6 +73,8 @@ softmax: !new:speechbrain.nnet.activations.Softmax
 compute_cost: !name:speechbrain.nnet.losses.ctc_loss
     blank_index: !ref <blank_index>
 
+decoder: !name:speechbrain.decoders.ctc_greedy_decode
+
 modules:
     compute_features: !ref <compute_features>
     model: !ref <model>
@@ -82,3 +85,11 @@ opt_class: !name:torch.optim.Adam
     lr: !ref <lr>
 
 per_stats: !name:speechbrain.utils.metric_stats.ErrorRateStats
+
+checkpointer: !new:speechbrain.utils.checkpoints.Checkpointer
+    checkpoints_dir: !ref <save_folder>
+    recoverables:
+        model: !ref <model>
+        mean_var_norm: !ref <mean_var_norm>
+        lin: !ref <lin>
+        counter: !ref <epoch_counter> 

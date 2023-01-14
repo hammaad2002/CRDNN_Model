@@ -1,0 +1,16 @@
+epoch: 1 - train loss: 13.94 - valid loss: 8.69, valid PER: 84.76
+epoch: 2 - train loss: 7.74 - valid loss: 6.04, valid PER: 86.59
+epoch: 3 - train loss: 4.91 - valid loss: 3.85, valid PER: 84.15
+epoch: 4 - train loss: 3.65 - valid loss: 3.23, valid PER: 84.76
+epoch: 5 - train loss: 2.98 - valid loss: 2.84, valid PER: 81.10
+epoch: 6 - train loss: 2.61 - valid loss: 2.57, valid PER: 79.88
+epoch: 7 - train loss: 2.23 - valid loss: 2.39, valid PER: 76.22
+epoch: 8 - train loss: 1.95 - valid loss: 1.91, valid PER: 59.76
+epoch: 9 - train loss: 1.64 - valid loss: 1.63, valid PER: 53.05
+epoch: 10 - train loss: 1.37 - valid loss: 1.46, valid PER: 52.44
+epoch: 11 - train loss: 1.19 - valid loss: 1.26, valid PER: 40.24
+epoch: 12 - train loss: 1.03 - valid loss: 9.10e-01, valid PER: 26.83
+epoch: 13 - train loss: 7.92e-01 - valid loss: 6.64e-01, valid PER: 18.90
+epoch: 14 - train loss: 6.01e-01 - valid loss: 5.56e-01, valid PER: 17.68
+epoch: 15 - train loss: 4.47e-01 - valid loss: 4.13e-01, valid PER: 11.59
+Epoch loaded: 1 - test loss: 4.13e-01, test PER: 11.59
