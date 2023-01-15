@@ -1,0 +1,9 @@
+                                  TASKS                                | Done-or-Not done |
+-----------------------------------------------------------------------|------------------|---------
+1) Store output                                                        |       Done       |
+2) What is len                                                         |       Done       |
+3) Language model configurations                                       |     Not done     |
+4) How to use LM                                                       |     Not done     |
+5) What is wav and sig in the data_prep function                       |       Done       |
+6) TIMIT train                                                         |       Done       |
+7) Make inference on model using test data                             |       Done       |
