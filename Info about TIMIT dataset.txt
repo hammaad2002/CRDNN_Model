@@ -1,0 +1,5 @@
+TIMIT corpus:
+The original TIMIT database contains 6300 utterances, but we find the 'SA' audio files occurs
+many times, it will lead bad bias for our speech recognition system. Therefore, we removed the 
+all 'SA' files from the original dataset and attain the new TIMIT dataset, which contains only 
+5040 utterances including 3696 standard training set and 1344 test set.
