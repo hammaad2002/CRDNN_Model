@@ -1,0 +1,971 @@
+%WER 32.31 [ 1859 / 5754, 214 ins, 493 del, 1152 sub ]
+%SER 100.00 [ 192 / 192 ]
+Scored 192 sentences, 0 not present in hyp.
+================================================================================
+ALIGNMENTS
+
+Format:
+<utterance-id>, WER DETAILS
+<eps> ; reference  ; on ; the ; first ;  line
+  I   ;     S      ; =  ;  =  ;   S   ;   D  
+ and  ; hypothesis ; on ; the ; third ; <eps>
+================================================================================
+MDAB0_SI1039.WAV, %WER 36.96 [ 17 / 46, 1 ins, 4 del, 12 sub ]
+hh ; iy ; hh ; eh ; z ; n ; eh ; v ; er ; hh ; ix ;   m   ; s ; eh ; l ; f ; d ; ax ; n  ; ey ; hh ; ix ;   ng  ; f ; ow ; w ; ix ; ch ; t ; ax ;   b   ; iy ; hh ; ey ; dx ; ix ; w ; <eps> ; ix ; ch ; ix ; v ; ax ; s ; hh ; ae ;   z  
+=  ; =  ; =  ; S  ; = ; = ; S  ; = ; =  ; =  ; S  ;   D   ; = ; =  ; = ; = ; S ; S  ; S  ; =  ; =  ; S  ;   D   ; = ; =  ; = ; =  ; =  ; = ; S  ;   D   ; =  ; =  ; =  ; =  ; S  ; = ;   I   ; =  ; =  ; =  ; = ; S  ; = ; S  ; S  ;   D  
+hh ; iy ; hh ; ax ; z ; n ; ax ; v ; er ; hh ; n  ; <eps> ; s ; eh ; l ; f ; t ; uh ; dx ; ey ; hh ; ey ; <eps> ; f ; ow ; w ; ix ; ch ; t ; r  ; <eps> ; iy ; hh ; ey ; dx ; er ; w ;   uh  ; ix ; ch ; ix ; v ; ow ; s ; ax ; s  ; <eps>
+================================================================================
+MDAB0_SX319.WAV, %WER 34.62 [ 9 / 26, 3 ins, 3 del, 3 sub ]
+  ey  ; b ; iy ; <eps> ; <eps> ; g ; ow ; ay ; dx ; ax ; l ; iy ; ae ;   m   ; b ; l ; th ;   uw  ; dh ; ix ; f ; ao ; r ; m ; <eps> ; y ; ao ; r ; d
+  D   ; = ; =  ;   I   ;   I   ; = ; =  ; =  ; =  ; =  ; = ; =  ; S  ;   D   ; = ; = ; S  ;   D   ; =  ; =  ; = ; =  ; = ; S ;   I   ; = ; =  ; = ; =
+<eps> ; b ; iy ;   b   ;   ix  ; g ; ow ; ay ; dx ; ax ; l ; iy ; ix ; <eps> ; b ; l ; s  ; <eps> ; dh ; ix ; f ; ao ; r ; r ;   ix  ; y ; ao ; r ; d
+================================================================================
+MDAB0_SX49.WAV, %WER 48.15 [ 13 / 27, 0 ins, 4 del, 9 sub ]
+ae ; t ; w ; ao ; l ; ay ; t ; ax ; m ; ax ; t ; w  ; eh ; l  ;   th  ;   d   ; ey ;   w   ; l ; hh ; ae ;   v   ; zh ; ax ; b ; l ; iy
+=  ; = ; = ; =  ; = ; S  ; = ; =  ; S ; =  ; S ; S  ; S  ; S  ;   D   ;   D   ; =  ;   D   ; = ; =  ; S  ;   D   ; =  ; S  ; = ; S ; = 
+ae ; t ; w ; ao ; l ; ey ; t ; ax ; n ; ax ; s ; ow ; f  ; dh ; <eps> ; <eps> ; ey ; <eps> ; l ; hh ; ax ; <eps> ; zh ; ix ; b ; w ; iy
+================================================================================
+MDAB0_SI2299.WAV, %WER 47.06 [ 16 / 34, 0 ins, 4 del, 12 sub ]
+s ; ax ; m  ; t ; ay ; m  ; s ; iy ; k ; ow ; ax ;   n   ; s ; ay ; dx ; ax ; w ; ax ; th ; m ; ay ; f ; ao ; dh ;   ix  ; z ; b ; iy ; ng ; eh ;   t   ;   hh  ; ow ; m
+= ; =  ; S  ; = ; S  ; S  ; = ; =  ; = ; =  ; S  ;   D   ; = ; =  ; =  ; S  ; = ; =  ; S  ; S ; S  ; = ; =  ; S  ;   D   ; = ; = ; =  ; S  ; S  ;   D   ;   D   ; =  ; S
+s ; ax ; ng ; t ; hh ; aw ; s ; iy ; k ; ow ; ao ; <eps> ; s ; ay ; dx ; ix ; w ; ax ; v  ; l ; eh ; f ; ao ; ax ; <eps> ; z ; b ; iy ; ix ; v  ; <eps> ; <eps> ; ow ; l
+================================================================================
+MDAB0_SX139.WAV, %WER 33.33 [ 11 / 33, 1 ins, 4 del, 6 sub ]
+dh ; ax ; b ; ax ;   ng  ; g ; l ; ow ; w  ; ax ; <eps> ; z ; p ; l ; ax ;   z   ;   n   ; l ; ix ; s ; ix ; ch ;   ax  ; w ; ix ; dx ; ix ; n ; ix ; dh ; ix ; zh ; ao ; r
+=  ; =  ; = ; =  ;   D   ; = ; = ; =  ; S  ; S  ;   I   ; = ; S ; = ; S  ;   D   ;   D   ; = ; =  ; = ; =  ; =  ;   D   ; = ; =  ; =  ; S  ; S ; =  ; =  ; =  ; =  ; =  ; =
+dh ; ax ; b ; ax ; <eps> ; g ; l ; ow ; dx ; l  ;   ix  ; z ; k ; l ; s  ; <eps> ; <eps> ; l ; ix ; s ; ix ; ch ; <eps> ; w ; ix ; dx ; er ; g ; ix ; dh ; ix ; zh ; ao ; r
+================================================================================
+MDAB0_SX409.WAV, %WER 31.58 [ 12 / 38, 0 ins, 6 del, 6 sub ]
+iy ; dx ; iy ; ng ; s ; p ; ix ; n  ; eh ; ch ; n ; ay ; l ; iy ;   ix  ;   ng  ; k ; r ; iy ; s ; ix ; s ; t ; r ; eh ;   n   ; th ;   m   ; er ; ae ; k ;   y   ;   ax  ; l ; ix ; s ; l ; iy
+=  ; =  ; =  ; =  ; = ; = ; =  ; S  ; S  ; =  ; = ; S  ; = ; =  ;   D   ;   D   ; = ; = ; =  ; = ; =  ; = ; = ; = ; S  ;   D   ; =  ;   D   ; =  ; =  ; S ;   D   ;   D   ; = ; S  ; = ; = ; = 
+iy ; dx ; iy ; ng ; s ; p ; ix ; dx ; ix ; ch ; n ; ey ; l ; iy ; <eps> ; <eps> ; k ; r ; iy ; s ; ix ; s ; t ; r ; ix ; <eps> ; th ; <eps> ; er ; ae ; f ; <eps> ; <eps> ; l ; ow ; s ; l ; iy
+================================================================================
+MDAB0_SX229.WAV, %WER 73.68 [ 14 / 19, 1 ins, 7 del, 6 sub ]
+ao ;   r   ;   y   ;   ix  ; l ; uh ;   k   ; iy ; n ;   f   ; r ;   ow  ;   m   ; p ; l ; oy ; m ; ix ; <eps> ; t
+S  ;   D   ;   D   ;   D   ; = ; S  ;   D   ; =  ; S ;   D   ; = ;   D   ;   D   ; = ; = ; S  ; S ; S  ;   I   ; =
+iy ; <eps> ; <eps> ; <eps> ; l ; hh ; <eps> ; iy ; v ; <eps> ; r ; <eps> ; <eps> ; p ; l ; ix ; n ; l  ;   ax  ; t
+================================================================================
+MDAB0_SI1669.WAV, %WER 26.92 [ 7 / 26, 1 ins, 5 del, 1 sub ]
+b ; iy ;   ix  ;   k   ; s ; ay ; dx ; ix ; d ; ix ; n ; d ;   ow  ; n ; ax ; d ; eh ;   n   ; ax ; f ;   ay  ; er ; <eps> ; s ; eh ; l ; f
+= ; =  ;   D   ;   D   ; = ; =  ; =  ; =  ; = ; =  ; = ; = ;   D   ; = ; =  ; = ; S  ;   D   ; =  ; = ;   D   ; =  ;   I   ; = ; =  ; = ; =
+b ; iy ; <eps> ; <eps> ; s ; ay ; dx ; ix ; d ; ix ; n ; d ; <eps> ; n ; ax ; d ; ix ; <eps> ; ax ; f ; <eps> ; er ;   ix  ; s ; eh ; l ; f
+================================================================================
+MWBT0_SX203.WAV, %WER 4.00 [ 1 / 25, 1 ins, 0 del, 0 sub ]
+dh ; ix ; k ; <eps> ; ao ; z ; w ; ey ; ix ; n ; d ; ix ; d ; ax ; b ; r ; ax ; p ; l ; iy ; eh ; dh ; ax ; zh ; ao ; r
+=  ; =  ; = ;   I   ; =  ; = ; = ; =  ; =  ; = ; = ; =  ; = ; =  ; = ; = ; =  ; = ; = ; =  ; =  ; =  ; =  ; =  ; =  ; =
+dh ; ix ; k ;   l   ; ao ; z ; w ; ey ; ix ; n ; d ; ix ; d ; ax ; b ; r ; ax ; p ; l ; iy ; eh ; dh ; ax ; zh ; ao ; r
+================================================================================
+MWBT0_SX383.WAV, %WER 43.33 [ 13 / 30, 3 ins, 3 del, 7 sub ]
+dh ; ix ; k ; <eps> ; ao ; p ; ix ; <eps> ; k ; l ; iy ; n  ; er ; z ; zh ; ae ; m  ; <eps> ; p ; uw ; d  ; ao ;   r   ; ao ; r ; iy ; eh ;   n   ; t ; l  ; r ;   ax  ; g
+=  ; =  ; = ;   I   ; =  ; = ; =  ;   I   ; = ; = ; =  ; S  ; =  ; = ; =  ; S  ; S  ;   I   ; = ; =  ; S  ; S  ;   D   ; =  ; = ; =  ; S  ;   D   ; = ; S  ; = ;   D   ; =
+dh ; ix ; k ;   r   ; ao ; p ; ix ;   p   ; k ; l ; iy ; dx ; er ; z ; zh ; ey ; ax ;   n   ; p ; uw ; dx ; aw ; <eps> ; ao ; r ; iy ; ax ; <eps> ; t ; ow ; r ; <eps> ; g
+================================================================================
+MWBT0_SI2183.WAV, %WER 25.00 [ 3 / 12, 0 ins, 1 del, 2 sub ]
+b ; uh ;   k   ; s ; ax ; f ; ax ; zh ; n ; uh ; k ; s
+= ; =  ;   D   ; = ; =  ; = ; =  ; =  ; = ; S  ; S ; =
+b ; uh ; <eps> ; s ; ax ; f ; ax ; zh ; n ; ao ; t ; s
+================================================================================
+MWBT0_SI1553.WAV, %WER 38.30 [ 18 / 47, 1 ins, 5 del, 12 sub ]
+hh ; aw ; eh ; <eps> ; v ; ax ; dh ; ax ; l ; ix ; dx ; er ; r ; iy ; m ; ey ; n  ; d ; ao ; m ; eh ;   n   ; t ; ix ; b ; ay ; s ; eh ; v ; r  ;   l   ; d ; ax ; z ; ix ; n ; l ; ax ;   n   ; ch ; r ;   uw  ;   m   ; s ; ax ; p ; er ; z 
+=  ; S  ; S  ;   I   ; = ; S  ; =  ; =  ; = ; =  ; =  ; =  ; = ; =  ; S ; =  ; S  ; = ; =  ; S ; S  ;   D   ; = ; =  ; = ; =  ; = ; S  ; = ; S  ;   D   ; = ; S  ; = ; S  ; = ; = ; =  ;   D   ; =  ; = ;   D   ;   D   ; = ; =  ; = ; =  ; S 
+hh ; ax ; w  ;   ax  ; v ; uh ; dh ; ax ; l ; ix ; dx ; er ; r ; iy ; l ; ey ; iy ; d ; ao ; b ; ax ; <eps> ; t ; ix ; b ; ay ; s ; ax ; v ; ow ; <eps> ; d ; ow ; z ; ax ; n ; l ; ax ; <eps> ; ch ; r ; <eps> ; <eps> ; s ; ax ; p ; er ; zh
+================================================================================
+MWBT0_SI923.WAV, %WER 21.88 [ 7 / 32, 0 ins, 1 del, 6 sub ]
+t ; uh ; m ; eh ; n  ; iy ; eh ; k ; s ; p ; er ; t  ;   s   ; dh ; ix ; s ; t ; r ; eh ; n ; w ; ax ; z ; ix ; n ; eh ; v ; ax ; dx ; ax ; b ; l
+= ; S  ; = ; =  ; S  ; =  ; =  ; = ; = ; = ; =  ; S  ;   D   ; =  ; =  ; = ; = ; = ; S  ; = ; = ; S  ; = ; =  ; = ; S  ; = ; =  ; =  ; =  ; = ; =
+t ; ix ; m ; eh ; dx ; iy ; eh ; k ; s ; p ; er ; ch ; <eps> ; dh ; ix ; s ; t ; r ; ix ; n ; w ; uh ; z ; ix ; n ; ax ; v ; ax ; dx ; ax ; b ; l
+================================================================================
+MWBT0_SX23.WAV, %WER 35.71 [ 10 / 28, 0 ins, 3 del, 7 sub ]
+dh ; ow ; z ; m ;   y   ; uw ; z ; ix ; zh ; ix ; n ; z ; hh ; ao ; m ; ax ; n ; ay ; z ; m ; ao ; v ; l ;   l   ; ax ; s  ; l  ;   ix 
+=  ; =  ; = ; = ;   D   ; =  ; = ; =  ; =  ; S  ; = ; = ; =  ; S  ; S ; S  ; = ; =  ; = ; S ; =  ; = ; = ;   D   ; =  ; S  ; S  ;   D  
+dh ; ow ; z ; m ; <eps> ; uw ; z ; ix ; zh ; uw ; n ; z ; hh ; aw ; n ; ix ; n ; ay ; z ; w ; ao ; v ; l ; <eps> ; ax ; zh ; oy ; <eps>
+================================================================================
+MWBT0_SX113.WAV, %WER 32.00 [ 8 / 25, 4 ins, 2 del, 2 sub ]
+ey ; m ; ax ; s ; k ; ix ; l ; <eps> ; ax ; ae ; d ; ax ;   m   ;   eh  ; n ; <eps> ; ix ; z ; g ; uh ; <eps> ; f ; ao ; <eps> ; y ; ix ; b ; ae ; k
+=  ; = ; =  ; = ; = ; =  ; = ;   I   ; =  ; S  ; = ; =  ;   D   ;   D   ; = ;   I   ; =  ; = ; = ; =  ;   I   ; = ; =  ;   I   ; = ; =  ; = ; S  ; =
+ey ; m ; ax ; s ; k ; ix ; l ;   ow  ; ax ; eh ; d ; ax ; <eps> ; <eps> ; n ;   ax  ; ix ; z ; g ; uh ;   d   ; f ; ao ;   r   ; y ; ix ; b ; aw ; k
+================================================================================
+MWBT0_SX293.WAV, %WER 25.71 [ 9 / 35, 1 ins, 1 del, 7 sub ]
+p  ;   l   ; iy ; z ; t ; ey ; <eps> ; dh ; ix ; s ; d ; er ; dx ; iy ; t ; ey ; b ; uh ; k ; l ; ao ; th ; t ; ix ; dh ; ix ; k ; l ; iy ; n ; ix ; z ; f ; ax ; m ; ey
+S  ;   D   ; =  ; = ; = ; =  ;   I   ; =  ; =  ; S ; S ; =  ; =  ; =  ; = ; =  ; = ; S  ; = ; = ; =  ; S  ; = ; =  ; =  ; =  ; = ; = ; =  ; = ; S  ; = ; = ; =  ; S ; = 
+dh ; <eps> ; iy ; z ; t ; ey ;   th  ; dh ; ix ; z ; t ; er ; dx ; iy ; t ; ey ; b ; l  ; k ; l ; ao ; f  ; t ; ix ; dh ; ix ; k ; l ; iy ; n ; ax ; z ; f ; ax ; n ; ey
+================================================================================
+FELC0_SX216.WAV, %WER 22.73 [ 5 / 22, 1 ins, 3 del, 1 sub ]
+dh ; ax ; s ; m ; ao ;   l   ; b ; oy ; p ; uh ; dh ; ax ; w ; er ; m ; ax ; n ;   dh  ;   ax  ; hh ; uh ; <eps> ; k
+=  ; =  ; = ; = ; =  ;   D   ; = ; =  ; = ; =  ; =  ; =  ; = ; =  ; = ; =  ; = ;   D   ;   D   ; =  ; S  ;   I   ; =
+dh ; ax ; s ; m ; ao ; <eps> ; b ; oy ; p ; uh ; dh ; ax ; w ; er ; m ; ax ; n ; <eps> ; <eps> ; hh ; w  ;   ow  ; k
+================================================================================
+FELC0_SX126.WAV, %WER 20.00 [ 5 / 25, 1 ins, 0 del, 4 sub ]
+ao ; r ; dx ; ix ; f ; ix ; zh ; l ; <eps> ; ix ; n ; t ; eh ; l ; ix ; jh ; ix ; n ; s ; ix ; z ; f ; er ; r ; iy ; l 
+=  ; = ; =  ; S  ; = ; =  ; =  ; = ;   I   ; =  ; = ; = ; =  ; = ; S  ; =  ; =  ; = ; = ; =  ; S ; = ; =  ; = ; =  ; S 
+ao ; r ; dx ; m  ; f ; ix ; zh ; l ;   ax  ; ix ; n ; t ; eh ; l ; ax ; jh ; ix ; n ; s ; ix ; s ; f ; er ; r ; iy ; ow
+================================================================================
+FELC0_SX396.WAV, %WER 23.81 [ 10 / 42, 0 ins, 4 del, 6 sub ]
+dh ; ix ; f ; ix ; zh ; b ; ix ; g ; ae ; n ; t ; ix ; l ; iy ; f ; r ; ae ; n ; t ; ix ; k ; l ; iy ; ax ; n ;   dh  ;   ax  ; s ; er ; f ; ax ; s ; ax ;   v   ; dh ;   ix  ; s ; m ; ao ; l ; ey ; k
+=  ; =  ; = ; =  ; =  ; S ; =  ; = ; =  ; = ; = ; =  ; = ; =  ; S ; = ; S  ; = ; = ; =  ; = ; = ; =  ; =  ; = ;   D   ;   D   ; = ; =  ; S ; =  ; = ; S  ;   D   ; =  ;   D   ; = ; = ; =  ; = ; S  ; =
+dh ; ix ; f ; ix ; zh ; p ; ix ; g ; ae ; n ; t ; ix ; l ; iy ; p ; r ; ix ; n ; t ; ix ; k ; l ; iy ; ax ; n ; <eps> ; <eps> ; s ; er ; v ; ax ; s ; ix ; <eps> ; dh ; <eps> ; s ; m ; ao ; l ; ay ; k
+================================================================================
+FELC0_SI756.WAV, %WER 29.41 [ 10 / 34, 2 ins, 4 del, 4 sub ]
+m  ; ix ; t ;   ix  ; r ; iy ;   ix  ; l ; s ; s ; er ; r ; ae ; m ; ix ; m ; ao ; dx ; l ; ix ; ng ; <eps> ; k ; l ;   ey  ; r ; eh ; d ; w ; ay ; <eps> ; ao ; r ; b ;   ao  ; f
+S  ; =  ; = ;   D   ; = ; =  ;   D   ; = ; = ; = ; =  ; = ; S  ; = ; =  ; = ; =  ; S  ; = ; =  ; =  ;   I   ; = ; = ;   D   ; = ; S  ; = ; = ; =  ;   I   ; =  ; = ; = ;   D   ; =
+dh ; ix ; t ; <eps> ; r ; iy ; <eps> ; l ; s ; s ; er ; r ; ix ; m ; ix ; m ; ao ; w  ; l ; ix ; ng ;   n   ; k ; l ; <eps> ; r ; ix ; d ; w ; ay ;   dx  ; ao ; r ; b ; <eps> ; f
+================================================================================
+FELC0_SI1386.WAV, %WER 23.64 [ 13 / 55, 2 ins, 2 del, 9 sub ]
+ix ; n  ; w ; ey ; jh ; n ; ix ; <eps> ; g ; ow ; zh ;   iy  ; ey ; zh ; ix ; n ; s ; dh ;   iy  ; ix ; n ; d ; ix ; s ; t ; r ; iy ; b ; ao ; r ; g ; ix ; n ; z ; eh ; z ; ey ; y ; uw ; n  ; ix ; <eps> ; w ; ix ; dh ; ix ; s ; ix ; ng ; g ; l  ; y ; uw ; n ; y ; ix ; n
+=  ; S  ; = ; =  ; =  ; = ; =  ;   I   ; = ; =  ; =  ;   D   ; =  ; =  ; =  ; = ; = ; S  ;   D   ; =  ; = ; = ; =  ; = ; = ; = ; =  ; = ; =  ; = ; S ; =  ; = ; = ; S  ; = ; S  ; = ; =  ; S  ; =  ;   I   ; = ; S  ; =  ; =  ; = ; =  ; S  ; = ; S  ; = ; =  ; = ; = ; =  ; =
+ix ; ng ; w ; ey ; jh ; n ; ix ;   n   ; g ; ow ; zh ; <eps> ; ey ; zh ; ix ; n ; s ; p  ; <eps> ; ix ; n ; d ; ix ; s ; t ; r ; iy ; b ; ao ; r ; p ; ix ; n ; z ; ax ; z ; ix ; y ; uw ; dx ; ix ;   n   ; w ; ax ; dh ; ix ; s ; ix ; n  ; g ; ow ; y ; uw ; n ; y ; ix ; n
+================================================================================
+FELC0_SX306.WAV, %WER 13.64 [ 3 / 22, 0 ins, 1 del, 2 sub ]
+ax ; ch ; ow ; z ; ix ; n ; f ; y ; uw ; w ; l ; b ; iy ; k ; ax ; m ; jh ; eh ; n ;   er  ; l ; s
+=  ; =  ; =  ; = ; =  ; = ; = ; = ; =  ; = ; = ; = ; =  ; = ; =  ; S ; S  ; =  ; = ;   D   ; = ; =
+ax ; ch ; ow ; z ; ix ; n ; f ; y ; uw ; w ; l ; b ; iy ; k ; ax ; n ; t  ; eh ; n ; <eps> ; l ; s
+================================================================================
+FELC0_SX36.WAV, %WER 27.78 [ 10 / 36, 0 ins, 2 del, 8 sub ]
+ow ;   n   ; l ; ix ; dh ; ix ; m ; ow ; s ; t ; ix ; k ; ao ; m ; p ; l ; ix ; zh ; ao ; r ; dx ; ix ; s ; ax ; t ; ey ; n ; p ; ao ; p ; ix ; l ;   eh  ; er ; dx ; iy
+S  ;   D   ; = ; S  ; S  ; =  ; = ; =  ; = ; = ; =  ; = ; =  ; = ; = ; = ; S  ; S  ; =  ; = ; =  ; S  ; = ; =  ; = ; S  ; = ; = ; S  ; = ; =  ; = ;   D   ; =  ; =  ; = 
+ao ; <eps> ; l ; iy ; d  ; ix ; m ; ow ; s ; t ; ix ; k ; ao ; m ; p ; l ; ax ; s  ; ao ; r ; dx ; ax ; s ; ax ; t ; uw ; n ; p ; ow ; p ; ix ; l ; <eps> ; er ; dx ; iy
+================================================================================
+FELC0_SI2016.WAV, %WER 16.00 [ 4 / 25, 2 ins, 0 del, 2 sub ]
+hh ; iy ; v ; ao ; <eps> ; n ; <eps> ; ow ; z ; r ; ow ; p ; s ; dh ; ix ; b ; ow ; s ; k ; ax ; m ; ax ; n ; s ; t ; ax ; k
+=  ; =  ; = ; =  ;   I   ; = ;   I   ; =  ; = ; = ; =  ; = ; = ; =  ; S  ; = ; =  ; = ; = ; =  ; = ; =  ; = ; = ; = ; S  ; =
+hh ; iy ; v ; ao ;   r   ; n ;   l   ; ow ; z ; r ; ow ; p ; s ; dh ; ax ; b ; ow ; s ; k ; ax ; m ; ax ; n ; s ; t ; ow ; k
+================================================================================
+MWEW0_SX191.WAV, %WER 19.23 [ 5 / 26, 0 ins, 2 del, 3 sub ]
+w ; ix ; d ; r ; ao ;   ao  ; l ; f ; ow ; n ; iy ; ae ; k ; y  ;   ix  ; z ; ey ; zh ; ix ; n ; z ; ix ; w ; ax ; n ; s
+= ; =  ; = ; = ; =  ;   D   ; = ; = ; S  ; = ; =  ; =  ; = ; S  ;   D   ; = ; =  ; =  ; =  ; = ; = ; =  ; = ; S  ; = ; =
+w ; ix ; d ; r ; ao ; <eps> ; l ; f ; ao ; n ; iy ; ae ; k ; iy ; <eps> ; z ; ey ; zh ; ix ; n ; z ; ix ; w ; ao ; n ; s
+================================================================================
+MWEW0_SX371.WAV, %WER 35.48 [ 11 / 31, 1 ins, 1 del, 9 sub ]
+r ; ay ; n ; aw ; m ; ey ; n ; ao ; b ; iy ; dh ; ix ; b ; eh ; s ; t ; ay ;   m   ; f ; er ; b ; ix ; z ; n ; ix ; s ; m ; <eps> ; er ; jh ; er ; z
+= ; S  ; = ; S  ; = ; S  ; = ; S  ; = ; S  ; =  ; =  ; = ; =  ; = ; = ; =  ;   D   ; = ; =  ; = ; =  ; = ; = ; S  ; = ; S ;   I   ; =  ; S  ; =  ; S
+r ; ey ; n ; ow ; m ; ix ; n ; eh ; b ; ix ; dh ; ix ; b ; eh ; s ; t ; ay ; <eps> ; f ; er ; b ; ix ; z ; n ; ax ; s ; n ;   l   ; er ; d  ; er ; s
+================================================================================
+MWEW0_SI1991.WAV, %WER 34.04 [ 16 / 47, 2 ins, 5 del, 9 sub ]
+l ;   ao  ; dx ;   ax  ; v ;   p   ; iy ; p ; l  ; w ; l ; r ; ow ; m ; dh ; ix ; s ; t ; r ; iy ; s ; ix ; n ; k ; ao ; s ; t ; uw ; m ; z ; ix ; n ; m ; ae ; s ; <eps> ; s ; ix ; n ; hh ;   ae  ; v ; ix ; ng ; ax ; <eps> ; b ;   ao  ; l
+S ;   D   ; =  ;   D   ; = ;   D   ; =  ; = ; S  ; = ; = ; = ; =  ; S ; =  ; =  ; = ; = ; = ; =  ; S ; =  ; = ; = ; S  ; = ; = ; S  ; S ; = ; =  ; S ; = ; =  ; = ;   I   ; = ; =  ; = ; S  ;   D   ; = ; =  ; =  ; =  ;   I   ; = ;   D   ; =
+w ; <eps> ; dx ; <eps> ; v ; <eps> ; iy ; p ; ix ; w ; l ; r ; ow ; n ; dh ; ix ; s ; t ; r ; iy ; t ; ix ; n ; k ; ae ; s ; t ; ix ; n ; z ; ix ; m ; m ; ae ; s ;   k   ; s ; ix ; n ; eh ; <eps> ; v ; ix ; ng ; ax ;   m   ; b ; <eps> ; l
+================================================================================
+MWEW0_SI731.WAV, %WER 28.57 [ 6 / 21, 3 ins, 1 del, 2 sub ]
+ax ; f ;   uw  ; y ; ix ; <eps> ; er ; <eps> ; z ; l ; ey ; dx ; er ; dh ; ix ; d ; ow ; m ; <eps> ; f ; eh ; l ; ix ; n
+=  ; = ;   D   ; = ; S  ;   I   ; =  ;   I   ; = ; = ; =  ; =  ; =  ; S  ; =  ; = ; =  ; = ;   I   ; = ; =  ; = ; =  ; =
+ax ; f ; <eps> ; y ; iy ;   y   ; er ;   v   ; z ; l ; ey ; dx ; er ; d  ; ix ; d ; ow ; m ;   p   ; f ; eh ; l ; ix ; n
+================================================================================
+MWEW0_SX281.WAV, %WER 27.59 [ 8 / 29, 0 ins, 3 del, 5 sub ]
+k ; ao ; r ; iy ; ix ; n ; t ; r ; ix ; zh ; p ; l ; ey ; t ; ae ; w ; ix ; b ; iy ; ch ; b ;   ao  ; l ;   z   ; f ; er ;   aw  ; er ; z
+= ; =  ; = ; =  ; =  ; = ; = ; = ; S  ; =  ; = ; = ; S  ; = ; S  ; = ; S  ; = ; =  ; S  ; = ;   D   ; = ;   D   ; = ; =  ;   D   ; =  ; =
+k ; ao ; r ; iy ; ix ; n ; t ; r ; uh ; zh ; p ; l ; ix ; t ; eh ; w ; uh ; b ; iy ; jh ; b ; <eps> ; l ; <eps> ; f ; er ; <eps> ; er ; z
+================================================================================
+MWEW0_SX101.WAV, %WER 53.66 [ 22 / 41, 2 ins, 5 del, 15 sub ]
+k ; ix ; n ; er ; g ; ax ;   r   ; n ; ch ; ix ; l  ; d  ;   er  ; n ; d ; eh ; k ; er ; <eps> ; r ; ey ; dh ; er ; k ; l ; ae ; s  ; r ; uw ; m ; z ; f ;   er  ; ao ; l ;   hh  ; ao ; l ;   ax  ; d ; ey ; z  ; <eps>
+S ; =  ; = ; S  ; = ; S  ;   D   ; = ; S  ; S  ; S  ; S  ;   D   ; = ; = ; =  ; = ; =  ;   I   ; = ; =  ; =  ; =  ; = ; = ; S  ; S  ; = ; S  ; S ; S ; S ;   D   ; =  ; = ;   D   ; =  ; = ;   D   ; = ; S  ; S  ;   I  
+t ; ix ; n ; ix ; g ; er ; <eps> ; n ; zh ; ow ; dx ; ix ; <eps> ; n ; d ; eh ; k ; er ;   er  ; r ; ey ; dh ; er ; k ; l ; eh ; zh ; r ; er ; n ; t ; r ; <eps> ; ao ; l ; <eps> ; ao ; l ; <eps> ; d ; dx ; ix ;   s  
+================================================================================
+MWEW0_SX11.WAV, %WER 30.77 [ 4 / 13, 1 ins, 0 del, 3 sub ]
+hh ; iy ; w ; l ; ax ; l ; aw ; er ; r ; eh ; r  ; <eps> ; l ; ay
+=  ; =  ; S ; = ; S  ; = ; =  ; =  ; = ; =  ; S  ;   I   ; = ; = 
+hh ; iy ; v ; l ; ow ; l ; aw ; er ; r ; eh ; er ;   ix  ; l ; ay
+================================================================================
+MWEW0_SI1361.WAV, %WER 43.33 [ 13 / 30, 6 ins, 2 del, 5 sub ]
+b ; <eps> ; ax ; dx ; ix ; n ; ix ; s ; <eps> ; w ; ax ; <eps> ; n ; s ; eh ; zh ; n ; <eps> ; w ; iy ; <eps> ; w ; eh ;   l   ; k ; ax ; m ; d ;   ax  ; ao ; <eps> ; dx ; ix ; dx ; er ; z
+= ;   I   ; =  ; =  ; =  ; = ; =  ; = ;   I   ; = ; S  ;   I   ; = ; = ; =  ; S  ; = ;   I   ; = ; S  ;   I   ; = ; S  ;   D   ; = ; =  ; S ; = ;   D   ; =  ;   I   ; =  ; =  ; =  ; =  ; =
+b ;   w   ; ax ; dx ; ix ; n ; ix ; s ;   f   ; w ; ao ;   r   ; n ; s ; eh ; ch ; n ;   ng  ; w ; ix ;   ng  ; w ; ow ; <eps> ; k ; ax ; n ; d ; <eps> ; ao ;   ax  ; dx ; ix ; dx ; er ; z
+================================================================================
+FPAS0_SI944.WAV, %WER 35.71 [ 10 / 28, 2 ins, 5 del, 3 sub ]
+ix ;   v   ;   dh  ; ax ; f ; ao ; r ;   m   ; ix ; z ; r ; eh ; n ; t ; ix ; dh ; ax ; r ; eh ;   n   ; m ; ax ; s ;   b   ; iy ; p ; <eps> ; <eps> ; ey ; d
+S  ;   D   ;   D   ; =  ; = ; =  ; = ;   D   ; =  ; = ; = ; =  ; = ; = ; =  ; =  ; S  ; = ; S  ;   D   ; = ; =  ; = ;   D   ; =  ; = ;   I   ;   I   ; =  ; =
+hh ; <eps> ; <eps> ; ax ; f ; ao ; r ; <eps> ; ix ; z ; r ; eh ; n ; t ; ix ; dh ; ix ; r ; ay ; <eps> ; m ; ax ; s ; <eps> ; iy ; p ;   eh  ;   n   ; ey ; d
+================================================================================
+FPAS0_SX404.WAV, %WER 19.23 [ 5 / 26, 1 ins, 3 del, 1 sub ]
+b ; ao ; r ; b ; er ; n ; p ; ey ; p ; <eps> ; er ; n ; l ; iy ;   v   ; z ; ix ; n ; ax ; b ; ix ; b ; ao ;   n   ; f ;   ay  ; er
+= ; =  ; = ; = ; =  ; = ; = ; =  ; = ;   I   ; =  ; = ; = ; =  ;   D   ; = ; =  ; = ; S  ; = ; =  ; = ; =  ;   D   ; = ;   D   ; = 
+b ; ao ; r ; b ; er ; n ; p ; ey ; p ;   r   ; er ; n ; l ; iy ; <eps> ; z ; ix ; n ; ix ; b ; ix ; b ; ao ; <eps> ; f ; <eps> ; er
+================================================================================
+FPAS0_SX314.WAV, %WER 45.71 [ 16 / 35, 0 ins, 4 del, 12 sub ]
+ix ; f  ; p ; iy ; p ; l  ; w ;   er  ; m ; ao ; r ; jh ; eh ; n ; er ;   ix  ; s ; dh ; eh ;   r   ; b ; iy ; n ; ow ; n ; iy ; d ; f ; er ; w ; eh ; l ; f ; eh ;   r  
+=  ; S  ; S ; =  ; S ; S  ; S ;   D   ; = ; =  ; = ; S  ; S  ; = ; =  ;   D   ; = ; S  ; S  ;   D   ; = ; S  ; = ; =  ; = ; =  ; = ; = ; =  ; = ; S  ; = ; = ; S  ;   D  
+ix ; th ; t ; iy ; b ; ao ; r ; <eps> ; m ; ao ; r ; t  ; ax ; n ; er ; <eps> ; s ; th ; er ; <eps> ; b ; ix ; n ; ow ; n ; iy ; d ; f ; er ; w ; ow ; l ; f ; er ; <eps>
+================================================================================
+FPAS0_SI1272.WAV, %WER 33.33 [ 6 / 18, 1 ins, 3 del, 2 sub ]
+<eps> ; l ; ae ; r ; ix ; t ; er ;   iy  ; ae ; s ; t  ;   r   ;   ax  ; f ; ix ; z ; ix ; k ; s
+  I   ; = ; S  ; = ; =  ; = ; =  ;   D   ; =  ; = ; S  ;   D   ;   D   ; = ; =  ; = ; =  ; = ; =
+  w   ; l ; ao ; r ; ix ; t ; er ; <eps> ; ae ; s ; er ; <eps> ; <eps> ; f ; ix ; z ; ix ; k ; s
+================================================================================
+FPAS0_SX224.WAV, %WER 12.50 [ 2 / 16, 0 ins, 1 del, 1 sub ]
+hh ; aw ; g ; uh ; dx ; ix ; z ; y ; er ;   ix  ; n ; d ; er ; ix ; n ; s
+=  ; =  ; = ; =  ; S  ; =  ; = ; = ; =  ;   D   ; = ; = ; =  ; =  ; = ; =
+hh ; aw ; g ; uh ; v  ; ix ; z ; y ; er ; <eps> ; n ; d ; er ; ix ; n ; s
+================================================================================
+FPAS0_SX134.WAV, %WER 37.84 [ 14 / 37, 1 ins, 4 del, 9 sub ]
+d ; ix ; s ; eh ; m ; b ; er ; ng ; <eps> ; jh ; y ; ae ; n ; y ; uw ;   er  ;   ix  ; n ; ay ; s ; m ; ax ; n ;   th  ; s ; t ; ix ; s ; p ; eh ; n ; ix ;   n   ; m ; ay ; ae ; m ; iy
+= ; =  ; = ; S  ; = ; = ; S  ; S  ;   I   ; =  ; = ; S  ; = ; S ; S  ;   D   ;   D   ; = ; =  ; = ; = ; =  ; = ;   D   ; = ; = ; =  ; S ; = ; S  ; = ; =  ;   D   ; = ; =  ; S  ; = ; = 
+d ; ix ; s ; ax ; m ; b ; r  ; ix ;   n   ; jh ; y ; eh ; n ; r ; r  ; <eps> ; <eps> ; n ; ay ; s ; m ; ax ; n ; <eps> ; s ; t ; ix ; z ; p ; ax ; n ; ix ; <eps> ; m ; ay ; ix ; m ; iy
+================================================================================
+FPAS0_SX44.WAV, %WER 35.71 [ 10 / 28, 0 ins, 3 del, 7 sub ]
+b ; ae ; s ; k ; ix ; b ; ao ;   l   ; k ; ix ; n ; b ; iy ;   ix  ; n ; eh ; n ; t ; er ; ch ; ey ; n ; ix ;   ng  ; s ; p ; ao ; r
+= ; S  ; = ; S ; =  ; = ; =  ;   D   ; = ; =  ; = ; = ; =  ;   D   ; = ; =  ; = ; = ; S  ; S  ; S  ; = ; S  ;   D   ; = ; S ; =  ; =
+b ; ax ; s ; t ; ix ; b ; ao ; <eps> ; k ; ix ; n ; b ; iy ; <eps> ; n ; eh ; n ; t ; ix ; t  ; iy ; n ; n  ; <eps> ; s ; b ; ao ; r
+================================================================================
+FPAS0_SI2204.WAV, %WER 45.10 [ 23 / 51, 0 ins, 10 del, 13 sub ]
+p ; r ; ix ; dx ; iy ; s ; uw ; n ;   ax  ;   w   ;   uh  ;   m   ; ix ; n ; k ; ey ; m  ; ax ; l ; ao ; ng ; k ; ix ; r  ; ix ;   n   ;   ix  ; f ;   ow  ; l ; d  ; ix ;   dx  ;   ax  ; m ; b ; r ;   ax  ; l ; ix ; z ; ax ; w ; ao ; k ; ix ; ng ; s ; t ; ix ; k
+= ; = ; =  ; =  ; =  ; = ; =  ; = ;   D   ;   D   ;   D   ;   D   ; =  ; = ; = ; S  ; S  ; S  ; S ; S  ; S  ; = ; S  ; S  ; =  ;   D   ;   D   ; = ;   D   ; = ; S  ; S  ;   D   ;   D   ; = ; = ; = ;   D   ; = ; S  ; = ; =  ; = ; =  ; = ; S  ; S  ; = ; = ; =  ; =
+p ; r ; ix ; dx ; iy ; s ; uw ; n ; <eps> ; <eps> ; <eps> ; <eps> ; ix ; n ; k ; y  ; ix ; ao ; r ; ix ; n  ; k ; er ; dx ; ix ; <eps> ; <eps> ; f ; <eps> ; l ; dh ; er ; <eps> ; <eps> ; m ; b ; r ; <eps> ; l ; ao ; z ; ax ; w ; ao ; k ; iy ; n  ; s ; t ; ix ; k
+================================================================================
+MTAS1_SX298.WAV, %WER 17.86 [ 5 / 28, 0 ins, 3 del, 2 sub ]
+ay ;   d   ; r ; eh ; dh ; ax ; n ; ao ; b ; ay ; dh ; iy ; zh ; uw ; z ;   dh  ; ix ;   n   ; b ; iy ; ow ; v ; er ; ch ; ao ; r ; jh ; d
+=  ;   D   ; = ; =  ; =  ; =  ; = ; S  ; = ; =  ; =  ; =  ; =  ; =  ; = ;   D   ; =  ;   D   ; = ; =  ; =  ; = ; =  ; =  ; =  ; = ; =  ; S
+ay ; <eps> ; r ; eh ; dh ; ax ; n ; ax ; b ; ay ; dh ; iy ; zh ; uw ; z ; <eps> ; ix ; <eps> ; b ; iy ; ow ; v ; er ; ch ; ao ; r ; jh ; t
+================================================================================
+MTAS1_SX208.WAV, %WER 17.24 [ 5 / 29, 0 ins, 0 del, 5 sub ]
+r ; ao ; b ; s ; ae ; b ; ay ; dh ; ax ; p ; ao ; n  ; d ; ix ; ix ; n ; s ; k ; eh ; ch ; dh ; ax ; s ; t ; r ; ey ; g ; iy ; s
+= ; =  ; = ; = ; =  ; = ; S  ; =  ; =  ; = ; =  ; S  ; = ; =  ; =  ; = ; = ; = ; S  ; S  ; =  ; S  ; = ; = ; = ; =  ; = ; =  ; =
+r ; ao ; b ; s ; ae ; b ; ax ; dh ; ax ; p ; ao ; ao ; d ; ix ; ix ; n ; s ; k ; ae ; jh ; dh ; ix ; s ; t ; r ; ey ; g ; iy ; s
+================================================================================
+MTAS1_SX388.WAV, %WER 34.21 [ 13 / 38, 3 ins, 5 del, 5 sub ]
+  hh  ; er ; r ; ay ; <eps> ; hh ; ae ;   n   ;   d   ; ey ; k ; s ; w ; ix ; n ; eh ; v ; <eps> ; er ; dh ; ax ; b ; eh ;   r   ;   ix  ; m ; eh ; t ; er ; p ; r ; eh ; zh ; er ; ch ; <eps> ; ey ; n ; jh ; ix ; z
+  D   ; =  ; = ; =  ;   I   ; =  ; S  ;   D   ;   D   ; =  ; = ; = ; = ; S  ; = ; =  ; = ;   I   ; =  ; =  ; S  ; = ; S  ;   D   ;   D   ; = ; =  ; = ; =  ; = ; = ; S  ; =  ; =  ; =  ;   I   ; =  ; = ; =  ; =  ; =
+<eps> ; er ; r ; ay ;   d   ; hh ; eh ; <eps> ; <eps> ; ey ; k ; s ; w ; uh ; n ; eh ; v ;   r   ; er ; dh ; ix ; b ; er ; <eps> ; <eps> ; m ; eh ; t ; er ; p ; r ; er ; zh ; er ; ch ;   r   ; ey ; n ; jh ; ix ; z
+================================================================================
+MTAS1_SI1473.WAV, %WER 40.00 [ 6 / 15, 2 ins, 2 del, 2 sub ]
+y ; ix ;   dx  ; ow ;   n   ; iy ; dx ; ax ; n ; <eps> ; ax ; f ; hh ; ax ; n ; <eps> ; iy
+= ; S  ;   D   ; =  ;   D   ; =  ; =  ; S  ; = ;   I   ; =  ; = ; =  ; =  ; = ;   I   ; = 
+y ; iy ; <eps> ; ow ; <eps> ; iy ; dx ; ix ; n ;   ow  ; ax ; f ; hh ; ax ; n ;   dx  ; iy
+================================================================================
+MTAS1_SI2098.WAV, %WER 23.33 [ 7 / 30, 2 ins, 1 del, 4 sub ]
+hh ; iy ; g ; ey ; v ; ey ; <eps> ; zh ; ao ; r ; hh ; ao ; r ; d ; l ; ae ; f ; ix ; n ; l ; uh ; <eps> ; t ; ix ; hh ; er ; n ; ow ;   iy  ; ng ; l ; iy
+=  ; =  ; = ; S  ; = ; S  ;   I   ; =  ; =  ; = ; =  ; =  ; = ; = ; = ; =  ; = ; =  ; = ; = ; =  ;   I   ; = ; S  ; =  ; =  ; = ; S  ;   D   ; =  ; = ; = 
+hh ; iy ; g ; iy ; v ; l  ;   ix  ; zh ; ao ; r ; hh ; ao ; r ; d ; l ; ae ; f ; ix ; n ; l ; uh ;   v   ; t ; er ; hh ; er ; n ; ix ; <eps> ; ng ; l ; iy
+================================================================================
+MTAS1_SI838.WAV, %WER 32.26 [ 10 / 31, 1 ins, 5 del, 4 sub ]
+ix ;   n   ; k ; <eps> ; r ; iy ; s ; iy ; ng ; t ; eh ; m ;   p   ; ow ; ax ; v ;   n   ; uw ; p ; r ; ao ; dx ; ix ; d ; ix ; v ; eh ; l ;   ax  ; m ; ix ;   n  
+S  ;   D   ; = ;   I   ; = ; =  ; = ; =  ; =  ; = ; S  ; S ;   D   ; =  ; =  ; = ;   D   ; =  ; = ; = ; =  ; =  ; =  ; = ; =  ; = ; =  ; = ;   D   ; = ; S  ;   D  
+iy ; <eps> ; k ;   p   ; r ; iy ; s ; iy ; ng ; t ; ax ; b ; <eps> ; ow ; ax ; v ; <eps> ; uw ; p ; r ; ao ; dx ; ix ; d ; ix ; v ; eh ; l ; <eps> ; m ; ax ; <eps>
+================================================================================
+MTAS1_SX28.WAV, %WER 21.74 [ 5 / 23, 1 ins, 3 del, 1 sub ]
+b ; ey ; dh ; ae ; g ; ao ; r ; d ; f ; <eps> ; er ; w ; ax ;   n   ; g ;   ae  ; l ; ax ;   n   ; ax ; v ; g ; ae ; s
+= ; =  ; =  ; S  ; = ; =  ; = ; = ; = ;   I   ; =  ; = ; =  ;   D   ; = ;   D   ; = ; =  ;   D   ; =  ; = ; = ; =  ; =
+b ; ey ; dh ; eh ; g ; ao ; r ; d ; f ;   r   ; er ; w ; ax ; <eps> ; g ; <eps> ; l ; ax ; <eps> ; ax ; v ; g ; ae ; s
+================================================================================
+MTAS1_SX118.WAV, %WER 23.33 [ 7 / 30, 0 ins, 3 del, 4 sub ]
+k ; ax ; m ; b ; ay ;   n   ;   ao  ; l ; dh ; iy ; ix ; ng ; g ; r ; iy ; dx ;   iy  ; ix ; n ; s ; ix ; n ; ax ; l ; ao ; r ; jh ; b ; ow ; l
+S ; =  ; = ; = ; =  ;   D   ;   D   ; = ; =  ; =  ; S  ; =  ; = ; = ; =  ; S  ;   D   ; =  ; = ; = ; =  ; = ; =  ; = ; =  ; = ; =  ; = ; S  ; =
+t ; ax ; m ; b ; ay ; <eps> ; <eps> ; l ; dh ; iy ; iy ; ng ; g ; r ; iy ; y  ; <eps> ; ix ; n ; s ; ix ; n ; ax ; l ; ao ; r ; jh ; b ; l  ; l
+================================================================================
+MNJM0_SX410.WAV, %WER 26.92 [ 7 / 26, 0 ins, 2 del, 5 sub ]
+g ; r ; eh ; b ; ay ; z ;   f   ; r ; eh ; zh ; m  ;   ix  ; l ; k ; iy ; ch ; w ; iy ; d ; ey ; m ; ao ; r ; n  ; ix ; ng
+= ; = ; =  ; = ; =  ; = ;   D   ; = ; =  ; S  ; S  ;   D   ; = ; = ; S  ; =  ; = ; =  ; S ; =  ; = ; =  ; = ; S  ; =  ; = 
+g ; r ; eh ; b ; ay ; z ; <eps> ; r ; eh ; f  ; eh ; <eps> ; l ; k ; uw ; ch ; w ; iy ; p ; ey ; m ; ao ; r ; dx ; ix ; ng
+================================================================================
+MNJM0_SX230.WAV, %WER 32.00 [ 8 / 25, 1 ins, 2 del, 5 sub ]
+eh ; l ; aw ; l ; iy ; w ; ey ; hh ; ix ; er ; <eps> ; b ; ax ; r ; ae ; zh ; n ;   ax  ; l ; ay ; z ; ao ; l ; er ; er ;   z  
+S  ; = ; S  ; = ; S  ; = ; =  ; =  ; S  ; =  ;   I   ; = ; =  ; = ; =  ; =  ; = ;   D   ; = ; =  ; = ; =  ; = ; S  ; =  ;   D  
+ax ; l ; ao ; l ; uw ; w ; ey ; hh ; eh ; er ;   ax  ; b ; ax ; r ; ae ; zh ; n ; <eps> ; l ; ay ; z ; ao ; l ; hh ; er ; <eps>
+================================================================================
+MNJM0_SX140.WAV, %WER 28.12 [ 9 / 32, 0 ins, 2 del, 7 sub ]
+ae ; r  ;   ix  ; k ; ax ; l ; ch ; er ; l ; p ; r ; ao ; dx ; ax ; s ; ao ; r ; ax ; n ; iy ; v ; l ; iy ; d  ; ix ; zh ;   r   ; ix ; v ; ix ; dx ; ix
+=  ; S  ;   D   ; = ; S  ; = ; S  ; S  ; = ; = ; = ; =  ; =  ; =  ; = ; =  ; = ; =  ; = ; =  ; = ; = ; S  ; S  ; =  ; S  ;   D   ; =  ; = ; =  ; =  ; = 
+ae ; er ; <eps> ; k ; ao ; l ; t  ; r  ; l ; p ; r ; ao ; dx ; ax ; s ; ao ; r ; ax ; n ; iy ; v ; l ; ix ; dh ; ix ; s  ; <eps> ; ix ; v ; ix ; dx ; ix
+================================================================================
+MNJM0_SX50.WAV, %WER 27.27 [ 9 / 33, 1 ins, 1 del, 7 sub ]
+k  ;   ae  ; dx ; ax ; s ; t ; r ; ao ; f ; ix ; k ; eh ; k ; ax ; n ; ao ; m ; ix ; k ; ax ; b ; ae ; <eps> ; s ; n  ; ix ; g ; l ; eh ; dh ; ax ; p ; ao ; r
+S  ;   D   ; =  ; =  ; = ; S ; = ; =  ; = ; S  ; = ; S  ; = ; =  ; = ; =  ; = ; =  ; = ; =  ; S ; =  ;   I   ; = ; S  ; =  ; = ; = ; S  ; =  ; =  ; = ; =  ; =
+eh ; <eps> ; dx ; ax ; s ; k ; r ; ao ; f ; eh ; k ; ax ; k ; ax ; n ; ao ; m ; ix ; k ; ax ; p ; ae ;   k   ; s ; dh ; ix ; g ; l ; ae ; dh ; ax ; p ; ao ; r
+================================================================================
+MNJM0_SI1580.WAV, %WER 48.28 [ 14 / 29, 0 ins, 5 del, 9 sub ]
+hh ; ix ;   ao  ;   w   ; iy ; s ; iy ; m ; t  ; eh ; hh ; ae ;   v   ; m ; ax ; n ;   iy  ; ix ; hh ;   hh  ; ix ; n ; hh ; ix ; z ; p ; ao ; k ; ax
+S  ; S  ;   D   ;   D   ; =  ; = ; S  ; = ; S  ; S  ; =  ; =  ;   D   ; = ; =  ; = ;   D   ; =  ; S  ;   D   ; =  ; = ; =  ; S  ; S ; = ; =  ; = ; S 
+iy ; ow ; <eps> ; <eps> ; iy ; s ; ey ; m ; dh ; ax ; hh ; ae ; <eps> ; m ; ax ; n ; <eps> ; ix ; n  ; <eps> ; ix ; n ; hh ; ax ; s ; p ; ao ; k ; ix
+================================================================================
+MNJM0_SX320.WAV, %WER 41.67 [ 15 / 36, 0 ins, 0 del, 15 sub ]
+dh ; eh ; n  ; eh ; r  ; ix ; s ; ax ; n ; ax ; g ; ao ; g ; m  ; ey ; n ; ao ; b ; ix ; w ; uh ; th ; ix ; m  ; w ; ao ; k ; ix ; ng ; d  ; ix ; s ; t  ; ix ; n ; s
+=  ; S  ; S  ; =  ; S  ; =  ; = ; S  ; = ; =  ; = ; =  ; S ; S  ; S  ; = ; =  ; = ; S  ; = ; S  ; =  ; S  ; S  ; = ; =  ; = ; =  ; =  ; S  ; S  ; S ; S  ; =  ; = ; =
+dh ; ax ; dh ; eh ; er ; ix ; s ; eh ; n ; ax ; g ; ao ; d ; ax ; eh ; n ; ao ; b ; uw ; w ; ix ; th ; hh ; ax ; w ; ao ; k ; ix ; ng ; dh ; ax ; f ; dh ; ix ; n ; s
+================================================================================
+MNJM0_SI950.WAV, %WER 31.91 [ 15 / 47, 2 ins, 2 del, 11 sub ]
+ae ; s ; ax ; ch ; ix ;   w   ; ax ; z ; b ; iy ; ao ;   m   ; p ; ao ; l ; ax ; t  ; ix ; s ; ax ; n ; hh ; ae ; n ; <eps> ; ow ; n ; iy ; dx ; ax ; jh ; ax ; s ; ix ; v  ; ax ; k ; ey ; zh ; <eps> ; n ; b ; ay ; ey ; m ; eh ; s ; ix ; jh
+=  ; = ; =  ; =  ; S  ;   D   ; =  ; = ; = ; =  ; =  ;   D   ; = ; =  ; = ; =  ; S  ; S  ; = ; =  ; = ; =  ; =  ; = ;   I   ; =  ; = ; S  ; =  ; =  ; S  ; =  ; S ; S  ; S  ; S  ; = ; =  ; =  ;   I   ; = ; = ; =  ; S  ; = ; =  ; S ; =  ; = 
+ae ; s ; ax ; ch ; eh ; <eps> ; ax ; z ; b ; iy ; ao ; <eps> ; p ; ao ; l ; ax ; th ; eh ; s ; ax ; n ; hh ; ae ; n ;   dh  ; ow ; n ; uw ; dx ; ax ; t  ; ax ; f ; ax ; dh ; ix ; k ; ey ; zh ;   ix  ; n ; b ; ay ; ix ; m ; eh ; f ; ix ; jh
+================================================================================
+MNJM0_SI2210.WAV, %WER 45.00 [ 9 / 20, 0 ins, 4 del, 5 sub ]
+n  ; ow ; r ; iy ; t ; er ; n ; ae ;   d   ; r ; eh ; s ; w ; ax ; s ; ow ;   w   ;   eh  ;   v   ; er
+S  ; =  ; = ; S  ; S ; =  ; = ; =  ;   D   ; = ; S  ; = ; = ; =  ; = ; S  ;   D   ;   D   ;   D   ; = 
+dh ; ow ; r ; ix ; p ; er ; n ; ae ; <eps> ; r ; ax ; s ; w ; ax ; s ; er ; <eps> ; <eps> ; <eps> ; er
+================================================================================
+MGRT0_SI820.WAV, %WER 22.92 [ 11 / 48, 1 ins, 2 del, 8 sub ]
+b ; ay ; dh ; ae ; t ; w ; ax ; n ; f ; iy ; l ; z ; ae ; m ; ae ; n  ;   eh  ; dx ; ix ; f ; ao ; r ; s ;   ax  ; z ; ao ; er ; z ; jh ; eh ; n ; r ; l ; ae ; z ; ix ; l ; eh ; t ; er ; k ; l ; <eps> ; f ; ao ; r ; s ; ix ; s
+= ; =  ; =  ; =  ; S ; = ; =  ; = ; = ; =  ; = ; = ; S  ; = ; S  ; S  ;   D   ; =  ; =  ; = ; =  ; = ; = ;   D   ; = ; S  ; =  ; = ; =  ; =  ; = ; = ; = ; S  ; = ; S  ; = ; =  ; = ; =  ; = ; = ;   I   ; = ; =  ; = ; = ; S  ; =
+b ; ay ; dh ; ae ; d ; w ; ax ; n ; f ; iy ; l ; z ; eh ; m ; ey ; ix ; <eps> ; dx ; ix ; f ; ao ; r ; s ; <eps> ; z ; r  ; er ; z ; jh ; eh ; n ; r ; l ; eh ; z ; uw ; l ; eh ; t ; er ; k ; l ;   l   ; f ; ao ; r ; s ; ax ; s
+================================================================================
+MGRT0_SX10.WAV, %WER 34.78 [ 8 / 23, 2 ins, 2 del, 4 sub ]
+  ao  ; r ; <eps> ; y ; er ; g ; r ; ey ; z ; hh ;   ay  ; er ; er ; <eps> ; l ; ow ; er ; dh ; eh ; n ; ae ; n ; s ; iy ; s
+  D   ; = ;   I   ; = ; =  ; = ; = ; =  ; = ; =  ;   D   ; =  ; S  ;   I   ; = ; S  ; =  ; =  ; S  ; = ; S  ; = ; = ; =  ; =
+<eps> ; r ;   er  ; y ; er ; g ; r ; ey ; z ; hh ; <eps> ; er ; ao ;   r   ; l ; r  ; er ; dh ; ax ; n ; eh ; n ; s ; iy ; s
+================================================================================
+MGRT0_SX190.WAV, %WER 38.10 [ 8 / 21, 4 ins, 2 del, 2 sub ]
+s ; er ; v ; z ; ix ; k ;   ow  ; l ; <eps> ; s ; l ; ao ; <eps> ; ae ; f ;   zh  ; er ; ay ; <eps> ; ae ; dh ; iy ; oy ; l ; <eps>
+= ; =  ; = ; = ; =  ; = ;   D   ; = ;   I   ; = ; = ; =  ;   I   ; =  ; = ;   D   ; =  ; S  ;   I   ; =  ; =  ; =  ; S  ; = ;   I  
+s ; er ; v ; z ; ix ; k ; <eps> ; l ;   ow  ; s ; l ; ao ;   n   ; ae ; f ; <eps> ; er ; ax ;   dx  ; ae ; dh ; iy ; ix ; l ;   l  
+================================================================================
+MGRT0_SI2080.WAV, %WER 22.22 [ 4 / 18, 2 ins, 1 del, 1 sub ]
+hh ; iy ; w ; uh ; n ; ao ;   k   ; eh ; r ; <eps> ; iy ; <eps> ; ix ; b ; r ; iy ; f ; k ; ey ; s
+=  ; =  ; = ; S  ; = ; =  ;   D   ; =  ; = ;   I   ; =  ;   I   ; =  ; = ; = ; =  ; = ; = ; =  ; =
+hh ; iy ; w ; ix ; n ; ao ; <eps> ; eh ; r ;   er  ; iy ;   y   ; ix ; b ; r ; iy ; f ; k ; ey ; s
+================================================================================
+MGRT0_SX280.WAV, %WER 26.67 [ 4 / 15, 0 ins, 0 del, 4 sub ]
+dh ; iy ; ow ; ey ; s ; ax ; s ; w ; ax ; z ; ax ; m ; er ; ao ; zh
+=  ; =  ; S  ; =  ; = ; S  ; = ; = ; =  ; = ; =  ; = ; =  ; S  ; S 
+dh ; iy ; l  ; ey ; s ; ix ; s ; w ; ax ; z ; ax ; m ; er ; dx ; jh
+================================================================================
+MGRT0_SI1450.WAV, %WER 26.79 [ 15 / 56, 2 ins, 5 del, 8 sub ]
+m ; iy ; t ; s ; dh ; er ; r ; ey ;   dx  ;   iy  ;   ey  ; zh ; <eps> ; n ; p ; r ; ao ; s ; eh ; s ; ix ; ng ; ax ; v ; m ; iy ; t ; hh ; eh ; z ; r ; iy ; s ; iy ;   v   ; d ; <eps> ; ix ;   k   ; s ; t ; eh ; n ; s ; ix ; v ; ix ; n ; v  ; eh ; s ; t ; ix ; g ; ey ; zh ; ix ; n
+= ; =  ; = ; = ; =  ; S  ; = ; =  ;   D   ;   D   ;   D   ; =  ;   I   ; = ; = ; = ; S  ; = ; =  ; = ; S  ; S  ; =  ; = ; = ; =  ; = ; =  ; =  ; = ; = ; =  ; = ; =  ;   D   ; = ;   I   ; =  ;   D   ; = ; = ; S  ; = ; S ; S  ; = ; =  ; = ; S  ; =  ; = ; = ; =  ; = ; =  ; =  ; =  ; =
+m ; iy ; t ; s ; dh ; ix ; r ; ey ; <eps> ; <eps> ; <eps> ; zh ;   ix  ; n ; p ; r ; ax ; s ; eh ; s ; iy ; n  ; ax ; v ; m ; iy ; t ; hh ; eh ; z ; r ; iy ; s ; iy ; <eps> ; d ;   iy  ; ix ; <eps> ; s ; t ; ix ; n ; t ; uw ; v ; ix ; n ; ix ; eh ; s ; t ; ix ; g ; ey ; zh ; ix ; n
+================================================================================
+MGRT0_SX100.WAV, %WER 16.67 [ 5 / 30, 2 ins, 0 del, 3 sub ]
+p ; r ; ao ; <eps> ; jh ; eh ; d ; ix ; v ; eh ; l ; <eps> ; m ; ax ; n ; w ; ax ; z ; p ; er ; s ; iy ; dx ; ix ; ng ; t ; uw ; s ; l ; ow ; l ; iy
+= ; = ; S  ;   I   ; =  ; S  ; = ; =  ; = ; =  ; = ;   I   ; = ; =  ; = ; = ; =  ; = ; = ; =  ; = ; =  ; =  ; S  ; =  ; = ; =  ; = ; = ; =  ; = ; = 
+p ; r ; dx ;   ax  ; jh ; ix ; d ; ix ; v ; eh ; l ;   l   ; m ; ax ; n ; w ; ax ; z ; p ; er ; s ; iy ; dx ; iy ; ng ; t ; uw ; s ; l ; ow ; l ; iy
+================================================================================
+MGRT0_SX370.WAV, %WER 46.15 [ 12 / 26, 2 ins, 2 del, 8 sub ]
+dh ; eh ; n ; oy ; z ; p ; r ; ao ; l  ; m ; g ; r ; ow ; z ; m ; <eps> ; ao ; r  ; ax ; n ;   oy  ; ix ;   ng  ; iy ; ch ; d ; ey ; <eps>
+=  ; S  ; = ; S  ; = ; = ; = ; =  ; S  ; S ; = ; = ; S  ; = ; = ;   I   ; =  ; S  ; =  ; = ;   D   ; =  ;   D   ; =  ; =  ; S ; S  ;   I  
+dh ; ax ; n ; ax ; z ; p ; r ; ao ; ax ; n ; g ; r ; l  ; z ; m ;   w   ; ao ; er ; ax ; n ; <eps> ; ix ; <eps> ; iy ; ch ; t ; eh ;   iy 
+================================================================================
+FDHC0_SX29.WAV, %WER 24.00 [ 6 / 25, 0 ins, 0 del, 6 sub ]
+hh ; eh ; l ; p ; g ; r ; ey ; t ; ix ; p ; ix ; k ; ix ; p ; eh ; k ; ix ; v ; p  ; ix ; t ; ey ; dx ; ow ; z
+=  ; =  ; = ; S ; = ; = ; S  ; S ; =  ; = ; =  ; = ; =  ; = ; S  ; = ; S  ; = ; S  ; =  ; = ; =  ; =  ; =  ; =
+hh ; eh ; l ; t ; g ; r ; eh ; d ; ix ; p ; ix ; k ; ix ; p ; ae ; k ; ax ; v ; dh ; ix ; t ; ey ; dx ; ow ; z
+================================================================================
+FDHC0_SI929.WAV, %WER 25.00 [ 7 / 28, 1 ins, 1 del, 5 sub ]
+b ; ax ;   t   ; s ; ax ; ch ; k ; ey ; s ; ix ; z ; w ; <eps> ; er ; ix ; n ; dh ; ax ; p ; ae ; s ; t ; ax ; n ; y ; uw ; zh ; uw ; l
+= ; S  ;   D   ; = ; S  ; =  ; = ; =  ; = ; =  ; = ; = ;   I   ; =  ; =  ; = ; =  ; S  ; = ; =  ; = ; = ; S  ; = ; = ; =  ; =  ; S  ; =
+b ; ix ; <eps> ; s ; eh ; ch ; k ; ey ; s ; ix ; z ; w ;   eh  ; er ; ix ; n ; dh ; ix ; p ; ae ; s ; t ; eh ; n ; y ; uw ; zh ; ix ; l
+================================================================================
+FDHC0_SX299.WAV, %WER 25.00 [ 8 / 32, 0 ins, 1 del, 7 sub ]
+zh ; ey ; v ; iy ; n  ; k ; r ; iy ; m ; ix ; z ; ix ; p ; ao ; p ; y  ;   uw  ; l ; er ; ay ; dx ; eh ; m ; ao ; n ; hh ; ao ; l ; ax ; w ; iy ; n
+=  ; =  ; S ; =  ; S  ; S ; = ; =  ; = ; =  ; = ; =  ; = ; =  ; = ; S  ;   D   ; = ; =  ; =  ; =  ; S  ; = ; S  ; = ; =  ; =  ; = ; =  ; = ; S  ; =
+zh ; ey ; n ; iy ; ng ; t ; r ; iy ; m ; ix ; z ; ix ; p ; ao ; p ; ix ; <eps> ; l ; er ; ay ; dx ; ix ; m ; ax ; n ; hh ; ao ; l ; ax ; w ; ey ; n
+================================================================================
+FDHC0_SI2189.WAV, %WER 33.33 [ 8 / 24, 0 ins, 1 del, 7 sub ]
+y ; uw ; s ; ao ; dh ; ax ; m ; ao ; w ; iy ; z ; t ; ix ; g ; eh ; dh ; er ; dh ; ow ; z ; y  ;   ix  ; er ; z
+= ; S  ; = ; =  ; =  ; S  ; S ; S  ; = ; =  ; = ; = ; =  ; = ; =  ; =  ; S  ; S  ; =  ; = ; S  ;   D   ; =  ; =
+y ; iy ; s ; ao ; dh ; ix ; l ; ow ; w ; iy ; z ; t ; ix ; g ; eh ; dh ; ix ; d  ; ow ; z ; iy ; <eps> ; er ; z
+================================================================================
+FDHC0_SX209.WAV, %WER 17.86 [ 5 / 28, 0 ins, 0 del, 5 sub ]
+m ; ay ; k ; l  ; k ; ax ; l ; er ; dh ; ix ; b ; eh ; d ; r ; uw ; m ; w ; ao ; l ; w ; ix ; th ; k ; r ; ey ; ao ; n ; s
+= ; =  ; = ; S  ; = ; =  ; = ; S  ; S  ; =  ; = ; =  ; = ; = ; =  ; = ; = ; =  ; = ; = ; =  ; =  ; = ; = ; =  ; S  ; = ; S
+m ; ay ; k ; ow ; k ; ax ; l ; ix ; d  ; ix ; b ; eh ; d ; r ; uw ; m ; w ; ao ; l ; w ; ix ; th ; k ; r ; ey ; ax ; n ; z
+================================================================================
+FDHC0_SX389.WAV, %WER 33.33 [ 9 / 27, 2 ins, 3 del, 4 sub ]
+dh ; ey ; ow ; n  ; ax ; b ; ix ; <eps> ; hh ; aw ; s ; ix ; n ; dh ;   ax  ;   r   ; er ; m ; <eps> ; ow ; k ; ax ; n ; t ;   r   ; iy ; s ; ay ; d
+S  ; =  ; =  ; S  ; S  ; = ; =  ;   I   ; =  ; =  ; = ; =  ; = ; =  ;   D   ;   D   ; =  ; = ;   I   ; =  ; = ; S  ; = ; = ;   D   ; =  ; = ; =  ; =
+b  ; ey ; ow ; dx ; ix ; b ; ix ;   ng  ; hh ; aw ; s ; ix ; n ; dh ; <eps> ; <eps> ; er ; m ;   b   ; ow ; k ; eh ; n ; t ; <eps> ; iy ; s ; ay ; d
+================================================================================
+FDHC0_SX119.WAV, %WER 16.13 [ 5 / 31, 1 ins, 1 del, 3 sub ]
+dh ; ix ; m ; ix ; s ; k ; w ; ow ; w ; ix ; z ; r ; iy ; t ; r ; ae ; t ; ix ;   d   ; w ; ix ; th ; ix ; n ; ax ; p ; <eps> ; ao ; l ; ix ; jh ; iy
+=  ; =  ; = ; =  ; = ; = ; S ; =  ; = ; =  ; = ; = ; =  ; = ; = ; =  ; = ; =  ;   D   ; = ; S  ; S  ; =  ; = ; =  ; = ;   I   ; =  ; = ; =  ; =  ; = 
+dh ; ix ; m ; ix ; s ; k ; l ; ow ; w ; ix ; z ; r ; iy ; t ; r ; ae ; t ; ix ; <eps> ; w ; uh ; dh ; ix ; n ; ax ; p ;   l   ; ao ; l ; ix ; jh ; iy
+================================================================================
+FDHC0_SI1559.WAV, %WER 18.18 [ 8 / 44, 1 ins, 1 del, 6 sub ]
+v  ; ix ; zh ;   uw  ; ax ; l ; iy ; dh ; iy ; z ; ix ; <eps> ; p ; r ; ao ; k ; s ; ix ; m ; ey ; dx ; ix ; w ; ax ; dx ; iy ; w ; ix ; s ; f ; iy ; l ; iy ; n  ; w ; ix ; th ; ix ; n ; ix ; m ; s ; eh ; l ; f
+S  ; =  ; =  ;   D   ; =  ; = ; =  ; S  ; =  ; = ; =  ;   I   ; = ; = ; =  ; = ; = ; =  ; = ; =  ; =  ; =  ; S ; S  ; =  ; =  ; = ; =  ; = ; = ; =  ; = ; =  ; S  ; = ; =  ; S  ; =  ; = ; =  ; = ; = ; =  ; = ; =
+dh ; ix ; zh ; <eps> ; ax ; l ; iy ; v  ; iy ; z ; ix ;   b   ; p ; r ; ao ; k ; s ; ix ; m ; ey ; dx ; ix ; r ; ix ; dx ; iy ; w ; ix ; s ; f ; iy ; l ; iy ; ng ; w ; ix ; t  ; ix ; n ; ix ; m ; s ; eh ; l ; f
+================================================================================
+MPAM0_SX109.WAV, %WER 28.57 [ 8 / 28, 3 ins, 0 del, 5 sub ]
+zh ; iy ; s ; l ; ix ; t ; <eps> ; n ; s ; p ; r ; ey ; n ; d ; er ; ae ; ng ; k ; <eps> ; l ; ao ; n ; ax ; <eps> ; s ; t ; iy ; s  ; l ; ow ; p
+=  ; S  ; = ; = ; S  ; = ;   I   ; = ; = ; = ; = ; =  ; = ; = ; =  ; =  ; =  ; = ;   I   ; = ; S  ; = ; S  ;   I   ; = ; = ; =  ; S  ; = ; =  ; =
+zh ; ix ; s ; l ; uh ; t ;   ix  ; n ; s ; p ; r ; ey ; n ; d ; er ; ae ; ng ; k ;   ax  ; l ; ax ; n ; dh ;   ix  ; s ; t ; iy ; ch ; l ; ow ; p
+================================================================================
+MPAM0_SI1189.WAV, %WER 34.78 [ 8 / 23, 2 ins, 1 del, 5 sub ]
+ey ; f ; iy ; l  ; g ; ax ; n ; z ;   w   ; er ; k ; ae ; ch ; er ; dx ; ix ; n ; p ; ax ; z ; ix ; zh ; <eps> ; n ; <eps>
+S  ; = ; S  ; S  ; = ; =  ; = ; = ;   D   ; =  ; = ; S  ; S  ; =  ; =  ; =  ; = ; = ; =  ; = ; =  ; =  ;   I   ; = ;   I  
+iy ; f ; y  ; ow ; g ; ax ; n ; z ; <eps> ; er ; k ; ax ; d  ; er ; dx ; ix ; n ; p ; ax ; z ; ix ; zh ;   ix  ; n ;   m  
+================================================================================
+MPAM0_SX199.WAV, %WER 46.15 [ 18 / 39, 3 ins, 3 del, 12 sub ]
+y ; ax ; ng ; ch ;   ix  ; l ; <eps> ; er ; <eps> ; n ; zh ; uh ; dx ; ax ; v ; oy ; d  ; ix ; k  ; s  ; p ; ow ; <eps> ; zh ; er ; t ; ax ; k ; ix ; n ; t ; ey ; jh ;   ax  ; s ; d ; ix ; z ; iy ; z ;   ix  ; z
+= ; =  ; S  ; =  ;   D   ; = ;   I   ; =  ;   I   ; = ; =  ; S  ; =  ; S  ; = ; S  ; S  ; S  ; S  ; S  ; S ; =  ;   I   ; =  ; =  ; = ; S  ; = ; =  ; = ; = ; S  ; =  ;   D   ; = ; = ; =  ; = ; S  ; = ;   D   ; =
+y ; ax ; n  ; ch ; <eps> ; l ;   dx  ; er ;   ix  ; n ; zh ; ix ; dx ; ix ; v ; m  ; ao ; r  ; uw ; jh ; b ; ow ;   uh  ; zh ; er ; t ; ix ; k ; ix ; n ; t ; ix ; jh ; <eps> ; s ; d ; ix ; z ; uw ; z ; <eps> ; z
+================================================================================
+MPAM0_SI1961.WAV, %WER 18.18 [ 8 / 44, 1 ins, 3 del, 4 sub ]
+ax ; s ; eh ; k ; ix ;   n   ; t ; w ; ix ; ch ; t ;   hh  ; ix ; zh ; er ; s ; l ; iy ; v ; ix ; n ; iy ; f ;   eh  ; l ; t ; ax ; b ; r ; iy ; f  ; b ; er ; n ; ax ; n ; <eps> ; ax ; z ; ax ; p ; er ; ao ; r ; m
+=  ; = ; S  ; = ; =  ;   D   ; = ; = ; S  ; =  ; = ;   D   ; =  ; =  ; =  ; = ; = ; =  ; = ; =  ; = ; =  ; = ;   D   ; = ; = ; =  ; = ; = ; =  ; S  ; = ; =  ; = ; =  ; = ;   I   ; =  ; = ; =  ; S ; =  ; =  ; = ; =
+ax ; s ; ax ; k ; ix ; <eps> ; t ; w ; uh ; ch ; t ; <eps> ; ix ; zh ; er ; s ; l ; iy ; v ; ix ; n ; iy ; f ; <eps> ; l ; t ; ax ; b ; r ; iy ; th ; b ; er ; n ; ax ; n ;   dh  ; ax ; z ; ax ; b ; er ; ao ; r ; m
+================================================================================
+MPAM0_SI1819.WAV, %WER 23.08 [ 6 / 26, 2 ins, 1 del, 3 sub ]
+hh ; iy ; <eps> ; r ; ax ; d ; ix ; z ; ay ; s ; l ; iy ; p ; <eps> ; l ; iy ; w ; ix ; th ; w ; ax ; n ;   hh  ; y ; uw ; jh ; p ; ao
+=  ; S  ;   I   ; = ; =  ; = ; =  ; = ; S  ; = ; = ; S  ; = ;   I   ; = ; =  ; = ; =  ; =  ; = ; =  ; = ;   D   ; = ; =  ; =  ; = ; = 
+hh ; y  ;   uw  ; r ; ax ; d ; ix ; z ; r  ; s ; l ; ix ; p ;   ax  ; l ; iy ; w ; ix ; th ; w ; ax ; n ; <eps> ; y ; uw ; jh ; p ; ao
+================================================================================
+MPAM0_SX289.WAV, %WER 41.38 [ 12 / 29, 3 ins, 2 del, 7 sub ]
+w ; eh ; dh ; er ; p ; r  ; uw ;   f   ; g ; l ; ao ; zh ; ix ; z ; er ; v ; er ;   iy  ; y ; uw ; s ; f ; <eps> ; l ; <eps> ; n ; s ; <eps> ; iy ; ae ; dx ; l 
+= ; S  ; =  ; S  ; = ; S  ; S  ;   D   ; = ; = ; =  ; =  ; =  ; = ; =  ; = ; =  ;   D   ; = ; S  ; = ; = ;   I   ; = ;   I   ; = ; = ;   I   ; =  ; S  ; =  ; S 
+w ; ax ; dh ; ix ; p ; er ; v  ; <eps> ; g ; l ; ao ; zh ; ix ; z ; er ; v ; er ; <eps> ; y ; ix ; s ; f ;   uh  ; l ;   ix  ; n ; s ;   y   ; iy ; aw ; dx ; ow
+================================================================================
+MPAM0_SX379.WAV, %WER 38.46 [ 10 / 26, 1 ins, 2 del, 7 sub ]
+p ; ae ; <eps> ; m ; g ; ix ; v ;   z   ; d ; r ; ay ; v  ; ix ; ng ; l ; eh ; s ; n ; z ; ao ; n ; th ; er ; z ; d ; ey ;   z  
+= ; =  ;   I   ; = ; = ; =  ; = ;   D   ; = ; = ; S  ; S  ; =  ; =  ; = ; =  ; = ; = ; = ; S  ; S ; S  ; =  ; = ; S ; S  ;   D  
+p ; ae ;   r   ; m ; g ; ix ; v ; <eps> ; d ; r ; ao ; dx ; ix ; ng ; l ; eh ; s ; n ; z ; ax ; m ; p  ; er ; z ; t ; s  ; <eps>
+================================================================================
+MPAM0_SX19.WAV, %WER 27.59 [ 8 / 29, 0 ins, 4 del, 4 sub ]
+  ax  ; l ; uw ; m  ; ax ;   n   ; ix ; m ; s ; ix ;   l   ; v ;   ax  ; w ; er ; k ; ix ; n ; ao ; f ; n ; b ; iy ; f ; l ; ix ; m ; z ; iy
+  D   ; = ; =  ; S  ; S  ;   D   ; =  ; = ; = ; S  ;   D   ; = ;   D   ; = ; =  ; = ; S  ; = ; =  ; = ; = ; = ; =  ; = ; = ; =  ; = ; = ; = 
+<eps> ; l ; uw ; uh ; dx ; <eps> ; ix ; m ; s ; ow ; <eps> ; v ; <eps> ; w ; er ; k ; er ; n ; ao ; f ; n ; b ; iy ; f ; l ; ix ; m ; z ; iy
+================================================================================
+FMLD0_SX25.WAV, %WER 47.37 [ 9 / 19, 0 ins, 2 del, 7 sub ]
+ow ; n ; l ; ix ; l  ;   oy  ; er ; z ; l ; ax ; v ; m ; ix ; y ; ix ; n ; ix ; r ;   s  
+=  ; = ; = ; S  ; S  ;   D   ; =  ; S ; = ; S  ; = ; S ; =  ; = ; =  ; = ; S  ; S ;   D  
+ow ; n ; l ; ey ; dh ; <eps> ; er ; s ; l ; eh ; v ; n ; ix ; y ; ix ; n ; er ; z ; <eps>
+================================================================================
+FMLD0_SI2185.WAV, %WER 40.00 [ 14 / 35, 1 ins, 5 del, 8 sub ]
+zh ; iy ; s ; eh ; zh ; ao ;   r   ; k ; s ; eh ;   v   ; n ; ow ; b ; ow ; <eps> ; n ;   d   ; z ; ix ; n ;   t   ; zh ; r ; ix ; m ; p ; s ; w ; ae ; m ; b ; ae ; k ;   w   ; er
+=  ; =  ; = ; S  ; S  ; S  ;   D   ; = ; S ; =  ;   D   ; = ; =  ; = ; S  ;   I   ; = ;   D   ; = ; =  ; = ;   D   ; =  ; = ; S  ; S ; S ; = ; = ; =  ; = ; = ; =  ; = ;   D   ; = 
+zh ; iy ; s ; ix ; ch ; er ; <eps> ; k ; f ; eh ; <eps> ; n ; ow ; b ; w  ;   ax  ; n ; <eps> ; z ; ix ; n ; <eps> ; zh ; r ; eh ; n ; t ; s ; w ; ae ; m ; b ; ae ; k ; <eps> ; er
+================================================================================
+FMLD0_SX205.WAV, %WER 30.77 [ 12 / 39, 1 ins, 6 del, 5 sub ]
+b  ; ix ; l ; ix ; t ;   eh  ; er ; p ; er ; s ; n  ; eh ; l ;   ao  ;   r   ; er ;   k   ; s ; p ; eh ; t ; ix ; t ;   uw  ; ow ; <eps> ; b ; ey ; g ; ax ; v ; er ; m  ;   eh  ; n ; ao ; r ; dx ; er ; s
+S  ; =  ; = ; =  ; = ;   D   ; =  ; = ; =  ; = ; S  ; =  ; = ;   D   ;   D   ; =  ;   D   ; = ; = ; =  ; = ; =  ; = ;   D   ; =  ;   I   ; = ; =  ; = ; S  ; = ; =  ; S  ;   D   ; = ; =  ; = ; =  ; =  ; S
+dh ; ix ; l ; ix ; t ; <eps> ; er ; p ; er ; s ; ix ; eh ; l ; <eps> ; <eps> ; er ; <eps> ; s ; p ; eh ; t ; ix ; t ; <eps> ; ow ;   l   ; b ; ey ; g ; eh ; v ; er ; ix ; <eps> ; n ; ao ; r ; dx ; er ; z
+================================================================================
+FMLD0_SX385.WAV, %WER 24.00 [ 6 / 25, 2 ins, 2 del, 2 sub ]
+hh ; ix ; z ;   zh  ; ow ; l ; d ; er ; f ; <eps> ; eh ; l ; t ; ix ; z ; ix ; f ; ix ; w ; er ; b ; r ; ow ; <eps> ; k ; ix ;   n  
+=  ; =  ; S ;   D   ; =  ; = ; = ; =  ; = ;   I   ; =  ; = ; = ; =  ; = ; =  ; = ; =  ; S ; =  ; = ; = ; =  ;   I   ; = ; =  ;   D  
+hh ; ix ; s ; <eps> ; ow ; l ; d ; er ; f ;   th  ; eh ; l ; t ; ix ; z ; ix ; f ; ix ; l ; er ; b ; r ; ow ;   p   ; k ; ix ; <eps>
+================================================================================
+FMLD0_SX115.WAV, %WER 31.03 [ 9 / 29, 0 ins, 2 del, 7 sub ]
+dh ; iy ; eh ; m ; l ; ax ; m ; d ; ax ; p ; ix ; k ; s ;   dh  ;   iy  ; ix ; k ; r ; ao ; p ; l ; ax ; s ; ao ; l ; ax ; g ; l ; ow
+=  ; =  ; S  ; = ; = ; S  ; S ; = ; S  ; S ; =  ; = ; = ;   D   ;   D   ; =  ; = ; = ; =  ; = ; = ; S  ; = ; =  ; = ; =  ; = ; = ; S 
+dh ; iy ; ix ; m ; l ; l  ; n ; d ; ix ; k ; ix ; k ; s ; <eps> ; <eps> ; ix ; k ; r ; ao ; p ; l ; ix ; s ; ao ; l ; ax ; g ; l ; l 
+================================================================================
+FMLD0_SI925.WAV, %WER 23.33 [ 7 / 30, 0 ins, 4 del, 3 sub ]
+w ; ax ; hh ; iy ;   w   ;   ix  ; z ; ix ;   n   ; k ; ax ; s ; t ; ix ; d ; iy ; ix ; z ; w ; ay ; f ;   d   ; ix ; v ; ao ; r ; s ; t ; ix ; m
+= ; =  ; S  ; =  ;   D   ;   D   ; = ; =  ;   D   ; = ; =  ; = ; = ; =  ; = ; =  ; =  ; = ; = ; =  ; S ;   D   ; =  ; S ; =  ; = ; = ; = ; =  ; =
+w ; ax ; dh ; iy ; <eps> ; <eps> ; z ; ix ; <eps> ; k ; ax ; s ; t ; ix ; d ; iy ; ix ; z ; w ; ay ; t ; <eps> ; ix ; b ; ao ; r ; s ; t ; ix ; m
+================================================================================
+FMLD0_SI822.WAV, %WER 43.40 [ 23 / 53, 1 ins, 7 del, 15 sub ]
+m ; ix ;   l   ; p ; <eps> ; er ; d  ; ax ;   k   ; zh ; ix ; n ;   m   ; ey ; b ; iy ; ix ; ng ; k ; r ; iy ; s ; b ; ay ; dh ; iy ; ae ;   n   ; t ; ay ;   ix  ; n ; t ; f ; eh ; t ; ix ; v ; p ; r ; ao ; p ; r ; iy ; z ; ax ;   v   ; dh ; ix ; s ; d ; r  ;   ax  ; g
+S ; S  ;   D   ; = ;   I   ; =  ; S  ; =  ;   D   ; =  ; =  ; = ;   D   ; =  ; = ; S  ; =  ; =  ; = ; = ; =  ; = ; S ; S  ; S  ; =  ; =  ;   D   ; = ; S  ;   D   ; = ; S ; S ; =  ; = ; =  ; = ; = ; = ; S  ; = ; = ; =  ; S ; S  ;   D   ; =  ; =  ; = ; S ; S  ;   D   ; =
+w ; ax ; <eps> ; p ;   r   ; er ; dx ; ax ; <eps> ; zh ; ix ; n ; <eps> ; ey ; b ; y  ; ix ; ng ; k ; r ; iy ; s ; p ; ax ; dx ; iy ; ae ; <eps> ; t ; ae ; <eps> ; n ; d ; v ; eh ; t ; ix ; v ; p ; r ; er ; p ; r ; iy ; s ; ix ; <eps> ; dh ; ix ; s ; t ; er ; <eps> ; g
+================================================================================
+FMLD0_SX295.WAV, %WER 38.24 [ 13 / 34, 1 ins, 3 del, 9 sub ]
+ix ; f ; k ; eh ; r ;   l   ; k ; ax ; m ; z ; t ;   ax  ; m ; ao ; r ;   ax  ; hh ; ae ; v ; er ; r ; ey ; n  ; jh ; f ; er ; m ; iy ; dx ; iy ; ng ; ix ; <eps> ; t ; uw
+=  ; S ; = ; S  ; = ;   D   ; = ; S  ; = ; S ; = ;   D   ; = ; =  ; S ;   D   ; =  ; S  ; S ; =  ; = ; =  ; S  ; =  ; = ; =  ; = ; =  ; =  ; S  ; =  ; =  ;   I   ; = ; = 
+ix ; v ; k ; ix ; r ; <eps> ; k ; ow ; m ; s ; t ; <eps> ; m ; ao ; l ; <eps> ; hh ; eh ; b ; er ; r ; ey ; ng ; jh ; f ; er ; m ; iy ; dx ; ix ; ng ; ix ;   n   ; t ; uw
+================================================================================
+MJLN0_SX9.WAV, %WER 35.29 [ 6 / 17, 1 ins, 3 del, 2 sub ]
+w ; eh ;   ax  ; w ; <eps> ; er ; y ; uw ; w ; ao ;   l   ; w ; iy ; w ; er ;   ax  ; w ; ey
+= ; S  ;   D   ; = ;   I   ; =  ; = ; =  ; = ; S  ;   D   ; = ; =  ; = ; =  ;   D   ; = ; = 
+w ; er ; <eps> ; w ;   ao  ; er ; y ; uw ; w ; ax ; <eps> ; w ; iy ; w ; er ; <eps> ; w ; ey
+================================================================================
+MJLN0_SI819.WAV, %WER 22.92 [ 11 / 48, 2 ins, 3 del, 6 sub ]
+dh ; eh ; er ; f ; ao ; r ; s ; ix ; z ; ax ; m ; ao ; r ; <eps> ; l ; ey ; n  ; dh ; eh ; n ; ix ; n ; l ; eh ;   t   ; r ; ix ; s ; ix ; d  ; iy ; ae ; n ; l ; eh ; s ;   dh  ; ix ; n ; ix ; n ; m ; ae ; n  ; ix ;   t   ; ix ; z ; <eps> ; m
+=  ; =  ; =  ; = ; =  ; = ; = ; =  ; = ; =  ; = ; =  ; = ;   I   ; = ; =  ; S  ; =  ; S  ; = ; =  ; = ; = ; S  ;   D   ; = ; =  ; = ; =  ; S  ; =  ; =  ; = ; = ; =  ; = ;   D   ; =  ; = ; =  ; = ; = ; =  ; S  ; S  ;   D   ; =  ; = ;   I   ; =
+dh ; eh ; er ; f ; ao ; r ; s ; ix ; z ; ax ; m ; ao ; r ;   dx  ; l ; ey ; uw ; dh ; ix ; n ; ix ; n ; l ; ix ; <eps> ; r ; ix ; s ; ix ; dx ; iy ; ae ; n ; l ; eh ; s ; <eps> ; ix ; n ; ix ; n ; m ; ae ; ng ; f  ; <eps> ; ix ; z ;   ix  ; m
+================================================================================
+MJLN0_SX279.WAV, %WER 23.08 [ 9 / 39, 0 ins, 2 del, 7 sub ]
+ae ; l  ;   ax  ; s ; ix ; z  ; ix ; b ; ix ; l ; ax ; dx ; iy ; t ; uw ; w ; er ;   k   ; w ; ix ; dh ; aw ; s ; uw ; p ; er ; v ; ix ; zh ; ix ; n ; ix ; z ; n ; ow ; w ; er ; dh ; iy
+S  ; S  ;   D   ; = ; =  ; S  ; =  ; = ; =  ; = ; S  ; =  ; =  ; = ; =  ; = ; =  ;   D   ; = ; =  ; =  ; =  ; = ; =  ; = ; =  ; = ; S  ; =  ; =  ; = ; =  ; = ; S ; =  ; = ; =  ; S  ; = 
+aw ; aw ; <eps> ; s ; ix ; dh ; ix ; b ; ix ; l ; ix ; dx ; iy ; t ; uw ; w ; er ; <eps> ; w ; ix ; dh ; aw ; s ; uw ; p ; er ; v ; uw ; zh ; ix ; n ; ix ; z ; y ; ow ; w ; er ; z  ; iy
+================================================================================
+MJLN0_SX99.WAV, %WER 6.67 [ 2 / 30, 0 ins, 2 del, 0 sub ]
+m ; ix ; d ; iy ; v ; l ; s ; ix ; s ; ay ;   ix  ; dx ; iy ; w ; ix ; z ; b ; ey ; s ; t ; ao ; n ; hh ; ay ;   er  ; ao ; r ; k ; iy ; s
+= ; =  ; = ; =  ; = ; = ; = ; =  ; = ; =  ;   D   ; =  ; =  ; = ; =  ; = ; = ; =  ; = ; = ; =  ; = ; =  ; =  ;   D   ; =  ; = ; = ; =  ; =
+m ; ix ; d ; iy ; v ; l ; s ; ix ; s ; ay ; <eps> ; dx ; iy ; w ; ix ; z ; b ; ey ; s ; t ; ao ; n ; hh ; ay ; <eps> ; ao ; r ; k ; iy ; s
+================================================================================
+MJLN0_SI1449.WAV, %WER 29.41 [ 15 / 51, 1 ins, 5 del, 9 sub ]
+ch ; iy ; f ; ix ; n ; t ; er ; s ;   t   ; ix ; n ; r ; ey ; dx ; iy ; uh ; s ; t ;   eh  ; er ; l ; ax ; z ; ey ; zh ; ix ; n ; r ; ix ; z ; ay ; z ; ix ; n ;   dh  ; ix ; m ; ix ; l ; ix ; t ; eh ;   r   ; ix ; s ; er ;   v   ; er ; <eps> ; s ; ix ; z
+=  ; =  ; = ; =  ; = ; = ; =  ; = ;   D   ; =  ; = ; = ; S  ; S  ; S  ; S  ; = ; = ;   D   ; =  ; = ; =  ; = ; =  ; =  ; S  ; = ; = ; =  ; = ; =  ; = ; =  ; = ;   D   ; =  ; = ; S  ; = ; S  ; = ; S  ;   D   ; =  ; = ; =  ;   D   ; =  ;   I   ; = ; =  ; S
+ch ; iy ; f ; ix ; n ; t ; er ; s ; <eps> ; ix ; n ; r ; ow ; d  ; y  ; ow ; s ; t ; <eps> ; er ; l ; ax ; z ; ey ; zh ; uw ; n ; r ; ix ; z ; ay ; z ; ix ; n ; <eps> ; ix ; m ; ax ; l ; uh ; t ; er ; <eps> ; ix ; s ; er ; <eps> ; er ;   ix  ; s ; ix ; s
+================================================================================
+MJLN0_SX189.WAV, %WER 22.22 [ 6 / 27, 0 ins, 1 del, 5 sub ]
+d ; ix ; s ; t ; r ; oy ; eh ; v  ; r ; iy ; f ; ay ; l  ; r  ;   ax  ; l ; ey ; dx ; ix ; t ; ix ; m ; ay ; ao ; dx ; ix ; s
+= ; =  ; = ; = ; = ; =  ; =  ; S  ; = ; =  ; = ; S  ; S  ; S  ;   D   ; = ; =  ; =  ; =  ; = ; S  ; = ; =  ; =  ; =  ; =  ; =
+d ; ix ; s ; t ; r ; oy ; eh ; er ; r ; iy ; f ; aw ; er ; ix ; <eps> ; l ; ey ; dx ; ix ; t ; uw ; m ; ay ; ao ; dx ; ix ; s
+================================================================================
+MJLN0_SI2079.WAV, %WER 46.15 [ 6 / 13, 1 ins, 0 del, 5 sub ]
+dh ; ey ; hh ; eh ; s ; l ; ae ; <eps> ; dh ; eh ; r  ; th ; ay ; z
+=  ; =  ; S  ; S  ; = ; = ; =  ;   I   ; =  ; =  ; S  ; S  ; =  ; S
+dh ; ey ; dh ; ix ; s ; l ; ae ;   p   ; dh ; eh ; er ; f  ; ay ; s
+================================================================================
+MJLN0_SX369.WAV, %WER 34.78 [ 8 / 23, 1 ins, 1 del, 6 sub ]
+b ; ao ; p ; ey ; p ; er ; <eps> ; ow ; v ; ix ; dh ; ax ; l ; ix ; v ; ix ; ng ;   r   ; uw ; m ; ix ; r  ; l ; z
+= ; =  ; = ; =  ; = ; =  ;   I   ; =  ; = ; =  ; =  ; S  ; S ; =  ; = ; S  ; =  ;   D   ; =  ; = ; S  ; S  ; = ; S
+b ; ao ; p ; ey ; p ; er ;   dx  ; ow ; v ; ix ; dh ; ix ; v ; ix ; v ; iy ; ng ; <eps> ; uw ; m ; uw ; er ; l ; s
+================================================================================
+MBPM0_SX137.WAV, %WER 35.00 [ 14 / 40, 2 ins, 4 del, 8 sub ]
+t ; r ; ix ; d ; ix ; zh ; ix ; n ;   r   ; er ; k ; w ;   ao  ; er ; z ; f ; er ; eh ; n  ; <eps> ; l ; <eps> ; ax ; p ; r ; uw ; v ; l ; f ; r ; ax ;   ax  ; n ; d ; er ; ey ; jh ; m ; ae ; r  ;   ix  ; jh
+= ; = ; S  ; = ; =  ; =  ; =  ; = ;   D   ; =  ; = ; = ;   D   ; =  ; S ; S ; S  ; =  ; S  ;   I   ; = ;   I   ; =  ; = ; = ; =  ; = ; = ; = ; = ; S  ;   D   ; = ; = ; =  ; =  ; =  ; = ; S  ; S  ;   D   ; = 
+t ; r ; er ; d ; ix ; zh ; ix ; n ; <eps> ; er ; k ; w ; <eps> ; er ; s ; p ; r  ; eh ; dx ;   ax  ; l ;   uh  ; ax ; p ; r ; uw ; v ; l ; f ; r ; ix ; <eps> ; n ; d ; er ; ey ; jh ; m ; eh ; er ; <eps> ; jh
+================================================================================
+MBPM0_SI1577.WAV, %WER 6.25 [ 1 / 16, 1 ins, 0 del, 0 sub ]
+b ; r ; aw ; n ; ay ; z ; ay ; b ; r ; aw ; m ; <eps> ; ax ; s ; t ; ae ; zh
+= ; = ; =  ; = ; =  ; = ; =  ; = ; = ; =  ; = ;   I   ; =  ; = ; = ; =  ; = 
+b ; r ; aw ; n ; ay ; z ; ay ; b ; r ; aw ; m ;   dh  ; ax ; s ; t ; ae ; zh
+================================================================================
+MBPM0_SX317.WAV, %WER 33.33 [ 10 / 30, 1 ins, 6 del, 3 sub ]
+dh ; ix ; k ; r ; eh ; n ; b ; <eps> ; er ;   iy  ; b ; ao ; g ; ix ; t ; s ;   v   ; er ;   r   ;   iy  ; p ; r  ;   ix  ; dx ; iy ; eh ;   n   ; ao ; dx ; ax ; m
+=  ; =  ; = ; = ; =  ; = ; = ;   I   ; =  ;   D   ; = ; =  ; = ; =  ; = ; S ;   D   ; =  ;   D   ;   D   ; = ; S  ;   D   ; =  ; =  ; S  ;   D   ; =  ; =  ; =  ; =
+dh ; ix ; k ; r ; eh ; n ; b ;   r   ; er ; <eps> ; b ; ao ; g ; ix ; t ; r ; <eps> ; er ; <eps> ; <eps> ; p ; er ; <eps> ; dx ; iy ; ix ; <eps> ; ao ; dx ; ax ; m
+================================================================================
+MBPM0_SX227.WAV, %WER 52.38 [ 11 / 21, 0 ins, 3 del, 8 sub ]
+ix ; t ;   s   ; hh ; eh ; l ; th ;   y   ; er ; d ; ix ; k ; uh ; k ; w  ; ix ; th ; aw ; zh ;   uh  ; er
+=  ; = ;   D   ; =  ; =  ; = ; S  ;   D   ; =  ; S ; S  ; = ; =  ; = ; S  ; S  ; S  ; S  ; S  ;   D   ; = 
+ix ; t ; <eps> ; hh ; eh ; l ; f  ; <eps> ; er ; k ; er ; k ; uh ; k ; ax ; f  ; ao ; ch ; er ; <eps> ; er
+================================================================================
+MBPM0_SI1584.WAV, %WER 33.33 [ 16 / 48, 3 ins, 5 del, 8 sub ]
+r ; eh ;   k   ; t ; er ; w  ;   ix  ; z ; ao ; f ; ix ; n ; k ;   y   ; er ; iy ; ix ; s ; <eps> ; ao ; f ; <eps> ; ix ; n ; t ; eh ;   m   ; t ; ix ; t ; ae ; s ; k ; w ; eh ; s ;   ch  ; ix ; n ; z ; b ; ix ; dx ; iy ; <eps> ; n ; eh ; v ; er ; d ; ix
+= ; =  ;   D   ; = ; =  ; S  ;   D   ; = ; =  ; = ; S  ; S ; = ;   D   ; =  ; =  ; =  ; = ;   I   ; =  ; = ;   I   ; =  ; = ; = ; S  ;   D   ; = ; =  ; S ; =  ; = ; = ; = ; =  ; S ;   D   ; =  ; = ; S ; = ; =  ; =  ; =  ;   I   ; = ; =  ; = ; =  ; = ; S 
+r ; eh ; <eps> ; t ; er ; er ; <eps> ; z ; ao ; f ; er ; m ; k ; <eps> ; er ; iy ; ix ; s ;   p   ; ao ; f ;   th  ; ix ; n ; t ; ax ; <eps> ; t ; ix ; d ; ae ; s ; k ; w ; eh ; t ; <eps> ; ix ; n ; t ; b ; ix ; dx ; iy ;   ng  ; n ; eh ; v ; er ; d ; eh
+================================================================================
+MBPM0_SX407.WAV, %WER 23.33 [ 7 / 30, 1 ins, 0 del, 6 sub ]
+l ; ae ; f ; d ; ae ; n ; t ; s ; n ; s ; ix ; ng ; ix ; f ; ao ; r ; ch ; ix ; n ; <eps> ; s ; m ; ay ; l ; z ; ax ; p ; ao ; n ; y ; uw
+= ; =  ; = ; S ; S  ; = ; = ; = ; = ; = ; S  ; =  ; =  ; = ; =  ; = ; =  ; =  ; = ;   I   ; = ; = ; S  ; = ; = ; =  ; = ; S  ; = ; = ; S 
+l ; ae ; f ; t ; eh ; n ; t ; s ; n ; s ; ey ; ng ; ix ; f ; ao ; r ; ch ; ix ; n ;   m   ; s ; m ; aw ; l ; z ; ax ; p ; ax ; n ; y ; er
+================================================================================
+MBPM0_SX47.WAV, %WER 24.00 [ 6 / 25, 1 ins, 1 del, 4 sub ]
+m ; ao ; m ; s ; t ; r ; ax ; ng ; l ; iy ; d ; ix ; s ; l ; ay ; k ;   s   ; ae ; p ; ax ; t ; <eps> ; ay ; z ; er ; s
+= ; =  ; = ; = ; = ; = ; S  ; =  ; = ; S  ; = ; =  ; = ; = ; =  ; S ;   D   ; =  ; S ; =  ; = ;   I   ; =  ; = ; =  ; =
+m ; ao ; m ; s ; t ; r ; ao ; ng ; l ; ix ; d ; ix ; s ; l ; ay ; t ; <eps> ; ae ; b ; ax ; t ;   ao  ; ay ; z ; er ; s
+================================================================================
+MBPM0_SI947.WAV, %WER 26.92 [ 7 / 26, 1 ins, 3 del, 3 sub ]
+f ; y ; uw ; r ; er ;   ax  ; l ; eh ; r  ;   iy  ;   ix  ; z ; er ; p ; er ; t ; eh ; <eps> ; t ; ix ; b ; ay ; z ; ow ; n ; ix ; ng
+= ; = ; =  ; = ; =  ;   D   ; = ; S  ; S  ;   D   ;   D   ; = ; =  ; = ; =  ; = ; =  ;   I   ; = ; =  ; = ; S  ; = ; =  ; = ; =  ; = 
+f ; y ; uw ; r ; er ; <eps> ; l ; er ; er ; <eps> ; <eps> ; z ; er ; p ; er ; t ; eh ;   r   ; t ; ix ; b ; ax ; z ; ow ; n ; ix ; ng
+================================================================================
+MKLT0_SI1213.WAV, %WER 46.43 [ 13 / 28, 1 ins, 3 del, 9 sub ]
+m ;   ao  ; ow ; n ; <eps> ; ix ;   k   ; s ; p ;   ix  ; er ; n  ; s ; ix ; z ; f ; ao ; l ; ow ; s ; ix ; m ; p ; l ; er ; l ; ao ; n ; z
+= ;   D   ; =  ; = ;   I   ; =  ;   D   ; = ; S ;   D   ; =  ; S  ; = ; =  ; S ; = ; S  ; = ; S  ; = ; S  ; S ; S ; = ; =  ; = ; S  ; = ; =
+m ; <eps> ; ow ; n ;   dx  ; ix ; <eps> ; s ; b ; <eps> ; er ; ix ; s ; ix ; s ; f ; ow ; l ; ax ; s ; er ; n ; t ; l ; er ; l ; ax ; n ; z
+================================================================================
+MKLT0_SI1843.WAV, %WER 37.78 [ 17 / 45, 2 ins, 8 del, 7 sub ]
+zh ; iy ; w  ;   ax  ; z ; r ; eh ; dx ; iy ; f ; ao ;   r   ;   hh  ; er ; g ; r ; ey ; dx ; ix ; v ; eh ; n ;   ch  ; er ; z ;   ax  ; n ; dh ; iy ;   er  ; r ; ao ; v ; <eps> ; l ; ax ; v ; er ; m ; ow ; <eps> ; l ; p ; ao ; r ;   n   ;   er 
+=  ; S  ; S  ;   D   ; = ; = ; =  ; =  ; S  ; = ; =  ;   D   ;   D   ; =  ; S ; = ; S  ; =  ; =  ; = ; =  ; S ;   D   ; =  ; = ;   D   ; = ; =  ; S  ;   D   ; = ; =  ; = ;   I   ; = ; =  ; = ; =  ; = ; =  ;   I   ; = ; = ; =  ; = ;   D   ;   D  
+zh ; uw ; ix ; <eps> ; z ; r ; eh ; dx ; ix ; f ; ao ; <eps> ; <eps> ; er ; d ; r ; uh ; dx ; ix ; v ; eh ; t ; <eps> ; er ; z ; <eps> ; n ; dh ; uw ; <eps> ; r ; ao ; v ;   ax  ; l ; ax ; v ; er ; m ; ow ;   w   ; l ; p ; ao ; r ; <eps> ; <eps>
+================================================================================
+MKLT0_SX313.WAV, %WER 53.85 [ 14 / 26, 1 ins, 6 del, 7 sub ]
+d ; r ; ao ; f ; ay ; f ; ao ;   m   ; z ; n ; dh ; ax ; b ;   ao  ;   k   ; s ;   b   ;   ax  ; f ; ao ; y ; uw ; <eps> ; g ; ow ; aw ;   hh 
+S ; = ; S  ; = ; S  ; = ; S  ;   D   ; = ; = ; =  ; =  ; = ;   D   ;   D   ; = ;   D   ;   D   ; = ; =  ; S ; S  ;   I   ; = ; S  ; =  ;   D  
+b ; r ; ax ; f ; ae ; f ; n  ; <eps> ; z ; n ; dh ; ax ; b ; <eps> ; <eps> ; s ; <eps> ; <eps> ; f ; ao ; r ; dx ;   ix  ; g ; uw ; aw ; <eps>
+================================================================================
+MKLT0_SX223.WAV, %WER 41.67 [ 10 / 24, 0 ins, 3 del, 7 sub ]
+p ; uh ; dh ; ax ; b ; uh ; ch ; er ; b ;   l   ; ao ; t ; ey ; b ; l  ;   ix  ; n ;   dh  ; ix ; g ; er ; r ; ao ; jh
+= ; S  ; S  ; S  ; = ; S  ; =  ; =  ; = ;   D   ; =  ; = ; =  ; = ; S  ;   D   ; = ;   D   ; =  ; = ; S  ; = ; S  ; = 
+p ; ix ; k  ; ix ; b ; ix ; ch ; er ; b ; <eps> ; ao ; t ; ey ; b ; ax ; <eps> ; n ; <eps> ; ix ; g ; ix ; r ; ay ; jh
+================================================================================
+MKLT0_SX403.WAV, %WER 46.88 [ 15 / 32, 1 ins, 4 del, 10 sub ]
+hh ;   ax  ; w ;   ao  ; r ; d ; r ; ow ; k ; n ; s ; ix ; s ; s ; ax ; v ; ow ; n ; l ; iy ; s ; k ; er ; s ; ax ;   n   ; b ; l ; aw ; <eps> ; z ;   ix  ; z
+S  ;   D   ; = ;   D   ; = ; S ; = ; S  ; S ; = ; = ; =  ; = ; S ; S  ; = ; =  ; = ; S ; S  ; = ; = ; =  ; = ; S  ;   D   ; = ; = ; S  ;   I   ; = ;   D   ; =
+w  ; <eps> ; w ; <eps> ; r ; t ; r ; er ; t ; n ; s ; ix ; s ; t ; ix ; v ; ow ; n ; w ; ix ; s ; k ; er ; s ; uw ; <eps> ; b ; l ; eh ;   l   ; z ; <eps> ; z
+================================================================================
+MKLT0_SX43.WAV, %WER 52.17 [ 12 / 23, 3 ins, 0 del, 9 sub ]
+eh ; l ; er ; l  ; iy ; <eps> ; p ; <eps> ; iy ; p ; l  ; er ; ao ; <eps> ; f ; ix ; n ; ix ; k ; s ; k ; l ; uw ; dx ; ix ; d
+=  ; = ; S  ; S  ; S  ;   I   ; = ;   I   ; =  ; = ; S  ; S  ; =  ;   I   ; = ; =  ; = ; =  ; = ; = ; = ; S ; =  ; S  ; S  ; S
+eh ; l ; dx ; uw ; v  ;   ix  ; p ;   r   ; iy ; p ; ix ; r  ; ao ;   l   ; f ; ix ; n ; ix ; k ; s ; k ; w ; uw ; d  ; er ; b
+================================================================================
+MKLT0_SX133.WAV, %WER 46.15 [ 12 / 26, 0 ins, 4 del, 8 sub ]
+p ; iy ; s ; er ;   iy  ; er ; z ; er ; k ; n ;   v   ; iy ; n  ; y ; ix ; f ; ao ;   r   ; k ; w ; ix ;   k   ; l ; ax ; n ; ch
+= ; =  ; S ; S  ;   D   ; =  ; = ; S  ; = ; S ;   D   ; =  ; S  ; = ; =  ; = ; S  ;   D   ; = ; = ; =  ;   D   ; = ; S  ; = ; S 
+p ; iy ; t ; r  ; <eps> ; er ; z ; ix ; k ; b ; <eps> ; iy ; ng ; y ; ix ; f ; uh ; <eps> ; k ; w ; ix ; <eps> ; l ; ow ; n ; t 
+================================================================================
+MKLT0_SI583.WAV, %WER 41.38 [ 12 / 29, 0 ins, 4 del, 8 sub ]
+dh ; ix ; s ; w ; iy ; k ; ix ; n ; s ; ix ; m  ; p  ;   ix  ; th ; eh ; dx ; ix ; k ; l ; iy ; ax ; n ;   d   ;   ax  ; s ; t ; ae ; n  ;   d  
+=  ; =  ; = ; = ; S  ; = ; =  ; = ; = ; =  ; S  ; S  ;   D   ; =  ; S  ; =  ; =  ; S ; = ; =  ; S  ; = ;   D   ;   D   ; = ; = ; S  ; S  ;   D  
+dh ; ix ; s ; w ; ix ; k ; ix ; n ; s ; ix ; th ; ax ; <eps> ; th ; ix ; dx ; ix ; p ; l ; iy ; ix ; n ; <eps> ; <eps> ; s ; t ; ix ; ey ; <eps>
+================================================================================
+FNLP0_SI1308.WAV, %WER 34.62 [ 18 / 52, 3 ins, 6 del, 9 sub ]
+ix ; n ; d ; iy ; ix ; dx ; ix ; z ; p ; ao ; s ;   ax  ; b ; l  ; <eps> ; t ; ix ; s ; eh ; p ; er ; ey ; <eps> ; iy ; l ; eh ; t ;   r   ; ao ; n ; p ; eh ;   er  ; m ; ae ;   ng  ; n ; <eps> ; eh ; dx ; ix ; f ;   r   ; ax ; m ; n ; uw ; k ; l ; iy ; er ;   ix  ; f ; eh ; s
+=  ; = ; S ; S  ; =  ; =  ; =  ; = ; = ; =  ; = ;   D   ; = ; S  ;   I   ; = ; =  ; = ; =  ; = ; S  ; =  ;   I   ; =  ; = ; S  ; = ;   D   ; =  ; = ; = ; S  ;   D   ; = ; S  ;   D   ; = ;   I   ; =  ; S  ; =  ; = ;   D   ; =  ; = ; S ; =  ; = ; = ; =  ; =  ;   D   ; = ; =  ; =
+ix ; n ; t ; dx ; ix ; dx ; ix ; z ; p ; ao ; s ; <eps> ; b ; ow ;   uh  ; t ; ix ; s ; eh ; p ; r  ; ey ;   n   ; iy ; l ; ax ; t ; <eps> ; ao ; n ; p ; r  ; <eps> ; m ; eh ; <eps> ; n ;   m   ; eh ; n  ; ix ; f ; <eps> ; ax ; m ; m ; uw ; k ; l ; iy ; er ; <eps> ; f ; eh ; s
+================================================================================
+FNLP0_SX228.WAV, %WER 42.11 [ 8 / 19, 0 ins, 1 del, 7 sub ]
+dh ; ax ; v ; y  ; uw ; p ; oy ; n  ; ow ; v ; er ; l ; uh ; dh ; iy ; ow ; zh ;   ix  ; n
+=  ; S  ; = ; S  ; =  ; = ; S  ; S  ; =  ; = ; =  ; = ; S  ; S  ; =  ; =  ; S  ;   D   ; =
+dh ; eh ; v ; iy ; uw ; p ; ay ; ng ; ow ; v ; er ; l ; eh ; b  ; iy ; ow ; s  ; <eps> ; n
+================================================================================
+FNLP0_SX48.WAV, %WER 31.03 [ 9 / 29, 2 ins, 1 del, 6 sub ]
+g ; r ; ae ; m ; ax ; dh ; er ; aw ; g ;   r   ; uw ; hh ; er ; <eps> ; ax ; b ; r ; ix ; ng ; ix ; n ; <eps> ; ix ; m ; p ; eh ; dx ; iy ; k ; ow ; s
+= ; = ; =  ; = ; =  ; =  ; S  ; =  ; = ;   D   ; =  ; =  ; S  ;   I   ; =  ; = ; = ; S  ; =  ; =  ; = ;   I   ; =  ; S ; = ; =  ; =  ; S  ; = ; S  ; =
+g ; r ; ae ; m ; ax ; dh ; ix ; aw ; g ; <eps> ; uw ; hh ; v  ;   r   ; ax ; b ; r ; iy ; ng ; ix ; n ;   hh  ; ix ; n ; p ; eh ; dx ; ix ; k ; eh ; s
+================================================================================
+FNLP0_SX138.WAV, %WER 33.33 [ 12 / 36, 1 ins, 5 del, 6 sub ]
+dh ; ix ; k ; l ; ax ; m ; z  ; iy ; k ; ax ; s ; t ; ix ; m ; er ; s ; p ;   ix  ; l ; s ; ax ; m ; ix ; <eps> ; s ; p ; ix ; n ;   s   ; ix ; v ; p ; er ; f ;   y   ;   uw  ;   m  
+=  ; =  ; = ; = ; =  ; S ; S  ; =  ; = ; S  ; = ; = ; =  ; = ; =  ; = ; = ;   D   ; = ; = ; =  ; = ; S  ;   I   ; = ; S ; =  ; S ;   D   ; =  ; = ; = ; =  ; = ;   D   ;   D   ;   D  
+dh ; ix ; k ; l ; ax ; n ; dh ; iy ; k ; eh ; s ; t ; ix ; m ; er ; s ; p ; <eps> ; l ; s ; ax ; m ; iy ;   ng  ; s ; t ; ix ; z ; <eps> ; ix ; v ; p ; er ; f ; <eps> ; <eps> ; <eps>
+================================================================================
+FNLP0_SX408.WAV, %WER 42.86 [ 12 / 28, 1 ins, 0 del, 11 sub ]
+ay ; d ; r ; ay ; dh ; ix ; s ; ax ; b ; w ; ey ; b ; ix ; dx ; ay ; hh ; ae ; v ; ix ; n ; iy ; n ; ax ; f ; ch ; ey ; n  ; jh ; <eps>
+S  ; = ; = ; S  ; S  ; =  ; = ; =  ; = ; S ; =  ; = ; S  ; =  ; S  ; =  ; S  ; = ; =  ; = ; =  ; = ; S  ; = ; =  ; S  ; S  ; S  ;   I  
+ao ; d ; r ; ao ; d  ; ix ; s ; ax ; b ; l ; ey ; b ; eh ; dx ; ax ; hh ; ax ; v ; ix ; n ; iy ; n ; eh ; f ; ch ; dx ; iy ; ng ;   s  
+================================================================================
+FNLP0_SI1938.WAV, %WER 36.67 [ 11 / 30, 2 ins, 3 del, 6 sub ]
+l ; ay ; dx ; ix ; w ; <eps> ; ix ; n ; d ; ow ; z ; g ; l ; ow ; jh ; uw ; l ;   b   ;   r   ; ay ; th ;   r   ; uw ; dh ; ix ; d ; aw ; n  ; <eps> ; p ; ao ; r 
+= ; =  ; =  ; =  ; = ;   I   ; =  ; = ; = ; =  ; = ; = ; = ; =  ; =  ; =  ; S ;   D   ;   D   ; =  ; =  ;   D   ; =  ; S  ; =  ; = ; S  ; S  ;   I   ; = ; S  ; S 
+l ; ay ; dx ; ix ; w ;   l   ; ix ; n ; d ; ow ; z ; g ; l ; ow ; jh ; uw ; p ; <eps> ; <eps> ; ay ; th ; <eps> ; uw ; d  ; ix ; d ; dx ; eh ;   m   ; p ; l  ; er
+================================================================================
+FNLP0_SX318.WAV, %WER 29.63 [ 8 / 27, 0 ins, 2 del, 6 sub ]
+p ; l ; iy ; z ; d ; ix ; m ; ao ; m ; p ; ix ; t ; ey ; dx ; ax ; z ; ax ; b ; ax ; f ; ao ;   r   ; f ; r  ;   ao  ; s ; t
+= ; = ; =  ; S ; S ; =  ; = ; S  ; = ; = ; =  ; = ; =  ; =  ; S  ; = ; =  ; = ; =  ; = ; S  ;   D   ; = ; S  ;   D   ; = ; =
+p ; l ; iy ; s ; t ; ix ; m ; ax ; m ; p ; ix ; t ; ey ; dx ; ow ; z ; ax ; b ; ax ; f ; uh ; <eps> ; f ; ow ; <eps> ; s ; t
+================================================================================
+FNLP0_SI678.WAV, %WER 44.44 [ 8 / 18, 1 ins, 1 del, 6 sub ]
+s ; ae ;   l   ; v ; ey ; zh ; ix ; n ; r ; iy ; k ; ix ; n ; s  ; ix ; dx ; <eps> ; er ; d
+S ; S  ;   D   ; = ; =  ; S  ; =  ; = ; = ; =  ; = ; =  ; = ; S  ; S  ; S  ;   I   ; =  ; =
+f ; ax ; <eps> ; v ; ey ; s  ; ix ; n ; r ; iy ; k ; ix ; n ; th ; th ; eh ;   d   ; er ; d
+================================================================================
+FPKT0_SX188.WAV, %WER 27.59 [ 8 / 29, 0 ins, 3 del, 5 sub ]
+hh ; uw ; ao ; th ; er ; ay ; z  ;   dh  ;   iy  ; ix ; n ; l ; ix ; m ; ix ; dx ; ix ; dx ; ix ; k ; s ; p ; eh ;   n   ; s ; ix ; k ; aw ; n
+=  ; S  ; =  ; S  ; S  ; =  ; S  ;   D   ;   D   ; =  ; = ; = ; =  ; = ; =  ; S  ; =  ; =  ; =  ; = ; = ; = ; =  ;   D   ; = ; =  ; = ; =  ; =
+hh ; w  ; ao ; t  ; r  ; ay ; th ; <eps> ; <eps> ; ix ; n ; l ; ix ; m ; ix ; n  ; ix ; dx ; ix ; k ; s ; p ; eh ; <eps> ; s ; ix ; k ; aw ; n
+================================================================================
+FPKT0_SX98.WAV, %WER 33.33 [ 7 / 21, 1 ins, 2 del, 4 sub ]
+g ; eh ; s ; dh ; ix ; k ; w ; eh ; zh ; ax ; n ; f ;   r   ; ax ; m ;   dh  ; iy ; ae ; n ; s ; er ; <eps>
+= ; =  ; = ; S  ; =  ; = ; = ; S  ; =  ; S  ; = ; = ;   D   ; =  ; S ;   D   ; =  ; =  ; = ; = ; =  ;   I  
+g ; eh ; s ; t  ; ix ; k ; w ; ax ; zh ; ix ; n ; f ; <eps> ; ax ; n ; <eps> ; iy ; ae ; n ; s ; er ;   n  
+================================================================================
+FPKT0_SX8.WAV, %WER 23.81 [ 5 / 21, 1 ins, 0 del, 4 sub ]
+w ; ay ; y ; eh ; l ; er ; w ; er ; iy ; <eps> ; ow ; v ; er ; s ; ix ; l ; iy ; ay ; dx ; ix ; m ; z
+= ; =  ; = ; =  ; = ; =  ; = ; S  ; =  ;   I   ; =  ; = ; =  ; = ; =  ; = ; =  ; =  ; S  ; S  ; = ; S
+w ; ay ; y ; eh ; l ; er ; w ; r  ; iy ;   y   ; ow ; v ; er ; s ; ix ; l ; iy ; ay ; d  ; ax ; m ; s
+================================================================================
+FPKT0_SI908.WAV, %WER 24.00 [ 6 / 25, 0 ins, 1 del, 5 sub ]
+w ; iy ; ow ; w ; ix ; z ; th ; ao ; w ; ix ; w ; uh ; d ; ay ; w ; ix ; th ; ao ;   r   ; b ; uw ; t ; s ; ao ; n
+= ; =  ; =  ; S ; =  ; = ; =  ; S  ; = ; S  ; = ; =  ; = ; =  ; = ; S  ; =  ; S  ;   D   ; = ; =  ; = ; = ; =  ; =
+w ; iy ; ow ; l ; ix ; z ; th ; ow ; w ; iy ; w ; uh ; d ; ay ; w ; ax ; th ; er ; <eps> ; b ; uw ; t ; s ; ao ; n
+================================================================================
+FPKT0_SX278.WAV, %WER 31.71 [ 13 / 41, 2 ins, 0 del, 11 sub ]
+t ; uw ; f ; <eps> ; er ; dh ; er ; hh ; ix ; z ; p ; r ; ix ; s ; t ; iy ; jh ; <eps> ; hh ; iy ; k ; ey ; zh ; n ; l ; ix ; r ; iy ; z ; dh ; ax ; w ; ao ; l ; s ; t ; r ; iy ; jh ; er ; n ; ax ; l
+= ; S  ; = ;   I   ; =  ; S  ; =  ; =  ; S  ; S ; = ; = ; S  ; = ; = ; =  ; S  ;   I   ; =  ; S  ; = ; =  ; S  ; = ; = ; =  ; = ; =  ; = ; =  ; =  ; = ; S  ; = ; = ; = ; = ; S  ; =  ; =  ; = ; S  ; =
+t ; ix ; f ;   r   ; er ; m  ; er ; hh ; uw ; s ; p ; r ; er ; s ; t ; iy ; zh ;   ch  ; hh ; ix ; k ; ey ; z  ; n ; l ; ix ; r ; iy ; z ; dh ; ax ; w ; ow ; l ; s ; t ; r ; ix ; jh ; er ; n ; dx ; l
+================================================================================
+FPKT0_SI2168.WAV, %WER 21.05 [ 4 / 19, 1 ins, 0 del, 3 sub ]
+dh ; ey ; m ; ey ; k ; ax ; s ; k ; n ; f ; ao ; r ; m ; <eps> ; ix ; s ; l ; uh ; g ; uh
+=  ; =  ; = ; =  ; = ; S  ; = ; = ; = ; = ; =  ; = ; = ;   I   ; =  ; = ; = ; S  ; = ; S 
+dh ; ey ; m ; ey ; k ; eh ; s ; k ; n ; f ; ao ; r ; m ;   ax  ; ix ; s ; l ; ax ; g ; ix
+================================================================================
+FPKT0_SX368.WAV, %WER 33.33 [ 13 / 39, 1 ins, 2 del, 10 sub ]
+l ; ao ; r ; iy ; z ; k ; ao ; s ; t ; uw ;   m   ; n ; iy ; dx ; ix ; b ; l ; ae ; g ; l ; ax ; z ; ix ; <eps> ; b ; iy ; k ; ax ; m ; p ; l ; iy ; l ; iy ; eh ; l ; ix ; g ; eh ;   n  
+S ; =  ; = ; S  ; S ; = ; =  ; = ; = ; S  ;   D   ; = ; =  ; =  ; =  ; = ; = ; S  ; = ; = ; =  ; S ; S  ;   I   ; = ; =  ; = ; =  ; S ; = ; = ; =  ; = ; =  ; =  ; = ; S  ; S ; =  ;   D  
+w ; ao ; r ; ix ; s ; k ; ao ; s ; t ; ix ; <eps> ; n ; iy ; dx ; ix ; b ; l ; ay ; g ; l ; ax ; s ; t  ;   ax  ; b ; iy ; k ; ax ; n ; p ; l ; iy ; l ; iy ; eh ; l ; ax ; d ; eh ; <eps>
+================================================================================
+FPKT0_SI1538.WAV, %WER 37.84 [ 14 / 37, 1 ins, 6 del, 7 sub ]
+ax ; k ; eh ; r ;   ix  ; jh ; k ; r ; ax ; n ; ch ; b ; ay ;   ix  ; s ; d ; ix ; m ;   l   ; ay ; <eps> ; t ; s ; f  ;   ix  ; l ; t ; r  ; ix ;   ng  ; th ; uw ; dh ; ix ; g ; l ; uw ;   m  
+S  ; = ; =  ; = ;   D   ; =  ; = ; = ; S  ; = ; =  ; = ; =  ;   D   ; = ; S ; =  ; = ;   D   ; =  ;   I   ; = ; = ; S  ;   D   ; = ; = ; S  ; S  ;   D   ; =  ; =  ; S  ; =  ; = ; = ; =  ;   D  
+ix ; k ; eh ; r ; <eps> ; jh ; k ; r ; r  ; n ; ch ; b ; ay ; <eps> ; s ; t ; ix ; m ; <eps> ; ay ;   n   ; t ; s ; th ; <eps> ; l ; t ; uw ; n  ; <eps> ; th ; uw ; v  ; ix ; g ; l ; uw ; <eps>
+================================================================================
+MLNT0_SX102.WAV, %WER 23.08 [ 9 / 39, 0 ins, 2 del, 7 sub ]
+s ; p ; eh ; zh ; l  ; t ; ae ; s ; f ; ao ; r ; s ; ix ; z ; r ; eh ; s ;   k   ; y ; uw ; hh ; ao ; s ; t ; ix ; jh ; ix ; z ; f ; r  ;   ax  ; m ; k ; ix ; n ; ae ; p ; er ; z
+= ; = ; =  ; S  ; S  ; = ; =  ; = ; = ; =  ; = ; = ; S  ; = ; = ; =  ; = ;   D   ; = ; =  ; =  ; =  ; = ; = ; =  ; =  ; =  ; S ; = ; S  ;   D   ; = ; = ; =  ; S ; =  ; = ; =  ; S
+s ; p ; eh ; s  ; ax ; t ; ae ; s ; f ; ao ; r ; s ; er ; z ; r ; eh ; s ; <eps> ; y ; uw ; hh ; ao ; s ; t ; ix ; jh ; ix ; s ; f ; er ; <eps> ; m ; k ; ix ; m ; ae ; p ; er ; s
+================================================================================
+MLNT0_SX372.WAV, %WER 36.67 [ 11 / 30, 2 ins, 2 del, 7 sub ]
+dh ; eh ; d ; ay ;   ix  ; g ; r ; ae ; m ; <eps> ; ey ; k ; s ; eh ; n ; s ; ow ;   n   ; l ; iy ; ae ; f ; t ; <eps> ; er ; m ; ax ; zh ; t ; ax ; dx ; iy
+=  ; =  ; S ; S  ;   D   ; = ; = ; S  ; = ;   I   ; =  ; = ; = ; =  ; = ; = ; S  ;   D   ; = ; =  ; =  ; = ; S ;   I   ; =  ; = ; =  ; S  ; = ; S  ; =  ; = 
+dh ; eh ; b ; r  ; <eps> ; g ; r ; r  ; m ;   m   ; ey ; k ; s ; eh ; n ; s ; ax ; <eps> ; l ; iy ; ae ; f ; k ;   r   ; er ; m ; ax ; s  ; t ; er ; dx ; iy
+================================================================================
+MLNT0_SI642.WAV, %WER 29.41 [ 10 / 34, 2 ins, 5 del, 3 sub ]
+dh ; eh ;   r   ; p ;   r   ; ao ;   p   ; s ;   w   ; er ; t ; uw ; s ; t ; eh ; p ;   l   ; ae ; dx ; er ; z ; ax ; ch ; <eps> ; eh ; er ; ae ; n ; ax ; p ; ao ; m ; f ; <eps> ; ae ; n
+=  ; =  ;   D   ; = ;   D   ; =  ;   D   ; = ;   D   ; =  ; = ; =  ; = ; = ; =  ; = ;   D   ; =  ; =  ; =  ; S ; =  ; =  ;   I   ; =  ; =  ; =  ; = ; S  ; = ; =  ; = ; S ;   I   ; =  ; =
+dh ; eh ; <eps> ; p ; <eps> ; ao ; <eps> ; s ; <eps> ; er ; t ; uw ; s ; t ; eh ; p ; <eps> ; ae ; dx ; er ; s ; ax ; ch ;   zh  ; eh ; er ; ae ; n ; ao ; p ; ao ; m ; p ;   r   ; ae ; n
+================================================================================
+MLNT0_SX12.WAV, %WER 50.00 [ 10 / 20, 0 ins, 4 del, 6 sub ]
+w ; uh ; l ;   r   ; ao ; b ; ix ; n ; w ;   eh  ; er ; ey ; y ; eh ; l  ; ow ; l ;   ix  ;   l   ; iy
+= ; S  ; = ;   D   ; =  ; S ; S  ; = ; = ;   D   ; =  ; =  ; = ; S  ; S  ; S  ; = ;   D   ;   D   ; = 
+w ; ao ; l ; <eps> ; ao ; r ; ax ; n ; w ; <eps> ; er ; ey ; y ; ax ; dh ; eh ; l ; <eps> ; <eps> ; iy
+================================================================================
+MLNT0_SX192.WAV, %WER 36.36 [ 8 / 22, 2 ins, 3 del, 3 sub ]
+s ; t ; r ; ao ; <eps> ; hh ; ae ; s ; er ; aw ; dx ; ax ; <eps> ; f ; ae ; zh ; ix ;   n   ; dh ; ix ; s  ;   y   ;   ix  ; er
+= ; = ; = ; =  ;   I   ; =  ; =  ; = ; S  ; S  ; =  ; =  ;   I   ; = ; =  ; =  ; =  ;   D   ; =  ; =  ; S  ;   D   ;   D   ; = 
+s ; t ; r ; ao ;   r   ; hh ; ae ; s ; r  ; ao ; dx ; ax ;   er  ; f ; ae ; zh ; ix ; <eps> ; dh ; ix ; zh ; <eps> ; <eps> ; er
+================================================================================
+MLNT0_SI1574.WAV, %WER 41.86 [ 18 / 43, 4 ins, 2 del, 12 sub ]
+f ; l ; ay ; s ; w ; ao ; r ; m  ; ix ; <eps> ; r ; aw ;   n   ; dh ; ix ; b ;   ow  ; l ; <eps> ; ax ; v ; l ; eh ; n ; t ; l ; z ; ix ; n ; w ; ix ; ch ; hh ; iy ; m ; ao ; th ; ix ; <eps> ; b ; l  ; ae ; b ; r ; <eps> ; eh ; d
+S ; = ; =  ; = ; = ; =  ; = ; S  ; S  ;   I   ; = ; =  ;   D   ; =  ; S  ; = ;   D   ; = ;   I   ; =  ; S ; S ; S  ; = ; = ; = ; = ; =  ; = ; = ; =  ; =  ; =  ; =  ; = ; =  ; S  ; S  ;   I   ; = ; S  ; S  ; = ; = ;   I   ; =  ; S
+b ; l ; ay ; s ; w ; ao ; r ; ng ; d  ;   er  ; r ; aw ; <eps> ; dh ; ax ; b ; <eps> ; l ;   dh  ; ax ; p ; m ; ix ; n ; t ; l ; z ; ix ; n ; w ; ix ; ch ; hh ; iy ; m ; ao ; r  ; dh ;   ey  ; b ; ao ; r  ; b ; r ;   ey  ; eh ; t
+================================================================================
+MLNT0_SI1902.WAV, %WER 30.00 [ 6 / 20, 1 ins, 2 del, 3 sub ]
+dh ; ax ; p ; ax ; l ; s ; ix ; ng ; <eps> ; g ; l ;   ow  ; ax ; v ; ax ; s ; ix ;   er  ; r ; eh ; t
+=  ; =  ; = ; S  ; = ; = ; =  ; =  ;   I   ; = ; = ;   D   ; =  ; S ; S  ; = ; =  ;   D   ; = ; =  ; =
+dh ; ax ; p ; ao ; l ; s ; ix ; ng ;   ng  ; g ; l ; <eps> ; ax ; b ; ix ; s ; ix ; <eps> ; r ; eh ; t
+================================================================================
+MLNT0_SX282.WAV, %WER 42.42 [ 14 / 33, 1 ins, 0 del, 13 sub ]
+dh ; ix ; t ; uw ; th ; f ; er ; <eps> ; iy ; f ; ax ; g ; ao ; t ; ax ; k ; ax ; m  ; w ; ix ; n ; r ; ao ; jh ; er ; z  ; t ; uw ; th ; f  ; eh ; l ; aw ; t
+=  ; =  ; = ; =  ; S  ; S ; =  ;   I   ; =  ; = ; S  ; = ; S  ; = ; S  ; = ; S  ; S  ; = ; S  ; = ; = ; =  ; S  ; =  ; S  ; = ; =  ; S  ; S  ; =  ; = ; S  ; =
+dh ; ix ; t ; uw ; p  ; b ; er ;   r   ; iy ; f ; er ; g ; ae ; t ; ix ; k ; ao ; ng ; w ; ax ; n ; r ; ao ; dx ; er ; zh ; t ; uw ; k  ; dh ; eh ; l ; ao ; t
+================================================================================
+MJMP0_SI905.WAV, %WER 42.86 [ 12 / 28, 0 ins, 2 del, 10 sub ]
+  hh  ; ix ; z ; w ; er ; b ; iy ; g  ; ae ; n ; jh ; ix ; s ; ix ; k ; s ;   d   ; ey ; z ; ae ; f ; t ; ax ; dh ; ax ; f ; l ; ax
+  D   ; =  ; = ; = ; S  ; = ; =  ; S  ; =  ; S ; =  ; =  ; = ; =  ; S ; S ;   D   ; =  ; = ; S  ; = ; = ; S  ; S  ; S  ; = ; = ; S 
+<eps> ; ix ; z ; w ; r  ; b ; iy ; hh ; ae ; d ; jh ; ix ; s ; ix ; t ; t ; <eps> ; ey ; z ; eh ; f ; t ; ix ; d  ; ix ; f ; l ; ay
+================================================================================
+MJMP0_SX5.WAV, %WER 28.57 [ 4 / 14, 1 ins, 0 del, 3 sub ]
+zh ; iy ; ix ; z ; th ; ix ; <eps> ; n ; er ; dh ; ix ; n ; ay ; ae ; m
+=  ; =  ; =  ; = ; S  ; S  ;   I   ; = ; =  ; =  ; =  ; = ; =  ; S  ; =
+zh ; iy ; ix ; z ; s  ; t  ;   eh  ; n ; er ; dh ; ix ; n ; ay ; ax ; m
+================================================================================
+MJMP0_SX185.WAV, %WER 33.33 [ 7 / 21, 2 ins, 0 del, 5 sub ]
+d ; ix ; jh ; <eps> ; uw ; b ; ay ; ix ; <eps> ; n ; iy ; k ; ao ; r ; dx ; er ; oy ; ow ; v ; er ; ao ; l ; s
+= ; =  ; =  ;   I   ; =  ; = ; =  ; S  ;   I   ; = ; =  ; = ; =  ; = ; =  ; =  ; S  ; =  ; = ; =  ; S  ; S ; S
+d ; ix ; jh ;   y   ; uw ; b ; ay ; r  ;   ey  ; n ; iy ; k ; ao ; r ; dx ; er ; ey ; ow ; v ; er ; r  ; n ; f
+================================================================================
+MJMP0_SX275.WAV, %WER 17.39 [ 4 / 23, 1 ins, 2 del, 1 sub ]
+s ; t ; iy ; v ;   w   ; ao ; r ;   ax  ; b ; r ; ay ; <eps> ; r ; eh ; k ; ae ; zh ; m ; er ; s ; w ; eh ; dx ; er
+= ; = ; =  ; = ;   D   ; =  ; = ;   D   ; = ; = ; =  ;   I   ; = ; =  ; = ; =  ; =  ; = ; =  ; = ; = ; S  ; =  ; = 
+s ; t ; iy ; v ; <eps> ; ao ; r ; <eps> ; b ; r ; ay ;   ey  ; r ; eh ; k ; ae ; zh ; m ; er ; s ; w ; ey ; dx ; er
+================================================================================
+MJMP0_SX365.WAV, %WER 35.14 [ 13 / 37, 4 ins, 2 del, 7 sub ]
+dh ; ix ; g ; ax ; n ;   m   ; ix ; n ; k ; eh ; t ; ix ; z ; v ; ix ; t ; ix ; m ; k ; ao ; <eps> ; n ; er ; <eps> ; eh ; g ; ax ; n ; p ; <eps> ; oy ;   n   ; f ; er ; <eps> ; th ; r ; iy ; aw ; er ; z
+S  ; =  ; S ; S  ; = ;   D   ; =  ; = ; = ; =  ; = ; =  ; = ; = ; =  ; = ; =  ; = ; = ; =  ;   I   ; = ; =  ;   I   ; =  ; S ; S  ; S ; = ;   I   ; =  ;   D   ; = ; S  ;   I   ; =  ; = ; =  ; =  ; =  ; =
+t  ; ix ; d ; eh ; n ; <eps> ; ix ; n ; k ; eh ; t ; ix ; z ; v ; ix ; t ; ix ; m ; k ; ao ;   r   ; n ; er ;   dx  ; eh ; t ; eh ; m ; p ;   l   ; oy ; <eps> ; f ; r  ;   ix  ; th ; r ; iy ; aw ; er ; z
+================================================================================
+MJMP0_SI1791.WAV, %WER 37.78 [ 17 / 45, 5 ins, 6 del, 6 sub ]
+n ; ow ; dh ; ax ; m ; ae ; n ; w ; ax ; z ; n ; ao ; d  ; r ; ax ;   ng  ;   k   ; hh ; <eps> ; iy ; <eps> ; w ; <eps> ; ax ; n ; d ; er ;   d   ; hh ; aw ; <eps> ; iy ; g  ; ao ; <eps> ; t ; ay ; dx ; ax ; w ; ix ; th ; ix ; s ; t ; r ; ey ;   n   ;   jh  ;   er 
+= ; =  ; =  ; =  ; = ; =  ; = ; = ; =  ; = ; = ; S  ; S  ; = ; =  ;   D   ;   D   ; =  ;   I   ; =  ;   I   ; = ;   I   ; =  ; = ; = ; =  ;   D   ; =  ; =  ;   I   ; =  ; S  ; S  ;   I   ; = ; =  ; =  ; S  ; = ; =  ; S  ; =  ; = ; = ; = ; =  ;   D   ;   D   ;   D  
+n ; ow ; dh ; ax ; m ; ae ; n ; w ; ax ; z ; n ; er ; jh ; r ; ax ; <eps> ; <eps> ; hh ;   y   ; iy ;   m   ; w ;   ao  ; ax ; n ; d ; er ; <eps> ; hh ; aw ;   dx  ; iy ; eh ; r  ;   ix  ; t ; ay ; dx ; eh ; w ; ix ; f  ; ix ; s ; t ; r ; ey ; <eps> ; <eps> ; <eps>
+================================================================================
+MJMP0_SI1535.WAV, %WER 22.73 [ 5 / 22, 2 ins, 2 del, 1 sub ]
+hh ; iy ; t ; r ; eh ; m ;   b   ; l ; <eps> ; l ; eh ; s ; t ;   hh  ; ix ; z ; p ; iy ; zh ; ix ; <eps> ; f ; ey ; l
+=  ; =  ; = ; = ; =  ; S ;   D   ; = ;   I   ; = ; =  ; = ; = ;   D   ; =  ; = ; = ; =  ; =  ; =  ;   I   ; = ; =  ; =
+hh ; iy ; t ; r ; eh ; v ; <eps> ; l ;   ax  ; l ; eh ; s ; t ; <eps> ; ix ; z ; p ; iy ; zh ; ix ;   d   ; f ; ey ; l
+================================================================================
+MJMP0_SX95.WAV, %WER 35.48 [ 11 / 31, 0 ins, 2 del, 9 sub ]
+ix ; g ; w ; ao ; n  ; eh ; z ; eh ; n ; ae ; l ; ix ; g ; ey ; dx ; er ; z ; er ; t ; r  ;   ao  ; p ; ax ; k ; l  ; r ; eh ; t ; ay ;   l   ; z
+S  ; S ; S ; =  ; S  ; =  ; = ; S  ; = ; =  ; = ; =  ; = ; S  ; =  ; =  ; = ; =  ; = ; S  ;   D   ; = ; =  ; = ; S  ; = ; =  ; = ; S  ;   D   ; =
+uw ; d ; l ; ao ; dx ; eh ; z ; ix ; n ; ae ; l ; ix ; g ; ix ; dx ; er ; z ; er ; t ; ax ; <eps> ; p ; ax ; k ; ax ; r ; eh ; t ; ax ; <eps> ; z
+================================================================================
+FJLM0_SX143.WAV, %WER 37.50 [ 12 / 32, 0 ins, 5 del, 7 sub ]
+dh ; ax ; s ; aw ; n ; d ; ix ;   v   ; jh ; ix ; n  ; ix ; f ; er ; z  ; b ;   y   ; uw ; g ; l ; s ; k ;   eh  ; r ; dh ; eh ; ae ; n ; ax ; l ;   ow  ;   p  
+=  ; S  ; = ; =  ; = ; = ; =  ;   D   ; =  ; =  ; S  ; =  ; = ; =  ; S  ; = ;   D   ; =  ; = ; = ; = ; S ;   D   ; = ; =  ; S  ; S  ; = ; S  ; = ;   D   ;   D  
+dh ; ix ; s ; aw ; n ; d ; ix ; <eps> ; jh ; ix ; dx ; ix ; f ; er ; zh ; b ; <eps> ; uw ; g ; l ; s ; g ; <eps> ; r ; dh ; n  ; ax ; n ; l  ; l ; <eps> ; <eps>
+================================================================================
+FJLM0_SI2303.WAV, %WER 12.50 [ 4 / 32, 0 ins, 3 del, 1 sub ]
+ix ; n ; zh ;   ao  ; r ; eh ; n ; t ; ix ; b ;   ao  ; r ; ax ; n ; ao ; r ; b ; er ; l ; f ; r ; ey ; z ; s ; l ; ae ; zh ; t ; ix ; m ;   b   ; er
+=  ; = ; =  ;   D   ; = ; =  ; = ; = ; =  ; = ;   D   ; = ; =  ; = ; =  ; = ; = ; =  ; = ; = ; = ; =  ; = ; = ; = ; =  ; =  ; = ; S  ; = ;   D   ; = 
+ix ; n ; zh ; <eps> ; r ; eh ; n ; t ; ix ; b ; <eps> ; r ; ax ; n ; ao ; r ; b ; er ; l ; f ; r ; ey ; z ; s ; l ; ae ; zh ; t ; uw ; m ; <eps> ; er
+================================================================================
+FJLM0_SX233.WAV, %WER 23.81 [ 5 / 21, 0 ins, 3 del, 2 sub ]
+hh ; ao ; w ; ey ; ix ; n ; f ; r ; iy ; w ; ey ; m ; iy ; n ;   ix  ; s ; ey ;   m   ; th ;   ae  ; ng
+=  ; S  ; = ; =  ; S  ; = ; = ; = ; =  ; = ; =  ; = ; =  ; = ;   D   ; = ; =  ;   D   ; =  ;   D   ; = 
+hh ; aw ; w ; ey ; ae ; n ; f ; r ; iy ; w ; ey ; m ; iy ; n ; <eps> ; s ; ey ; <eps> ; th ; <eps> ; ng
+================================================================================
+FJLM0_SX53.WAV, %WER 29.41 [ 10 / 34, 0 ins, 4 del, 6 sub ]
+iy ; v  ; ix ; n ; ax ; s ; ix ; m ; p ; l ; v ; ax ; k ; ae ; b ; y ;   ix  ; l ;   eh  ; r ; iy ; k ; ax ; n ; t ; ey ; n  ;   t   ; s ; ix ; m ;   b   ; l ; z
+=  ; S  ; =  ; = ; =  ; = ; =  ; = ; S ; = ; = ; S  ; = ; S  ; = ; = ;   D   ; = ;   D   ; = ; =  ; = ; S  ; = ; = ; =  ; S  ;   D   ; = ; =  ; = ;   D   ; = ; =
+iy ; dh ; ix ; n ; ax ; s ; ix ; m ; f ; l ; v ; ow ; k ; eh ; b ; y ; <eps> ; l ; <eps> ; r ; iy ; k ; ix ; n ; t ; ey ; ng ; <eps> ; s ; ix ; m ; <eps> ; l ; z
+================================================================================
+FJLM0_SI1673.WAV, %WER 25.93 [ 7 / 27, 0 ins, 3 del, 4 sub ]
+w ; ax ; n ; th ;   ix  ; ng ; k ; hh ; ix ;   th  ; ao ; n ; ow ; b ; ax ; dx ; iy ; n ; ow ; z ; ax ; b ; aw ; dx ; ix ;   y   ; eh
+= ; S  ; = ; S  ;   D   ; =  ; = ; =  ; S  ;   D   ; =  ; = ; S  ; = ; =  ; =  ; =  ; = ; =  ; = ; =  ; = ; =  ; =  ; =  ;   D   ; = 
+w ; ix ; n ; ey ; <eps> ; ng ; k ; hh ; iy ; <eps> ; ao ; n ; ax ; b ; ax ; dx ; iy ; n ; ow ; z ; ax ; b ; aw ; dx ; ix ; <eps> ; eh
+================================================================================
+FJLM0_SX323.WAV, %WER 24.14 [ 7 / 29, 0 ins, 1 del, 6 sub ]
+dh ; ax ; f ; ao ; p ; r ; ix ; v ; ix ; n ; ix ; dh ; ix ;   m   ; f ; r ; ax ; m ; er ; r ; ao ; v ; ix ; ng ; ao ; n ; t ; ao ; m
+=  ; =  ; = ; =  ; = ; = ; S  ; = ; =  ; = ; =  ; S  ; S  ;   D   ; = ; = ; S  ; = ; =  ; = ; =  ; S ; S  ; =  ; =  ; = ; = ; =  ; =
+dh ; ax ; f ; ao ; p ; r ; er ; v ; ix ; n ; ix ; d  ; n  ; <eps> ; f ; r ; er ; m ; er ; r ; ao ; b ; iy ; ng ; ao ; n ; t ; ao ; m
+================================================================================
+FJLM0_SI1043.WAV, %WER 21.43 [ 6 / 28, 0 ins, 1 del, 5 sub ]
+n ; ao ; s ; ix ; p ; r ; ao ; z ; ix ; ng ; l ; iy ; dh ; ix ; s ; ax ; p ; r ; ow ; ch ; d ; ix ;   d   ; n ; ao ; w ; er ; k
+S ; =  ; = ; S  ; = ; = ; =  ; = ; =  ; =  ; = ; S  ; =  ; =  ; = ; S  ; = ; = ; S  ; =  ; = ; =  ;   D   ; = ; =  ; = ; =  ; =
+m ; ao ; s ; ax ; p ; r ; ao ; z ; ix ; ng ; l ; ey ; dh ; ix ; s ; ix ; p ; r ; ax ; ch ; d ; ix ; <eps> ; n ; ao ; w ; er ; k
+================================================================================
+FJLM0_SX413.WAV, %WER 24.24 [ 8 / 33, 0 ins, 2 del, 6 sub ]
+d  ; ae ; f ;   n   ; iy ; s ; w ; ix ; dx ; ix ; zh ; n ; iy ; d  ; l ; p ; oy ; n  ; t ; s ; k ; ao ; r ; f ; m ; ae ; ch ; t ;   hh  ; er ; s ; k ; er
+S  ; =  ; = ;   D   ; =  ; = ; = ; S  ; =  ; =  ; =  ; = ; =  ; S  ; = ; = ; S  ; S  ; S ; = ; = ; =  ; = ; = ; = ; =  ; =  ; = ;   D   ; =  ; = ; = ; = 
+dh ; ae ; f ; <eps> ; iy ; s ; w ; iy ; dx ; ix ; zh ; n ; iy ; dx ; l ; p ; w  ; ix ; k ; s ; k ; ao ; r ; f ; m ; ae ; ch ; t ; <eps> ; er ; s ; k ; er
+================================================================================
+MTLS0_SX290.WAV, %WER 33.33 [ 12 / 36, 1 ins, 5 del, 6 sub ]
+dh ; ix ; <eps> ; s ; b ; r  ;   ow  ; zh ; er ; ix ; s ; p ; ax ; t  ;   ix  ; k ;   l   ; ix ; n ; f ; ow ; m ; t ; ix ; f ; er ; p ; er ; s ; p ; ax ; t ; ix ;   v   ; b ;   ay  ; er
+=  ; =  ;   I   ; = ; = ; S  ;   D   ; =  ; =  ; =  ; = ; = ; S  ; S  ;   D   ; = ;   D   ; =  ; = ; = ; S  ; = ; = ; =  ; = ; =  ; = ; =  ; = ; = ; S  ; S ; =  ;   D   ; = ;   D   ; = 
+dh ; ix ;   z   ; s ; b ; er ; <eps> ; zh ; er ; ix ; s ; p ; v  ; eh ; <eps> ; k ; <eps> ; ix ; n ; f ; ax ; m ; t ; ix ; f ; er ; p ; er ; s ; p ; eh ; k ; ix ; <eps> ; b ; <eps> ; er
+================================================================================
+MTLS0_SI740.WAV, %WER 35.00 [ 7 / 20, 0 ins, 4 del, 3 sub ]
+d ; uw ; w ; ix ; th ; aw ; f ; ae ; n ; s ; iy ; t ; ey ; b ; l ; k ;   l   ;   ao  ;   dh  ;   s  
+S ; =  ; = ; =  ; =  ; =  ; = ; S  ; = ; = ; =  ; = ; =  ; = ; = ; S ;   D   ;   D   ;   D   ;   D  
+b ; uw ; w ; ix ; th ; aw ; f ; ix ; n ; s ; iy ; t ; ey ; b ; l ; f ; <eps> ; <eps> ; <eps> ; <eps>
+================================================================================
+MTLS0_SX200.WAV, %WER 41.38 [ 12 / 29, 1 ins, 2 del, 9 sub ]
+r ; aw ; f ; k ; ax ; n ; t ; r ; ow ; dh ; ix ; s ; t ; ao ; p ;   w   ; ao ; ch ; f ; <eps> ; er ; m ; dh ; ax ; b ; l  ;   iy  ; ch ; er ; s
+= ; S  ; = ; = ; S  ; = ; = ; = ; =  ; =  ; =  ; = ; = ; S  ; = ;   D   ; =  ; S  ; S ;   I   ; =  ; S ; =  ; =  ; S ; S  ;   D   ; =  ; =  ; S
+r ; ae ; f ; k ; er ; n ; t ; r ; ow ; dh ; ix ; s ; t ; aw ; p ; <eps> ; ao ; r  ; t ;   v   ; er ; n ; dh ; ax ; p ; uw ; <eps> ; ch ; er ; z
+================================================================================
+MTLS0_SX110.WAV, %WER 44.12 [ 15 / 34, 1 ins, 7 del, 7 sub ]
+dh ; ax ; b ; eh ; s ; t ; w  ;   ey  ; t ; ax ; l ; er ; n ; ix ; z  ; <eps> ; t ; ix ; s ; ao ; l  ;   v   ; eh ;   k   ; s ; t ; er ; p ; r ;   ao  ; b ;   l   ;   ax  ;   m   ; s
+=  ; S  ; = ; =  ; = ; S ; S  ;   D   ; = ; S  ; S ; =  ; = ; =  ; S  ;   I   ; = ; =  ; = ; =  ; S  ;   D   ; =  ;   D   ; = ; = ; =  ; = ; = ;   D   ; = ;   D   ;   D   ;   D   ; =
+dh ; ix ; b ; eh ; s ; k ; oy ; <eps> ; t ; ix ; r ; er ; n ; ix ; ix ;   s   ; t ; ix ; s ; ao ; dh ; <eps> ; eh ; <eps> ; s ; t ; er ; p ; r ; <eps> ; b ; <eps> ; <eps> ; <eps> ; s
+================================================================================
+MTLS0_SI1370.WAV, %WER 34.09 [ 15 / 44, 2 ins, 2 del, 11 sub ]
+w ; ix ; m ; ey ; s ; ey ; dh ; eh ; hh ; ix ; z ; p ; r ; ao ; l ; ax ; m ; w ; ax ; z ; d ; <eps> ; ay ; n ; ow ; s ; t ; b ; ax ; dh ; ae ;   t   ; hh ; iy ; r ; uw ; f ; <eps> ; uw ; z ; t ; r ; iy ; m ; ix ;   n  
+= ; =  ; = ; =  ; = ; =  ; S  ; S  ; =  ; =  ; S ; = ; = ; =  ; S ; =  ; S ; = ; =  ; S ; S ;   I   ; =  ; = ; =  ; = ; = ; = ; S  ; =  ; S  ;   D   ; =  ; =  ; = ; S  ; = ;   I   ; =  ; S ; = ; = ; =  ; = ; =  ;   D  
+w ; ix ; m ; ey ; s ; ey ; dx ; ix ; hh ; ix ; s ; p ; r ; ao ; v ; ax ; n ; w ; ax ; s ; b ;   ao  ; ay ; n ; ow ; s ; t ; b ; ix ; dh ; eh ; <eps> ; hh ; iy ; r ; ix ; f ;   y   ; uw ; s ; t ; r ; iy ; m ; ix ; <eps>
+================================================================================
+MTLS0_SX20.WAV, %WER 40.00 [ 10 / 25, 2 ins, 2 del, 6 sub ]
+zh ; iy ; <eps> ; w ; ao ; r ; w ; ao ; r  ; m ; f ; l ; iy ; s ; <eps> ; iy ; w ; uh ;   l   ; ax ; n ; ow ; f ; er ;   ao  ; l ; z
+=  ; S  ;   I   ; = ; =  ; = ; = ; S  ; S  ; S ; = ; S ; =  ; = ;   I   ; =  ; = ; S  ;   D   ; =  ; = ; =  ; = ; =  ;   D   ; = ; =
+zh ; y  ;   uw  ; w ; ao ; r ; w ; er ; er ; n ; f ; r ; iy ; s ;   y   ; iy ; w ; ax ; <eps> ; ax ; n ; ow ; f ; er ; <eps> ; l ; z
+================================================================================
+MTLS0_SI2000.WAV, %WER 46.43 [ 13 / 28, 2 ins, 5 del, 6 sub ]
+w ; iy ; k ; ix ; ng ; g ; eh ; <eps> ; <eps> ; dx ; ix ; ix ; f ;   w   ; ix ; d ; ix ;   ix  ; g ;   hh  ; iy ; s ; eh ; p ; ey ; zh ; n  ; t  ;   l   ;   iy 
+= ; =  ; = ; =  ; =  ; = ; S  ;   I   ;   I   ; =  ; =  ; =  ; = ;   D   ; =  ; = ; S  ;   D   ; = ;   D   ; =  ; S ; S  ; = ; =  ; =  ; S  ; S  ;   D   ;   D  
+w ; iy ; k ; ix ; ng ; g ; y  ;   uw  ;   ix  ; dx ; ix ; ix ; f ; <eps> ; ix ; d ; uw ; <eps> ; g ; <eps> ; iy ; f ; ix ; p ; ey ; zh ; ix ; ix ; <eps> ; <eps>
+================================================================================
+MTLS0_SX380.WAV, %WER 28.57 [ 6 / 21, 1 ins, 0 del, 5 sub ]
+w ; ay ; ch ; ao ; r ; jh ; m ; <eps> ; ax ; n ; iy ; f ; er ; s ; ax ; ch ; g ; ao ; r ; b ; ix ; jh
+= ; =  ; S  ; =  ; = ; =  ; = ;   I   ; =  ; = ; =  ; = ; =  ; = ; S  ; =  ; S ; =  ; = ; S ; S  ; = 
+w ; ay ; t  ; ao ; r ; jh ; m ;   r   ; ax ; n ; iy ; f ; er ; s ; eh ; ch ; b ; ao ; r ; p ; er ; jh
+================================================================================
+MLLL0_SX103.WAV, %WER 37.93 [ 11 / 29, 0 ins, 6 del, 5 sub ]
+k ; ao ; l ; ax ;   n   ;   ae  ;   m   ; b ; uw ;   l   ; ix ;   n   ; s ; f ; er ; m ; eh ; dx ; ix ; k ; l ; ax ; s ; ix ; s ; t ;   n   ; t ; s
+= ; =  ; = ; S  ;   D   ;   D   ;   D   ; = ; S  ;   D   ; =  ;   D   ; = ; = ; =  ; = ; S  ; =  ; =  ; = ; = ; S  ; = ; =  ; S ; = ;   D   ; = ; =
+k ; ao ; l ; eh ; <eps> ; <eps> ; <eps> ; b ; iy ; <eps> ; ix ; <eps> ; s ; f ; er ; m ; ax ; dx ; ix ; k ; l ; l  ; s ; ix ; z ; t ; <eps> ; t ; s
+================================================================================
+MLLL0_SI1993.WAV, %WER 22.22 [ 2 / 9, 0 ins, 0 del, 2 sub ]
+zh ; uh ; zh ; iy ; w ; ey ; k ; ix ; m
+=  ; S  ; =  ; =  ; S ; =  ; = ; =  ; =
+zh ; ix ; zh ; iy ; r ; ey ; k ; ix ; m
+================================================================================
+MLLL0_SX193.WAV, %WER 25.00 [ 5 / 20, 0 ins, 1 del, 4 sub ]
+w ; ay ; b ; ay ; oy ; l ; w ; ax ;   n   ; y ; ix ; ao ; w ; ix ; zh ; uw ; z ; m ; ay ; n
+= ; =  ; = ; =  ; S  ; = ; = ; S  ;   D   ; = ; S  ; S  ; = ; =  ; =  ; =  ; = ; = ; =  ; =
+w ; ay ; b ; ay ; l  ; l ; w ; ix ; <eps> ; y ; ow ; l  ; w ; ix ; zh ; uw ; z ; m ; ay ; n
+================================================================================
+MLLL0_SX13.WAV, %WER 20.00 [ 4 / 20, 0 ins, 3 del, 1 sub ]
+s ; w ; iy ; ng ;   y   ; er ; ao ; r ; m ; ix ; z ; hh ; ay ;   ix  ; z ; ix ; k ;   ae  ; ix ; n
+= ; = ; =  ; =  ;   D   ; =  ; =  ; = ; S ; =  ; = ; =  ; =  ;   D   ; = ; =  ; = ;   D   ; =  ; =
+s ; w ; iy ; ng ; <eps> ; er ; ao ; r ; w ; ix ; z ; hh ; ay ; <eps> ; z ; ix ; k ; <eps> ; ix ; n
+================================================================================
+MLLL0_SX283.WAV, %WER 29.73 [ 11 / 37, 1 ins, 3 del, 7 sub ]
+p ; l ; ae ; n ; d ; p ;   eh  ; er ; n ;   t   ; hh ; uh ; ax ; ao ; r ; g ; ix ;   n   ; ix ; z ; ey ; zh ; ix ; n ; s ; p ; m ; ow ; b ; er ; th ; k ; <eps> ; n ; t ; r ; ow ; l
+= ; = ; S  ; = ; S ; = ;   D   ; =  ; S ;   D   ; =  ; =  ; S  ; =  ; = ; = ; S  ;   D   ; =  ; = ; =  ; =  ; =  ; = ; = ; = ; = ; =  ; S ; =  ; S  ; = ;   I   ; = ; = ; = ; =  ; =
+p ; l ; ey ; n ; t ; p ; <eps> ; er ; d ; <eps> ; hh ; uh ; dx ; ao ; r ; g ; r  ; <eps> ; ix ; z ; ey ; zh ; ix ; n ; s ; p ; m ; ow ; p ; er ; s  ; k ;   ix  ; n ; t ; r ; ow ; l
+================================================================================
+MLLL0_SI1363.WAV, %WER 36.96 [ 17 / 46, 1 ins, 5 del, 11 sub ]
+s ; ax ; m ; ix ;   dh  ; iy ; s ; p ; eh ; k ; ix ; l ; ey ; zh ; <eps> ; n ; z ; m ; ey ; eh ;   v   ; s ; ax ; m ; eh ; r ; ix ; ax ; dh ; er ; z  ; er ; s ; ax ;   m   ; w ; ax ; dx ; ax ; m ; b ; ix ;   g   ; y ;   uw  ; ax ; s
+= ; =  ; S ; S  ;   D   ; =  ; S ; = ; S  ; = ; =  ; = ; =  ; =  ;   I   ; = ; S ; = ; S  ; S  ;   D   ; = ; =  ; = ; =  ; = ; =  ; S  ; =  ; =  ; S  ; S  ; = ; =  ;   D   ; = ; =  ; =  ; S  ; = ; = ; =  ;   D   ; = ;   D   ; =  ; =
+s ; ax ; v ; l  ; <eps> ; iy ; z ; p ; ix ; k ; ix ; l ; ey ; zh ;   ix  ; n ; s ; m ; iy ; ix ; <eps> ; s ; ax ; m ; eh ; r ; ix ; ao ; dh ; er ; zh ; ix ; s ; ax ; <eps> ; w ; ax ; dx ; ix ; m ; b ; ix ; <eps> ; y ; <eps> ; ax ; s
+================================================================================
+MLLL0_SI733.WAV, %WER 29.03 [ 9 / 31, 1 ins, 2 del, 6 sub ]
+d ; <eps> ; uw ; ax ; v ; oy ; p ; ax ; ng ; zh ; er ; iy ; n  ; er ; k ; ax ; dx ;   iy  ;   n   ; ix ; n ; t ; ix ; m ; iy ; s ; t ; eh ; s ; dh ; ax ; m
+S ;   I   ; =  ; S  ; = ; =  ; = ; =  ; =  ; =  ; S  ; =  ; S  ; =  ; = ; S  ; =  ;   D   ;   D   ; =  ; = ; = ; =  ; = ; =  ; = ; = ; =  ; = ; =  ; =  ; S
+f ;   t   ; uw ; uw ; v ; oy ; p ; ax ; ng ; zh ; r  ; iy ; dx ; er ; k ; iy ; dx ; <eps> ; <eps> ; ix ; n ; t ; ix ; m ; iy ; s ; t ; eh ; s ; dh ; ax ; n
+================================================================================
+MLLL0_SX373.WAV, %WER 36.00 [ 9 / 25, 2 ins, 2 del, 5 sub ]
+ax ; b ; ao ; r ; iy ; n ; <eps> ; ao ; v ; l ;   ix  ; z ; ix ; s ; ax ; p ; er ; <eps> ; s ;   l   ; iy ; p ; iy ; n ; p ; ix ; l
+=  ; = ; =  ; = ; S  ; = ;   I   ; =  ; S ; = ;   D   ; = ; =  ; = ; =  ; = ; =  ;   I   ; = ;   D   ; =  ; S ; S  ; = ; = ; S  ; =
+ax ; b ; ao ; r ; ix ; n ;   dh  ; ao ; m ; l ; <eps> ; z ; ix ; s ; ax ; p ; er ;   b   ; s ; <eps> ; iy ; k ; ix ; n ; p ; eh ; l
+================================================================================
+MCMJ0_SX194.WAV, %WER 47.06 [ 8 / 17, 0 ins, 3 del, 5 sub ]
+  dh  ;   ey  ; ix ; n ; jh ; oy ;   ix  ; w ; eh ; n ; ay ; ao ; d ; ix ; zh ; ix ; n
+  D   ;   D   ; =  ; = ; =  ; S  ;   D   ; = ; S  ; = ; =  ; S  ; = ; S  ; =  ; S  ; =
+<eps> ; <eps> ; ix ; n ; jh ; er ; <eps> ; w ; er ; n ; ay ; er ; d ; er ; zh ; er ; n
+================================================================================
+MCMJ0_SX284.WAV, %WER 48.48 [ 16 / 33, 5 ins, 2 del, 9 sub ]
+jh ; eh ; f ; th ; ao ; <eps> ; y ; uw ; ao ; r ; uw ; <eps> ; dx ; ix ;   n   ; f ; ey ; v ; <eps> ; er ; ix ; v ; <eps> ; ix ; s ; eh ;   n   ; t ; er ; f ; uw ; <eps> ; jh ; p ; er ; ch ; ix ; s
+=  ; S  ; = ; =  ; S  ;   I   ; = ; =  ; =  ; = ; S  ;   I   ; =  ; =  ;   D   ; = ; S  ; = ;   I   ; =  ; S  ; = ;   I   ; =  ; = ; S  ;   D   ; = ; =  ; = ; S  ;   I   ; =  ; = ; =  ; S  ; S  ; =
+jh ; ae ; f ; th ; er ;   dx  ; y ; uw ; ao ; r ; y  ;   ix  ; dx ; ix ; <eps> ; f ; eh ; v ;   r   ; er ; eh ; v ;   er  ; ix ; s ; er ; <eps> ; t ; er ; f ; y  ;   er  ; jh ; p ; er ; jh ; er ; s
+================================================================================
+MCMJ0_SX374.WAV, %WER 54.55 [ 12 / 22, 1 ins, 3 del, 8 sub ]
+jh ; ao ; n  ; <eps> ; k ; l ; iy ; n ; z ; zh ; eh ;   l   ; f ; ix ; zh ; f ; er ; ax ;   l   ;   ix  ; v ; ix ; ng
+=  ; =  ; S  ;   I   ; = ; S ; S  ; = ; = ; =  ; S  ;   D   ; = ; S  ; =  ; = ; =  ; S  ;   D   ;   D   ; = ; S  ; S 
+jh ; ao ; dx ;   ax  ; k ; r ; ey ; n ; z ; zh ; aw ; <eps> ; f ; er ; zh ; f ; er ; er ; <eps> ; <eps> ; v ; er ; n 
+================================================================================
+MCMJ0_SX104.WAV, %WER 52.63 [ 10 / 19, 1 ins, 4 del, 5 sub ]
+hh ;   iy  ; s ; t ; ow ;   l   ;   ax  ; d ; ay ; m ;   f   ; r ; <eps> ; ax ; m ; ax ; b ; eh ; g ; er
+S  ;   D   ; = ; = ; S  ;   D   ;   D   ; = ; S  ; S ;   D   ; = ;   I   ; =  ; = ; =  ; = ; =  ; S ; = 
+ix ; <eps> ; s ; t ; er ; <eps> ; <eps> ; d ; ao ; r ; <eps> ; r ;   f   ; ax ; m ; ax ; b ; eh ; r ; er
+================================================================================
+MCMJ0_SI1094.WAV, %WER 40.48 [ 17 / 42, 1 ins, 8 del, 8 sub ]
+m ; eh ; r ;   ix  ; k ; ix ; n ; uw ; s ; p ; ey ; p ; er ; r ; ix ; v ; y ;   uw  ; er ; z  ; l ; ay ; t ; ix ; k ;   ao  ;   l   ;   hh  ; ix ; z ; p ;   l   ; ey ; s ; n ; iy ; ix ;   l   ;   ix  ; s ; t ; ax ; <eps>
+S ; =  ; = ;   D   ; = ; =  ; = ; S  ; = ; = ; S  ; = ; =  ; = ; S  ; = ; = ;   D   ; =  ; S  ; S ; =  ; = ; =  ; = ;   D   ;   D   ;   D   ; =  ; = ; = ;   D   ; =  ; S ; = ; =  ; =  ;   D   ;   D   ; = ; = ; S  ;   I  
+n ; eh ; r ; <eps> ; k ; ix ; n ; ix ; s ; p ; ix ; p ; er ; r ; iy ; v ; y ; <eps> ; er ; zh ; r ; ay ; t ; ix ; k ; <eps> ; <eps> ; <eps> ; ix ; z ; p ; <eps> ; ey ; z ; n ; iy ; ix ; <eps> ; <eps> ; s ; t ; ix ;   k  
+================================================================================
+MCMJ0_SI464.WAV, %WER 44.90 [ 22 / 49, 6 ins, 2 del, 14 sub ]
+dh ; ax ; p ; r ; ao ; s ; p ; eh ; <eps> ; t ; ix ; v ; k ; ax ; <eps> ; dx ; ix ; ng ; b ; ae ; k ; s ; <eps> ; eh ; n ; ix ; ng ; <eps> ; <eps> ; ix ; z ; n ; ax ; n ; p ; l  ;   eh  ; z ; ix ; n  ; w ;   ax  ; n ; f ; <eps> ; er ; eh ; n ; iy ; g ; ax ; v ; er ; n ; er
+=  ; S  ; = ; = ; =  ; = ; = ; =  ;   I   ; = ; S  ; = ; = ; S  ;   I   ; =  ; =  ; =  ; = ; =  ; = ; = ;   I   ; =  ; = ; =  ; S  ;   I   ;   I   ; =  ; = ; = ; S  ; = ; S ; S  ;   D   ; = ; S  ; S  ; S ;   D   ; = ; = ;   I   ; =  ; S  ; = ; S  ; = ; S  ; = ; S  ; = ; = 
+dh ; ix ; p ; r ; ao ; s ; p ; eh ;   r   ; t ; er ; v ; k ; r  ;   uh  ; dx ; ix ; ng ; b ; ae ; k ; s ;   p   ; eh ; n ; ix ; n  ;   uw  ;   er  ; ix ; z ; n ; er ; n ; t ; ao ; <eps> ; z ; er ; ao ; r ; <eps> ; n ; f ;   r   ; er ; dx ; n ; ix ; g ; er ; v ; ix ; n ; er
+================================================================================
+MCMJ0_SI602.WAV, %WER 37.21 [ 16 / 43, 0 ins, 4 del, 12 sub ]
+b ; ix ; dh ; ix ; zh ; ix ; p  ; s ; er ; v ; er ; ix ; s ;   l   ; ow ; n ; aw ; eh ;   n   ; w ; iy ; d ; ow ;   n   ; g ; eh ; s ; ow ; m ;   eh  ; n ; iy ; s ; ey ; l ; er ; z ; ix ; n  ; ix ; m ; ao ; r
+= ; =  ; =  ; =  ; =  ; S  ; S  ; = ; =  ; = ; S  ; =  ; = ;   D   ; =  ; = ; =  ; S  ;   D   ; = ; S  ; = ; S  ;   D   ; = ; S  ; = ; S  ; = ;   D   ; = ; S  ; = ; S  ; = ; =  ; = ; S  ; S  ; =  ; = ; =  ; =
+b ; ix ; dh ; ix ; zh ; ch ; er ; s ; er ; v ; r  ; ix ; s ; <eps> ; ow ; n ; aw ; r  ; <eps> ; w ; ix ; d ; ao ; <eps> ; g ; er ; s ; er ; m ; <eps> ; n ; ix ; s ; eh ; l ; er ; z ; er ; dx ; ix ; m ; ao ; r
+================================================================================
+MCMJ0_SX14.WAV, %WER 54.55 [ 18 / 33, 0 ins, 4 del, 14 sub ]
+b ;   ax  ; f ; ao ; r  ;   th  ; er ; z ; d  ; ey ; z ; ix ; g ; z ; ae ; m ; r ; ix ; v ; y  ; uw ; eh ; v ; r  ;   ix  ; f ; ao ; r ; m ; y ; ix ; l  ;   ax 
+S ;   D   ; = ; S  ; S  ;   D   ; =  ; = ; S  ; S  ; = ; =  ; S ; = ; S  ; = ; = ; S  ; = ; S  ; S  ; =  ; = ; S  ;   D   ; = ; =  ; = ; = ; S ; S  ; S  ;   D  
+w ; <eps> ; f ; er ; dh ; <eps> ; er ; z ; dh ; eh ; z ; ix ; k ; z ; r  ; m ; r ; iy ; v ; ix ; er ; eh ; v ; iy ; <eps> ; f ; ao ; r ; m ; n ; r  ; er ; <eps>
+================================================================================
+FMGD0_SX124.WAV, %WER 17.39 [ 4 / 23, 0 ins, 0 del, 4 sub ]
+ao ; jh ; ix ; k ; s ; m ; ey ; d  ; ix ; v ; p ; y ; uw ; dx ; er ; er ; b ; y ; uw ; dx ; ix ; f ; l
+=  ; =  ; =  ; = ; = ; = ; =  ; S  ; =  ; S ; S ; = ; =  ; =  ; =  ; S  ; = ; = ; =  ; =  ; =  ; = ; =
+ao ; jh ; ix ; k ; s ; m ; ey ; dx ; ix ; f ; k ; y ; uw ; dx ; er ; r  ; b ; y ; uw ; dx ; ix ; f ; l
+================================================================================
+FMGD0_SI2194.WAV, %WER 25.58 [ 11 / 43, 3 ins, 1 del, 7 sub ]
+hh ; iy ; hh ; eh ; f ;   ao  ; l ; ix ; n ; t ; uw ; <eps> ; ix ; s ; ao ; <eps> ; f ; jh ; ao ; eh ; n ; aw ; dh ; ix ; jh ; ao ; w ; ax ; z ; g ; ao ; n ; ix ; n ; hh ; iy ; w ; uh ; s ; t ; <eps> ; r ; ae ; n ; d ; ix
+=  ; =  ; =  ; =  ; = ;   D   ; = ; =  ; = ; = ; S  ;   I   ; =  ; = ; S  ;   I   ; = ; =  ; =  ; S  ; = ; =  ; S  ; =  ; =  ; =  ; = ; S  ; = ; = ; S  ; = ; =  ; = ; =  ; =  ; = ; S  ; = ; = ;   I   ; = ; =  ; = ; = ; = 
+hh ; iy ; hh ; eh ; f ; <eps> ; l ; ix ; n ; t ; ix ;   v   ; ix ; s ; ax ;   ax  ; f ; jh ; ao ; ax ; n ; aw ; dx ; ix ; jh ; ao ; w ; ix ; z ; g ; ax ; n ; ix ; n ; hh ; iy ; w ; ix ; s ; t ;   p   ; r ; ae ; n ; d ; ix
+================================================================================
+FMGD0_SX394.WAV, %WER 40.91 [ 9 / 22, 2 ins, 4 del, 3 sub ]
+k ; ae ;   l   ; s ; iy ;   ix  ; m ; ey ; <eps> ; s ; b ;   ow  ; n ; z ; <eps> ; n ; t ; iy ; th ; s ; t ; r ; ao ;   ng 
+= ; S  ;   D   ; = ; =  ;   D   ; = ; =  ;   I   ; = ; = ;   D   ; = ; S ;   I   ; = ; = ; =  ; S  ; = ; = ; = ; =  ;   D  
+k ; aw ; <eps> ; s ; iy ; <eps> ; m ; ey ;   k   ; s ; b ; <eps> ; n ; s ;   ix  ; n ; t ; iy ; t  ; s ; t ; r ; ao ; <eps>
+================================================================================
+FMGD0_SX34.WAV, %WER 40.00 [ 8 / 20, 1 ins, 1 del, 6 sub ]
+d  ; ow ; n ; d ; uw ; ch ; ao ;   r   ; l ; iy ; z ; <eps> ; d ; er ; dx ; iy ; d ; ix ; zh ; ix ; z
+S  ; S  ; = ; = ; =  ; S  ; S  ;   D   ; = ; =  ; S ;   I   ; = ; =  ; =  ; =  ; = ; S  ; =  ; =  ; =
+dh ; eh ; n ; d ; uw ; t  ; er ; <eps> ; l ; iy ; s ;   t   ; d ; er ; dx ; iy ; d ; ey ; zh ; ix ; z
+================================================================================
+FMGD0_SX214.WAV, %WER 37.14 [ 13 / 35, 1 ins, 2 del, 10 sub ]
+dh ; ax ; m ; ao ; r ; n ; ix ; ng ; d ; uw ; ao ; <eps> ; n ; dh ;   ax  ; s ; p ; ay ; dx ; er ; w ; eh ; g ; l  ; ix ; s ; eh ; n ; d ; ix ; n ; dh ;   ax  ; s ; ax ; n
+=  ; S  ; = ; =  ; = ; = ; =  ; =  ; = ; =  ; S  ;   I   ; = ; S  ;   D   ; = ; S ; =  ; =  ; =  ; = ; =  ; S ; S  ; =  ; = ; S  ; = ; = ; S  ; = ; S  ;   D   ; = ; S  ; =
+dh ; ix ; m ; ao ; r ; n ; ix ; ng ; d ; uw ; l  ;   ax  ; n ; ix ; <eps> ; s ; b ; ay ; dx ; er ; w ; eh ; d ; dh ; ix ; s ; ix ; n ; d ; eh ; n ; ix ; <eps> ; s ; ay ; n
+================================================================================
+FMGD0_SI1564.WAV, %WER 14.58 [ 7 / 48, 2 ins, 3 del, 2 sub ]
+hh ; ax ; z ; b ; uh ; n ;   d   ; r ; iy ; w ; ax ; z ; b ; aw ; n ;   d   ; ix ; b ; ay ; s ; n ; ey ; <eps> ; r ;   eh  ; l ; f ; eh ; n ; s ; ax ; z ; <eps> ; ae ; n ; dh ; eh ; r ; w ; er ; g ; r ; ey ; z ; ix ; ng ; k ; ae ; dx ; l
+=  ; =  ; = ; = ; S  ; = ;   D   ; = ; =  ; = ; =  ; = ; = ; =  ; = ;   D   ; =  ; = ; =  ; = ; = ; =  ;   I   ; = ;   D   ; = ; = ; =  ; = ; = ; S  ; = ;   I   ; =  ; = ; =  ; =  ; = ; = ; =  ; = ; = ; =  ; = ; =  ; =  ; = ; =  ; =  ; =
+hh ; ax ; z ; b ; ix ; n ; <eps> ; r ; iy ; w ; ax ; z ; b ; aw ; n ; <eps> ; ix ; b ; ay ; s ; n ; ey ;   k   ; r ; <eps> ; l ; f ; eh ; n ; s ; ix ; z ;   hh  ; ae ; n ; dh ; eh ; r ; w ; er ; g ; r ; ey ; z ; ix ; ng ; k ; ae ; dx ; l
+================================================================================
+FMGD0_SI934.WAV, %WER 23.33 [ 7 / 30, 1 ins, 1 del, 5 sub ]
+ax ; th ;   ao  ; r ; er ; dx ; iy ; s ; ey ; dh ; eh ; dx ; ow ; l ; s ; t ; er ; z ; ao ; r ; ey ; p ; r ; ay ; m ; <eps> ; t ; ao ; r ; g  ; ix
+=  ; =  ;   D   ; = ; S  ; =  ; =  ; = ; =  ; =  ; =  ; =  ; S  ; = ; S ; = ; =  ; = ; =  ; = ; =  ; S ; = ; =  ; = ;   I   ; = ; =  ; = ; S  ; = 
+ax ; th ; <eps> ; r ; ix ; dx ; iy ; s ; ey ; dh ; eh ; dx ; eh ; l ; z ; t ; er ; z ; ao ; r ; ey ; f ; r ; ay ; m ;   n   ; t ; ao ; r ; ix ; ix
+================================================================================
+FMGD0_SX304.WAV, %WER 29.63 [ 8 / 27, 1 ins, 1 del, 6 sub ]
+ch ; iy ; s ; t ; ao ; k ; ix ; ng ; z ; r ; ax ; n ; dh ; ix ; f ; er ; s ; t ; ay ; m ;   dh  ; eh ; <eps> ; r ; w ; ao ; r ; n
+S  ; =  ; = ; = ; S  ; = ; =  ; S  ; S ; = ; =  ; = ; =  ; =  ; = ; =  ; = ; = ; S  ; S ;   D   ; =  ;   I   ; = ; = ; =  ; = ; =
+zh ; iy ; s ; t ; ae ; k ; ix ; n  ; s ; r ; ax ; n ; dh ; ix ; f ; er ; s ; t ; ao ; n ; <eps> ; eh ;   er  ; r ; w ; ao ; r ; n
+================================================================================
+MJDH0_SI1354.WAV, %WER 28.57 [ 14 / 49, 1 ins, 2 del, 11 sub ]
+w ; ix ; th ; ix ; n ; ax ; l ; ao ; r ; jh ; er ; s ; ow ; zh ; l ; s ; ix ; s ; t ; ax ; m ;   ao  ; r ; dh ; ix ; s ; t ; r ; ax ; k ; zh ; er ; l  ; n ; f ; ax ; ng ; zh ; n ; l  ; s ; ax ; <eps> ; s ; ix ; s ; t ; ax ; m ;   s  
+= ; =  ; =  ; =  ; = ; =  ; = ; =  ; = ; =  ; =  ; = ; =  ; =  ; = ; = ; =  ; = ; = ; =  ; = ;   D   ; = ; S  ; =  ; = ; S ; = ; =  ; = ; S  ; S  ; S  ; = ; = ; S  ; S  ; S  ; S ; S  ; = ; =  ;   I   ; = ; =  ; = ; = ; =  ; S ;   D  
+w ; ix ; th ; ix ; n ; ax ; l ; ao ; r ; jh ; er ; s ; ow ; zh ; l ; s ; ix ; s ; t ; ax ; m ; <eps> ; r ; g  ; ix ; s ; k ; r ; ax ; k ; f  ; r  ; ax ; n ; f ; ao ; n  ; f  ; m ; ax ; s ; ax ;   p   ; s ; ix ; s ; t ; ax ; z ; <eps>
+================================================================================
+MJDH0_SX4.WAV, %WER 12.00 [ 3 / 25, 0 ins, 1 del, 2 sub ]
+jh ; ey ; n ; m ; ey ; er ; n ; m ; ao ; r ; m ; ax ; n ; iy ; b ; ay ; w ; er ; k ; ix ; ng ;   hh  ; ao ; r ; d
+=  ; =  ; = ; S ; =  ; =  ; = ; = ; =  ; = ; = ; =  ; = ; =  ; = ; S  ; = ; =  ; = ; =  ; =  ;   D   ; =  ; = ; =
+jh ; ey ; n ; r ; ey ; er ; n ; m ; ao ; r ; m ; ax ; n ; iy ; b ; ax ; w ; er ; k ; ix ; ng ; <eps> ; ao ; r ; d
+================================================================================
+MJDH0_SX94.WAV, %WER 24.00 [ 6 / 25, 2 ins, 0 del, 4 sub ]
+y ; ax ; ng ; s ; t ; uw ; z ; l ; ax ; v ; k ; ao ; m ; ix ; n ; k ; ae ; n ; d ; iy ; z  ; <eps> ; t ; r ; iy ; <eps> ; s
+= ; =  ; S  ; = ; = ; =  ; = ; = ; =  ; = ; = ; =  ; S ; =  ; = ; = ; =  ; = ; = ; S  ; S  ;   I   ; = ; = ; =  ;   I   ; =
+y ; ax ; m  ; s ; t ; uw ; z ; l ; ax ; v ; k ; ao ; n ; ix ; n ; k ; ae ; n ; d ; y  ; uw ;   s   ; t ; r ; iy ;   t   ; s
+================================================================================
+MJDH0_SX364.WAV, %WER 21.57 [ 11 / 51, 1 ins, 0 del, 10 sub ]
+iy ; ch ; ax ; n ; t ; ay ; m ; l ; iy ; ix ; n ; k ; ax ; m ; l ; ao ; s ; k ; ow ; ax ; n ; s ; ay ; dx ; ix ; w ; ix ; th ; ax ; b ; r ; ey ; d ; aw ; n  ; ax ; v ; ix ; <eps> ; hh ; iy ; dx ; iy ; ng ; s ; ix ; s ; t ; m ; p ; ao ; r
+=  ; =  ; S  ; = ; = ; S  ; S ; = ; =  ; =  ; = ; = ; =  ; = ; = ; =  ; = ; = ; =  ; S  ; = ; = ; S  ; =  ; S  ; = ; =  ; =  ; =  ; = ; = ; S  ; = ; =  ; S  ; =  ; S ; S  ;   I   ; =  ; =  ; =  ; =  ; =  ; = ; =  ; = ; = ; = ; = ; =  ; =
+iy ; ch ; ix ; n ; t ; ao ; n ; l ; iy ; ix ; n ; k ; ax ; m ; l ; ao ; s ; k ; ow ; uh ; n ; s ; ao ; dx ; ax ; w ; ix ; th ; ax ; b ; r ; iy ; d ; aw ; dx ; ax ; f ; er ;   zh  ; hh ; iy ; dx ; iy ; ng ; s ; ix ; s ; t ; m ; p ; ao ; r
+================================================================================
+MJDH0_SI724.WAV, %WER 19.23 [ 5 / 26, 1 ins, 2 del, 2 sub ]
+ix ; s  ; ix ; s ; t ; r ; iy ; m ;   l   ; ay ; n ; r ; ay ; f ; l ; f ; ae ; s ; t ; <eps> ; n ; w ; ax ;   l   ; m ; ey ; d
+=  ; S  ; =  ; = ; = ; = ; =  ; = ;   D   ; =  ; = ; = ; =  ; = ; = ; = ; =  ; = ; = ;   I   ; = ; = ; S  ;   D   ; = ; =  ; =
+ix ; ch ; ix ; s ; t ; r ; iy ; m ; <eps> ; ay ; n ; r ; ay ; f ; l ; f ; ae ; s ; t ;   ix  ; n ; w ; uh ; <eps> ; m ; ey ; d
+================================================================================
+MJDH0_SX184.WAV, %WER 50.00 [ 9 / 18, 1 ins, 1 del, 7 sub ]
+dh ; ix ; k ; ae ; s ; m ; iy ; aw ; oy ; z  ; hh ; <eps> ; er ; s ; m ; ay ;   ix  ; er ; z
+=  ; =  ; = ; =  ; = ; S ; =  ; =  ; S  ; S  ; S  ;   I   ; =  ; S ; = ; S  ;   D   ; =  ; S
+dh ; ix ; k ; ae ; s ; p ; iy ; aw ; w  ; ao ; oy ;   s   ; er ; t ; m ; iy ; <eps> ; er ; s
+================================================================================
+MJDH0_SX274.WAV, %WER 38.46 [ 10 / 26, 0 ins, 3 del, 7 sub ]
+k  ;   l   ;   ix  ; f ; w ; ix ; s ; uw ; dh ; b ; ay ; dh ; ax ; l ; ix ; zh ; er ; r ; iy ;   ix  ; s ; m ; ix ; s ; ao ; zh
+S  ;   D   ;   D   ; = ; = ; =  ; = ; =  ; S  ; = ; S  ; S  ; =  ; = ; =  ; S  ; S  ; = ; =  ;   D   ; = ; = ; =  ; S ; =  ; = 
+ax ; <eps> ; <eps> ; f ; w ; ix ; s ; uw ; th ; b ; ax ; v  ; ax ; l ; ix ; ch ; y  ; r ; iy ; <eps> ; s ; m ; ix ; f ; ao ; zh
+================================================================================
+MJDH0_SI1984.WAV, %WER 54.55 [ 6 / 11, 1 ins, 0 del, 5 sub ]
+eh ; n ; w ; ax ; dx ; ay ; z ; dh ; ey ; <eps> ; w ; er
+S  ; = ; = ; S  ; =  ; =  ; S ; S  ; S  ;   I   ; = ; = 
+ix ; n ; w ; ix ; dx ; ay ; s ; t  ; ix ;   er  ; w ; er

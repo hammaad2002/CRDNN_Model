@@ -1,0 +1,99 @@
+# Generated 2023-01-15 from:
+# /content/CRDNN_Model/hyperparams.yaml
+# yamllint disable
+# Seed needs to be set at top of yaml, before objects with parameters are made
+# NOTE: Seed does not guarantee replicability with CTC
+seed: 1234
+__set_seed: !apply:torch.manual_seed [1234]
+
+# Training params
+N_epochs: 15
+lr: 0.002
+dataloader_options:
+  batch_size: 1
+
+# Special tokens and labels
+blank_index: 0
+num_labels: 40
+
+data_folder: /content/Timit/TIMITDATA
+json_train: /content/CRDNN_Model/train.json
+json_dev: /content/CRDNN_Model/valid.json
+json_test: /content/CRDNN_Model/test.json
+output_folder: /content/CRDNN_Model/result
+per_file: /content/CRDNN_Model/result/per.txt
+save_folder: /content/CRDNN_Model/result/save
+train_log: /content/CRDNN_Model/result/train_log.txt
+
+# The first object passed to the Brain class is this "Epoch Counter"
+# which is saved by the Checkpointer so that training can be resumed
+# if it gets interrupted at any point.
+epoch_counter: &id006 !new:speechbrain.utils.epoch_loop.EpochCounter
+  limit: 15
+
+# The train logger writes training statistics to a file, as well as stdout.
+train_logger: !new:speechbrain.utils.train_logger.FileTrainLogger
+  save_file: /content/CRDNN_Model/result/train_log.txt
+
+# Model parameters
+activation: &id001 !name:torch.nn.LeakyReLU []
+dropout: 0.15
+cnn_blocks: 1
+cnn_channels: (16,)
+cnn_kernelsize: (3, 3)
+rnn_layers: 1
+rnn_neurons: 128
+rnn_bidirectional: true
+dnn_blocks: 1
+dnn_neurons: 128
+
+compute_features: &id002 !new:speechbrain.lobes.features.MFCC
+
+mean_var_norm: &id005 !new:speechbrain.processing.features.InputNormalization
+
+  norm_type: global
+
+model: &id003 !new:speechbrain.lobes.models.CRDNN.CRDNN
+  input_shape: [null, null, 660]
+  activation: *id001
+  dropout: 0.15
+  cnn_blocks: 1
+  cnn_channels: (16,)
+  cnn_kernelsize: (3, 3)
+  time_pooling: true
+  rnn_layers: 1
+  rnn_neurons: 128
+  rnn_bidirectional: true
+  dnn_blocks: 1
+  dnn_neurons: 128
+
+lin: &id004 !new:speechbrain.nnet.linear.Linear
+  input_size: 128
+  n_neurons: 40
+  bias: false
+
+softmax: !new:speechbrain.nnet.activations.Softmax
+  apply_log: true
+
+compute_cost: !name:speechbrain.nnet.losses.ctc_loss
+  blank_index: 0
+
+decoder: !name:speechbrain.decoders.ctc_greedy_decode
+
+modules:
+  compute_features: *id002
+  model: *id003
+  lin: *id004
+  mean_var_norm: *id005
+opt_class: !name:torch.optim.Adam
+  lr: 0.002
+
+per_stats: !name:speechbrain.utils.metric_stats.ErrorRateStats
+
+checkpointer: !new:speechbrain.utils.checkpoints.Checkpointer
+  checkpoints_dir: /content/CRDNN_Model/result/save
+  recoverables:
+    model: *id003
+    mean_var_norm: *id005
+    lin: *id004
+    counter: *id006
